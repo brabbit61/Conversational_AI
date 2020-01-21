@@ -1,0 +1,41 @@
+User 1: how do you know which ones are free variables and how do you set their values
+User 2: see the last non zero row u take in echeleon form right, every variable that is left there, can be taken as free variable. cos this gives u free values which scales the whole range
+User 1: why did they take it y s t
+User 2: if the last equation in echelin for had three variables, u take z n y as free variables as t1 n t2 n write the first variable as combination of these two in the equation n find it's value interns if t1 and t2.
+User 1: okay okay and what about the random values that they have taken
+User 2: it is a number which can span the whole space of numbers
+User 1: yes that's basis but how did they assume
+User 2: u don't have to define , it means it can be any number in the space
+User 1: accha so what should the last step be? this should be the last step ticket right
+User 2: like if a variable is a free variable, it necessarily means it belongs to r and all numbers that the given equations derive can be expressed as a linear combination of these free variables last step is when u transfer the free variables to the first equation cos the first eqn has highest number of variables in echeleon form no
+User 1: yes and range of t is image of t right
+User 2: nhi nhi. no relation with that. it basically means it takes all value without restriction
+User 1: thanks man they don't give extra time to cripples also shish our paper was way easier than yours
+User 2:  damn. compensated. cripple
+User 1: bro how much did you get in math?!
+User 2: 16.5
+User 1: man he is fucking everyone and total?
+User 2: thirty-three fckd i think he's evaluated assignments out of four how much did u gey
+User 1: 26 just ask him to review it agaon pm the guy who wrote the text on group
+User 2: yeah i did but i think he's corrected it pretty seriously u r more fckd at least we got mtech people who score low i guess cut off will be lower
+User 1: do you know anyone more than forty counting on it man
+User 2: i guess manav manoj and siddharth got above 40. i'll ask though most people lost marks at sessional level only
+User 1: i got 11.5 in assignments bro 
+User 2: did u miss any?
+User 1: ya man
+User 2: math oe was a disaster lol
+User 1: reason i took software testing 
+User 2: dude, no
+User 1: did you take the neural nets one
+User 2: yeah soft computing i like soft computing. but i used to like linear algebra also
+User 1: i like marks so i'll try to stick to that.
+User 2: hard realisation. takes time to kick in i m fckd for one more year lol
+User 1: will need improve my cgpa after this five month disaster
+User 2: yeah. honeymoon semester for u people say it's easier to score in 7th though
+User 1: bro i'll do eom and shit in the vacations itself sahil mode on af
+User 2: sahil class sunta hai. ho payega? 
+User 1: atleast 16 classes. and ill do at least one lab without him should be enough for a 10
+User 2: there is only one lab that too web technologoes chill that's the amount of optimism i need in life atm
+User 1: bro do you have notes for single value decomposition thank bro
+User 2:  bro the question paper on the table is mine could u keep it with urself so ma'am doesn't take it away with her
+User 1: bro i gave all the papers back

@@ -1,0 +1,289 @@
+﻿10/30/18, 3:09 PM - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+10/30/18, 3:09 PM - Jenit Jain: <Media omitted>
+10/30/18, 11:07 PM - Jenit Jain: <Media omitted>
+10/30/18, 11:07 PM - Jenit Jain: Can we ping from any pc to x.com or only from the other router
+10/30/18, 11:15 PM - Vishwa Cs: If you want a PC to use the DNS server you have to use a special command
+10/30/18, 11:15 PM - Vishwa Cs: From the PC type 
+ip dns (address of dns server)
+10/30/18, 11:16 PM - Vishwa Cs: And set up routing tables between routers
+10/30/18, 11:18 PM - Jenit Jain: Can you just do ip route 10.0.0.0 255.0.0.0 20.0.0.2 in router 1
+10/30/18, 11:19 PM - Vishwa Cs: Wait im trying this question. I'll tell you if I get it
+10/30/18, 11:20 PM - Jenit Jain: Thanks
+10/30/18, 11:25 PM - Vishwa Cs: Okay so
+10/30/18, 11:25 PM - Vishwa Cs: In R2 im doing 
+ip host x.com 30.0.0.2
+10/30/18, 11:25 PM - Vishwa Cs: Now from that I set up routing tables in R1 and R2
+10/30/18, 11:26 PM - Vishwa Cs: R2 is 
+10.0.0.0 255.0.0.0 20.0.0.1
+10/30/18, 11:26 PM - Vishwa Cs: And R1 is 
+30.0.0.0 255.0.0.0 20.0.0.2
+10/30/18, 11:26 PM - Vishwa Cs: And then set up dns normallt
+10/30/18, 11:28 PM - Jenit Jain: Yeah this is was asking
+10/30/18, 11:28 PM - Jenit Jain: Thanks
+10/30/18, 11:28 PM - Vishwa Cs: Then in PC1 type 
+ip dns 20.0.0.2 
+ping x.com
+10/30/18, 11:28 PM - Vishwa Cs: It'll work after that
+10/30/18, 11:30 PM - Jenit Jain: What's the first command
+10/30/18, 11:31 PM - Vishwa Cs: It's a command to let the PC know that the DNS Server is 20.0.0.1
+10/30/18, 11:31 PM - Vishwa Cs: Otherwise the ping command won't work
+10/30/18, 11:31 PM - Vishwa Cs: You'll get "cannot resolve x.com"
+10/30/18, 11:31 PM - Jenit Jain: First we do ip 10.0.0.2 255.0.0.0 10.0.0.1 right
+10/30/18, 11:31 PM - Jenit Jain: 1 or 2
+10/30/18, 11:32 PM - Vishwa Cs: PC1
+10/30/18, 11:32 PM - Vishwa Cs: I've basically made x.com = PC2
+10/30/18, 11:32 PM - Jenit Jain: No 20.0.0.1 or 20.0.0.2
+10/30/18, 11:32 PM - Vishwa Cs: So you're trying to ping pc2 via x.com
+10/30/18, 11:32 PM - Vishwa Cs: Oh sorry
+10/30/18, 11:32 PM - Vishwa Cs: 29.0.0.2
+10/30/18, 11:32 PM - Vishwa Cs: 20.0.0.2*
+10/30/18, 11:33 PM - Jenit Jain: .
+10/30/18, 11:33 PM - Vishwa Cs: What is this command?
+10/30/18, 11:33 PM - Jenit Jain: To set the IP of the computer
+10/30/18, 11:34 PM - Vishwa Cs: PC1
+ip 10.0.0.2/8 10.0.0.1
+10/30/18, 11:34 PM - Jenit Jain: Yep
+10/30/18, 11:34 PM - Vishwa Cs: Yeah correct what you said
+10/30/18, 11:34 PM - Jenit Jain: Cool thanks
+10/31/18, 10:29 AM - Jenit Jain: How do you connect one router to 2 routers such that both can be used for dns query
+10/31/18, 10:36 AM - Vishwa Cs: I'll try that now
+10/31/18, 10:37 AM - Vishwa Cs: So basically two DNS servers and one client?
+10/31/18, 10:38 AM - Jenit Jain: Yes
+10/31/18, 10:47 AM - Vishwa Cs: Yeah so
+10/31/18, 10:47 AM - Vishwa Cs: One router has two fast ethernets
+10/31/18, 10:47 AM - Vishwa Cs: Each connected to a DNS server
+10/31/18, 10:47 AM - Vishwa Cs: Then set up DNS servers normally
+10/31/18, 10:47 AM - Vishwa Cs: And in the client just add two name-servers
+10/31/18, 10:48 AM - Vishwa Cs: <Media omitted>
+10/31/18, 10:52 AM - Jenit Jain: After this do we do the IP route command for both the don't servers or whag
+10/31/18, 10:53 AM - Vishwa Cs: No need for route
+10/31/18, 10:53 AM - Vishwa Cs: Suppose x.com is on router 1 and y.com is on router 2
+10/31/18, 10:53 AM - Vishwa Cs: If you ping y.com on the client router it'll try resolving y.com on both servers
+10/31/18, 10:53 AM - Vishwa Cs: And whichever replies with the IP it'll ping to that router.
+10/31/18, 10:58 AM - Jenit Jain: And if there are pcs the IP dns followed by 2 ips right
+10/31/18, 10:58 AM - Vishwa Cs: If there are PCs then you'll need to use ip route
+10/31/18, 10:59 AM - Vishwa Cs: If you're pinging from a PC to a PC using a DNS server then you'll need to use ip dns (address of server)
+10/31/18, 10:59 AM - Vishwa Cs: From the PC you're pinging from
+10/31/18, 11:00 AM - Jenit Jain: In all the 3 router right
+10/31/18, 11:00 AM - Jenit Jain: We'll have to put 2 addresses right
+10/31/18, 11:02 AM - Vishwa Cs: Yeah
+10/31/18, 11:02 AM - Vishwa Cs: Yeah type the command twice in total
+10/31/18, 11:05 AM - Jenit Jain: <Media omitted>
+10/31/18, 11:11 AM - Vishwa Cs: Check your.interfaces
+10/31/18, 11:11 AM - Vishwa Cs: If they're all up
+10/31/18, 11:11 AM - Vishwa Cs: Type "show int" and see if anything it down
+10/31/18, 11:11 AM - Vishwa Cs: That happened to me earlier. I forgot to do "no shut" for one of the f0 connections
+10/31/18, 11:23 AM - Jenit Jain: What can be the error when icmp ttl expired error is generated
+10/31/18, 11:31 AM - Vishwa Cs: Either your routing table is I'm correct or it cannot react destination
+10/31/18, 11:32 AM - Vishwa Cs: Which means ip route isn't set
+10/31/18, 11:33 AM - Vishwa Cs: Isn't**
+10/31/18, 12:03 PM - Jenit Jain: Yo can you come early
+10/31/18, 12:03 PM - Jenit Jain: I'll ask you few doubts and it'll help you clear up
+10/31/18, 12:15 PM - Vishwa Cs: What time?
+10/31/18, 12:17 PM - Jenit Jain: By 1245?
+10/31/18, 12:19 PM - Vishwa Cs: Too early dude. Need to eat lunch and come. I can come 1:15 ish
+10/31/18, 12:21 PM - Jenit Jain: Won't have enough time before exam then
+11/8/18, 3:28 PM - Vishwa Cs: Dude do you have your disk scheduling code from OS lab?
+11/8/18, 4:24 PM - Jenit Jain: Tell me all the codes you need
+11/8/18, 4:24 PM - Jenit Jain: I'll send tbem
+11/8/18, 4:25 PM - Vishwa Cs: Just disk scheduling
+11/8/18, 4:33 PM - Jenit Jain: Cool
+11/8/18, 6:18 PM - Jenit Jain: <Media omitted>
+11/8/18, 6:18 PM - Jenit Jain: <Media omitted>
+11/8/18, 6:18 PM - Jenit Jain: <Media omitted>
+11/8/18, 7:25 PM - Vishwa Cs: Thanks
+11/9/18, 8:37 AM - Jenit Jain: Let me know when I can call for 5 mins thanks
+11/9/18, 9:46 AM - Vishwa Cs: Call whenever
+11/21/18, 9:10 AM - Jenit Jain: <Media omitted>
+11/21/18, 9:10 AM - Jenit Jain: <Media omitted>
+11/21/18, 9:10 AM - Jenit Jain: All the sequence numbers are correct only rightn
+11/21/18, 9:10 AM - Vishwa Cs: I dont think they are in the second diagra m
+11/21/18, 9:10 AM - Vishwa Cs: ACK doesn't consume a sequence number if there's no data
+11/21/18, 9:11 AM - Vishwa Cs: But SYN and SYN+ACK consume one sequence number
+11/21/18, 9:12 AM - Vishwa Cs: I guess when you're writing it, mention that ACK doesn't consume a sequence number if no data is present and then base your diagram off of that
+11/21/18, 9:12 AM - Jenit Jain: So it should be 8000 in the ack?
+11/21/18, 9:13 AM - Jenit Jain: Does this have to be x in the last ack
+11/21/18, 9:14 AM - Vishwa Cs: I think it's correct in this one.
+11/21/18, 9:15 AM - Jenit Jain: Cool thankss
+11/21/18, 9:15 AM - Vishwa Cs: Wait
+11/21/18, 9:15 AM - Vishwa Cs: Seq no. should be x in the last one
+11/21/18, 9:15 AM - Vishwa Cs: But ACK is correct
+11/21/18, 9:45 AM - Jenit Jain: And the first data also uses 8001
+11/21/18, 9:45 AM - Jenit Jain: 8000 is incremented because the ack uses the 8001
+11/21/18, 9:45 AM - Jenit Jain: X is not incremented because there will be no segment that can use x as a seq number as the connection is being terminated
+11/21/18, 9:45 AM - Jenit Jain: So no sense making it x+1
+11/21/18, 9:45 AM - Jenit Jain: This is what sir said
+11/21/18, 9:46 AM - Vishwa Cs: You're assuming this segment carries data right?
+11/21/18, 9:47 AM - Vishwa Cs: Otherwise if you mention that the ACK doesn't carry any data then it'll be 8000 only
+11/21/18, 9:47 AM - Vishwa Cs: I remember losing marks in this for first sessional that's why I think it's 8000
+11/21/18, 9:48 AM - Jenit Jain: I just spoke to sir
+11/21/18, 9:48 AM - Jenit Jain: Basically he said that since we know that 8001 will be used by the first data seg, it will also be used for the last ack in the connection establishment phase
+11/21/18, 9:50 AM - Vishwa Cs: Again, this is an assumption. You're assuming the last ACK will carry data and if that's the case then the sequence number is 8001. Otherwise if its ONLY and ACK being sent then the sequence number is 8000.
+11/21/18, 9:50 AM - Vishwa Cs: I did this in first sessionals and he cut marks
+11/21/18, 9:53 AM - Vishwa Cs: This diagram is correct
+11/21/18, 9:54 AM - Jenit Jain: I don't know man. Sir just said that ack will be 8001 no matter what so I'm gonna go with that. And other sections also have been taught the same thing
+11/21/18, 9:57 AM - Vishwa Cs: Yeah that's correct. ACK is 8001. The data after that will have seq 8001 also because ACK doesn't carry any data. If ACK carries data then the next data sent after ACK will have 8002
+11/21/18, 10:00 AM - Jenit Jain: Yes
+11/21/18, 10:01 AM - Vishwa Cs: Also is y-1 correct in the other diagram?
+11/21/18, 10:02 AM - Jenit Jain: Yeah that's fien
+11/21/18, 10:03 AM - Vishwa Cs: How is Sequence number going backwards?
+11/21/18, 10:07 AM - Jenit Jain: The next bit expected is y but since there is no data, previous seq number can be used
+11/28/18, 8:00 AM - Jenit Jain: Bro can you explain scheduler activation
+11/28/18, 8:00 AM - Jenit Jain: The light weight process wala part
+11/28/18, 9:46 AM - Vishwa Cs: Still need to read that subpart
+11/28/18, 9:55 AM - Jenit Jain: Please let me know
+11/28/18, 10:01 AM - Vishwa Cs: Okay so basically just write that everytime the kernel wants to communicate to the user thread it uses an upcall
+11/28/18, 10:01 AM - Vishwa Cs: And an upcall can pass through an LWP, which is present in between the kernel thread and user thread
+11/28/18, 10:01 AM - Vishwa Cs: That's all I'm learning
+11/28/18, 10:17 AM - Jenit Jain: Lol
+11/28/18, 10:17 AM - Jenit Jain: Okayy
+11/28/18, 10:17 AM - Jenit Jain: Thanks
+11/28/18, 10:19 AM - Vishwa Cs: Fuck this subject. Too much is there
+11/28/18, 10:19 AM - Vishwa Cs: What all have you done from the Linux chapter?
+11/28/18, 10:29 AM - Jenit Jain: What is 😂😂
+11/28/18, 10:29 AM - Jenit Jain: Fuck 10 and 21
+11/28/18, 10:29 AM - Vishwa Cs: 21.2 to 21.6 lol
+11/28/18, 10:29 AM - Vishwa Cs: gg
+12/8/18, 11:33 AM - Jenit Jain: How'd it go fam
+12/8/18, 1:14 PM - Vishwa Cs: Can't even log in to SLCM so that's great
+12/8/18, 1:16 PM - Vishwa Cs: You got to see yours already?
+12/8/18, 1:40 PM - Jenit Jain: Yep, but just hoping it improves after 2 pm 😂
+12/8/18, 1:51 PM - Vishwa Cs: Got lucky?
+12/8/18, 1:52 PM - Jenit Jain: You think?
+12/8/18, 1:52 PM - Jenit Jain: Stuck on 8.73 for this sem
+12/8/18, 1:52 PM - Vishwa Cs: That's decent only lol
+12/8/18, 1:52 PM - Jenit Jain: OS fucking A
+12/8/18, 1:52 PM - Jenit Jain: Rest is fine
+12/8/18, 1:52 PM - Jenit Jain: I think sahil missed 10 because of ios 😂
+12/8/18, 1:52 PM - Jenit Jain: How was yours?
+12/8/18, 1:55 PM - Vishwa Cs: 8.2
+12/8/18, 1:55 PM - Vishwa Cs: Somehow got a B in CN lab??
+12/8/18, 1:55 PM - Vishwa Cs: My internals were 50/6
+12/8/18, 1:55 PM - Vishwa Cs: 60
+12/8/18, 1:56 PM - Vishwa Cs: And I got full in the lab exam
+12/8/18, 1:56 PM - Vishwa Cs: So that's 90/100 wtf
+12/8/18, 1:57 PM - Jenit Jain: The OS guy wrote 90% on my end sem marksheet in front of me and still didnt get A* 😂 with 56 internals
+12/8/18, 1:57 PM - Vishwa Cs: Wtf
+1/17/19, 11:00 AM - Vishwa Cs: https://github.com/junhyukoh/deep-reinforcement-learning-papers
+1/17/19, 11:00 AM - Vishwa Cs: https://arxiv.org/pdf/1505.04771v1.pdf
+1/17/19, 1:38 PM - Jenit Jain: I like this one
+1/17/19, 1:38 PM - Jenit Jain: I'm up for it
+2/10/19, 11:15 AM - Jenit Jain: Dude I'm in for the neural networks paper
+2/10/19, 11:15 AM - Jenit Jain: Let's start after sessionals?
+2/10/19, 11:33 AM - Vishwa Cs: Yeah we'll start after sessional properly.
+2/10/19, 11:33 AM - Vishwa Cs: We'll need to discuss a proper timeline and follow it
+2/10/19, 11:34 AM - Jenit Jain: ++
+3/1/19, 2:05 PM - Jenit Jain: <Media omitted>
+3/1/19, 2:05 PM - Jenit Jain: <Media omitted>
+3/18/19, 1:54 PM - Jenit Jain: <Media omitted>
+3/18/19, 1:54 PM - Jenit Jain: <Media omitted>
+3/18/19, 1:54 PM - Jenit Jain: <Media omitted>
+3/18/19, 1:54 PM - Jenit Jain: <Media omitted>
+3/18/19, 1:54 PM - Jenit Jain: <Media omitted>
+3/18/19, 1:54 PM - Jenit Jain: <Media omitted>
+3/18/19, 1:54 PM - Jenit Jain: <Media omitted>
+3/26/19, 11:08 AM - Jenit Jain: https://m.facebook.com/story.php?story_fbid=2284316011784631&id=1437633996452841
+Me with the new ML teacher
+3/26/19, 11:10 AM - Vishwa Cs: Lmao you see that ML paper. 2 minutes of studying is enough
+3/26/19, 11:12 AM - Jenit Jain: I saw
+3/26/19, 11:12 AM - Jenit Jain: F
+3/26/19, 11:13 AM - Jenit Jain: Can you send the ai paper tho
+3/26/19, 11:15 AM - Vishwa Cs: <Media omitted>
+3/26/19, 11:15 AM - Vishwa Cs: <Media omitted>
+3/26/19, 11:30 AM - Jenit Jain: ✌🏻
+3/30/19, 4:09 PM - Jenit Jain: Dude is Bayesian theory Linear or non Linear
+3/30/19, 4:09 PM - Jenit Jain: And in it the number of training instances per class changes the output na
+3/30/19, 4:09 PM - Jenit Jain: What is this called?
+3/30/19, 4:09 PM - Jenit Jain: Local something na
+3/30/19, 4:09 PM - Jenit Jain: Like some technical word
+3/30/19, 4:10 PM - Jenit Jain: Is it called class likelihood
+3/30/19, 5:23 PM - Vishwa Cs: What we've done so far is linear only no?
+3/30/19, 5:23 PM - Vishwa Cs: No idea what you're taking about
+3/30/19, 5:24 PM - Vishwa Cs: Local models is there. That's chapter 12
+3/30/19, 5:24 PM - Vishwa Cs: Class likelihood is P(C|x)
+3/30/19, 5:24 PM - Jenit Jain: I guess this only
+3/30/19, 5:25 PM - Jenit Jain: How is polynomial Linear
+3/30/19, 5:25 PM - Jenit Jain: Or knn linear
+3/30/19, 5:26 PM - Vishwa Cs: Polynomials where do we get in Bayesian theory?
+3/30/19, 5:27 PM - Jenit Jain: No I'm saying we have done algorithms that are not linear
+3/30/19, 5:27 PM - Vishwa Cs: Yeah we have. But I think Bayesian theory is linear only
+3/30/19, 5:27 PM - Vishwa Cs: We have done non linear classifiers and stuff but not much
+3/30/19, 5:28 PM - Vishwa Cs: Like we had a question in sessional 2 how do you classify two classes where C1 is [2,4] and C2 is everything else. This can only be done by a non linear classifiers
+3/30/19, 5:31 PM - Jenit Jain: Makes sense
+3/30/19, 5:31 PM - Jenit Jain: Please confirm na
+3/30/19, 5:32 PM - Jenit Jain: I tried to find in the text but couldn't
+3/30/19, 5:54 PM - Vishwa Cs: I can't find anything that says so
+3/31/19, 6:47 AM - Jenit Jain: All existing birds can fly except 2
+3/31/19, 6:47 AM - Jenit Jain: For all a bird(a) and fly (a) and (there exists x,y bird (x) and not fly (x) and bird (y) and not fly (y) and (x not equal to y)
+3/31/19, 6:47 AM - Jenit Jain: Right?
+3/31/19, 10:11 AM - Vishwa Cs: Yeah that's what I did in my paper. Idk if I got it right or not. Didn't see my paper yet
+3/31/19, 10:11 AM - Jenit Jain: How much did you get thoq
+3/31/19, 10:11 AM - Vishwa Cs: 11
+4/1/19, 4:46 PM - Vishwa Cs: # Type a grammar here:
+
+S -> a A B . 
+S -> c c S.
+S -> a B b.
+A -> a A .
+A -> a .
+B -> c d .
+B -> B c .
+B -> .
+4/1/19, 4:46 PM - Vishwa Cs: http://mdaines.github.io/grammophone/#/
+4/2/19, 5:16 PM - Jenit Jain: Bro did you get the op
+4/2/19, 10:38 PM - Vishwa Cs: Yeah I did
+4/2/19, 10:38 PM - Vishwa Cs: Sorry for the late reply
+4/2/19, 10:38 PM - Jenit Jain: Bt
+4/2/19, 10:38 PM - Jenit Jain: I fucked up a small part
+4/2/19, 10:39 PM - Jenit Jain: Was the other Cuda question hard
+4/2/19, 10:42 PM - Vishwa Cs: Arey
+4/2/19, 10:42 PM - Vishwa Cs: Idk the other question
+4/10/19, 12:29 PM - Jenit Jain: Bro
+4/10/19, 12:30 PM - Jenit Jain: In proof by refutation you basically just do kb ^ ~a and then at the end prove a, then say a^~a is false hence proved
+4/10/19, 12:30 PM - Jenit Jain: Right?
+4/10/19, 12:30 PM - Jenit Jain: And what do you do in proof by resolution?
+4/10/19, 12:30 PM - Jenit Jain: Just apply the resolution formula?
+4/10/19, 12:56 PM - Vishwa Cs: Idk about this
+4/10/19, 12:57 PM - Vishwa Cs: Proof by resolution is basically cancelling out terms like A and ~A until you get something that is always true
+4/10/19, 12:59 PM - Jenit Jain: Using the resolution formula only na
+4/10/19, 12:59 PM - Vishwa Cs: Yeah the one in the book
+4/11/19, 10:32 PM - Jenit Jain: bro how do you get the tokens without using spaces in the IP code
+4/11/19, 10:32 PM - Jenit Jain: or are you going to do those small scams we did
+4/11/19, 10:37 PM - Vishwa Cs: I'm using space separated input for RDP
+4/11/19, 10:37 PM - Vishwa Cs: For symbol table I'm doing it normally only
+4/11/19, 10:38 PM - Jenit Jain: which is?
+4/11/19, 10:41 PM - Vishwa Cs: Like from a file
+4/11/19, 10:41 PM - Vishwa Cs: Remove preprocessor
+4/11/19, 10:41 PM - Vishwa Cs: Comments
+4/11/19, 10:41 PM - Vishwa Cs: Then parse
+4/11/19, 10:43 PM - Jenit Jain: Okay thanks
+4/20/19, 4:40 PM - Jenit Jain: Bro can you send me pvm notes from the 4th textbook
+4/20/19, 4:45 PM - Vishwa Cs: <Media omitted>
+4/20/19, 4:48 PM - Jenit Jain: thanks
+4/29/19, 3:51 PM - Jenit Jain: bro are you doing the 12th chapter properly
+4/29/19, 3:51 PM - Jenit Jain: it is so random
+4/29/19, 5:37 PM - Vishwa Cs: I'll study it from the book
+4/29/19, 5:46 PM - Jenit Jain: cool
+4/30/19, 12:46 PM - Jenit Jain: bro in the joint probability part, we always use the vector form right?
+4/30/19, 12:47 PM - Vishwa Cs: Sure? Idk
+4/30/19, 12:47 PM - Jenit Jain: one for the positive part and the other for the negated part
+4/30/19, 12:47 PM - Jenit Jain: asking.
+4/30/19, 12:47 PM - Vishwa Cs: I'm not studying that shit lol
+4/30/19, 12:47 PM - Jenit Jain: did you do chapter 12 properly
+4/30/19, 12:48 PM - Vishwa Cs: Nope
+4/30/19, 12:48 PM - Vishwa Cs: Just did 12.1
+4/30/19, 12:48 PM - Jenit Jain: we should have started on Sunday 🙄
+4/30/19, 12:49 PM - Vishwa Cs: Meh you can bs AI anyways
+5/3/19, 4:49 PM - Jenit Jain: Hum or wind
+5/3/19, 4:58 PM - Vishwa Cs: Humidity
+5/3/19, 5:12 PM - Jenit Jain: Yasss
+8/8/19, 7:23 PM - Vishwa Cs: Yo my man any word yet?
+8/8/19, 8:19 PM - Jenit Jain: Abhishek Singh.vcf (file attached)
+8/8/19, 8:19 PM - Jenit Jain: Give shringi's contact to him
+8/8/19, 8:19 PM - Jenit Jain: And he takes cash only
+8/8/19, 8:19 PM - Jenit Jain: Just talk to him
+8/8/19, 8:22 PM - Vishwa Cs: Peace bro. Thanks.
+8/8/19, 8:38 PM - Jenit Jain: 8296539925 call him after 30 mins if that guy doesn't answer
+8/8/19, 8:40 PM - Vishwa Cs: Yeah that dude sent the same number also
+8/8/19, 8:40 PM - Vishwa Cs: Thanks bro
+8/8/19, 8:42 PM - Jenit Jain: Lol gg

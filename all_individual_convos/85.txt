@@ -1,0 +1,217 @@
+26/10/2019, 21:46 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+26/10/2019, 20:04 - Sahil Garg changed their phone number. You're currently chatting with their new number. Tap to add it to your contacts.
+27/10/2019, 09:21 - Sahil Garg: Hey man did you start with something?
+27/10/2019, 09:31 - Jenit Jain: No bro 🙈
+27/10/2019, 09:32 - Jenit Jain: We need the schema before anything
+27/10/2019, 09:32 - Jenit Jain: Otherwise how will we design a login
+27/10/2019, 09:34 - Sahil Garg: Just have a login with email and password
+27/10/2019, 09:35 - Sahil Garg: And signup with name,email, password, address and phone number
+27/10/2019, 09:36 - Jenit Jain: cool.
+27/10/2019, 09:37 - Sahil Garg: And you can make a master page with the UI
+27/10/2019, 09:37 - Jenit Jain: and after the login, you have to sign up
+27/10/2019, 09:37 - Jenit Jain: sign in
+27/10/2019, 09:37 - Sahil Garg: Top bottom design
+27/10/2019, 09:37 - Jenit Jain: yep i'll do this too
+27/10/2019, 09:37 - Sahil Garg: This is sign up page
+27/10/2019, 09:37 - Sahil Garg: This is sign in page
+27/10/2019, 09:37 - Jenit Jain: no both together in different panels
+27/10/2019, 09:37 - Sahil Garg: Yes and I'll tell you the db by evening so you can do UI and I'll do bsckend
+27/10/2019, 09:37 - Sahil Garg: Today fever is 101
+27/10/2019, 09:38 - Sahil Garg: Anyhow your wish
+27/10/2019, 09:38 - Jenit Jain: backend includes the DB part right?
+27/10/2019, 09:38 - Sahil Garg: Yes db and showing records, editing and all
+27/10/2019, 09:38 - Jenit Jain: okay then you only handle
+27/10/2019, 09:39 - Sahil Garg: For login,there needs to be separate login for admin I think
+27/10/2019, 09:39 - Jenit Jain: and then the login option leads to which page?
+27/10/2019, 09:39 - Sahil Garg: You can see the doc sent by maam
+27/10/2019, 09:39 - Jenit Jain: like what all should the page display?
+27/10/2019, 09:39 - Sahil Garg: Home page, shows table of all the buses
+27/10/2019, 09:39 - Sahil Garg: And maybe search for bus textbox in top
+27/10/2019, 09:39 - Jenit Jain: we can have the link the top corner or something and then that leads to another content page
+27/10/2019, 09:40 - Jenit Jain: i think at the top should be calender tags
+27/10/2019, 09:40 - Jenit Jain: the user can select dates
+27/10/2019, 09:40 - Jenit Jain: and we have to query it like that
+27/10/2019, 09:41 - Jenit Jain: and then display those records dynamically in gridview
+27/10/2019, 09:41 - Jenit Jain: i'll desgin a good gridview and all
+27/10/2019, 09:41 - Sahil Garg: That's fine
+27/10/2019, 09:41 - Jenit Jain: proper ui
+27/10/2019, 09:42 - Sahil Garg: Yes the data access code I'll write no problem
+27/10/2019, 09:42 - Jenit Jain: what does the content page login in let you see
+27/10/2019, 09:42 - Sahil Garg: Check github if you can find some shopping site already
+27/10/2019, 09:42 - Sahil Garg: For admin?
+27/10/2019, 09:42 - Jenit Jain: yes
+28/10/2019, 15:32 - Jenit Jain: Sup bro
+28/10/2019, 15:42 - Sahil Garg: Hey man when can you come
+28/10/2019, 16:01 - Jenit Jain: Bro ummm they delayed the timing to 5:30. I'll be done by 6:30ish
+28/10/2019, 16:01 - Sahil Garg: Ok
+28/10/2019, 16:01 - Sahil Garg: what have you done yet?
+28/10/2019, 16:02 - Sahil Garg: and where should I do from/start/work on?
+28/10/2019, 16:02 - Jenit Jain: Nothing 🙈. Just thought about the layout and the like few pages.
+28/10/2019, 16:03 - Jenit Jain: Don't know bro. I think we have to start together only after deciding all the pages
+28/10/2019, 16:03 - Sahil Garg: okay then try to come asap after interview bro so we can do something today
+28/10/2019, 16:04 - Sahil Garg: which interview is this bro?
+28/10/2019, 16:07 - Jenit Jain: For next sem internship. Some company on Japan
+28/10/2019, 16:07 - Jenit Jain: Done
+28/10/2019, 16:25 - Sahil Garg: peace
+28/10/2019, 18:06 - Jenit Jain: Bro what's your room
+28/10/2019, 18:18 - Jenit Jain: Kushagra isn't here bro. I'm waiting here only come
+28/10/2019, 18:34 - Sahil Garg: I'm here so sorry bro
+28/10/2019, 18:34 - Sahil Garg: 2 mins
+28/10/2019, 22:58 - Sahil Garg: Did you start bro? :p
+28/10/2019, 23:39 - Jenit Jain: Yep :p
+28/10/2019, 23:42 - Sahil Garg: Peace
+29/10/2019, 11:25 - Sahil Garg: How's it going beon
+29/10/2019, 11:25 - Sahil Garg: Bro
+29/10/2019, 11:35 - Jenit Jain: Hey
+29/10/2019, 11:35 - Jenit Jain: Only the admin part is left
+29/10/2019, 11:36 - Jenit Jain: And for the gridvirws, i did everything I could but since there is no db I can't test it. So you please do that part.
+29/10/2019, 11:36 - Jenit Jain: Otherwise I think it's coming together well
+29/10/2019, 11:38 - Sahil Garg: Yes but did you add the UI colours and look and all?
+29/10/2019, 11:38 - Sahil Garg: That's nice
+29/10/2019, 11:43 - Jenit Jain: Yep yep
+29/10/2019, 11:43 - Jenit Jain: Everything
+29/10/2019, 11:43 - Sahil Garg: That's chill then, send it off once you think it's done, I'll do backend in the day today and evening or tomorrow morning we can join anything if needed and finish report
+29/10/2019, 12:56 - Jenit Jain: Yeah so I haven't donr 2 things
+29/10/2019, 12:57 - Jenit Jain: So fir the gridviews, the size of the layout is not proper that you'll have to check after excuting the quety
+29/10/2019, 12:57 - Jenit Jain: And second, I have done validation yet. That I'll add now. Except this everything is done
+29/10/2019, 12:59 - Sahil Garg: Got it after you finish validation send it to me
+29/10/2019, 12:59 - Sahil Garg: I'll do this
+29/10/2019, 13:00 - Jenit Jain: Cool bro. I'll send it after my assignments sap
+29/10/2019, 13:00 - Jenit Jain: Asap
+29/10/2019, 13:06 - Sahil Garg: Cool
+29/10/2019, 15:49 - Sahil Garg: Hey bro by when will you be done?
+29/10/2019, 15:58 - Jenit Jain: Almost done bro
+29/10/2019, 16:00 - Sahil Garg: Peace
+29/10/2019, 16:22 - Jenit Jain: https://drive.google.com/open?id=142c4cv_hrjZvyczOv9PSH1cny86p1mRo
+29/10/2019, 16:26 - Jenit Jain: Thoda text ka alignment issue is there but please just go through the entire code so you know what's up
+29/10/2019, 16:44 - Sahil Garg: cool text alignment in what sense bro?
+29/10/2019, 16:50 - Jenit Jain: Like label is not aligned with the textbook vertically :p
+29/10/2019, 16:50 - Jenit Jain: Just see the site
+29/10/2019, 16:50 - Jenit Jain: It works a bit
+29/10/2019, 16:51 - Sahil Garg: trying it
+29/10/2019, 16:54 - Sahil Garg: its a website right?
+29/10/2019, 16:54 - Sahil Garg: or project?
+29/10/2019, 16:55 - Jenit Jain: Website
+29/10/2019, 16:55 - Sahil Garg: cool
+29/10/2019, 16:55 - Sahil Garg: whats the first page/
+29/10/2019, 16:55 - Sahil Garg: ?
+29/10/2019, 16:55 - Jenit Jain: Main page
+29/10/2019, 16:58 - Sahil Garg: which pages is this issue in?
+29/10/2019, 16:59 - Jenit Jain: Just go through the thing no you'll see. It's nothin major so just start with the db coffee
+29/10/2019, 16:59 - Jenit Jain: Code*
+29/10/2019, 17:01 - Sahil Garg: how do I go to the second page bro?
+29/10/2019, 17:01 - Sahil Garg: it doesn't do anything
+29/10/2019, 17:01 - Jenit Jain: Because validation is there
+29/10/2019, 17:02 - Jenit Jain: Username just put anything
+29/10/2019, 17:02 - Jenit Jain: Password between 6-15 char
+29/10/2019, 17:02 - Jenit Jain: And press either if the logins
+29/10/2019, 17:03 - Jenit Jain: And for the other same thing, and for email just put x@x
+29/10/2019, 17:03 - Sahil Garg: got it, when password isn't between 6-15, it gives no error?
+29/10/2019, 17:03 - Jenit Jain: Check the validator maybe something is missing
+29/10/2019, 17:03 - Sahil Garg: like no error message
+29/10/2019, 17:03 - Jenit Jain: I did add maybe it's not showing for some reason
+29/10/2019, 17:04 - Jenit Jain: Like validation group might be missing or something
+29/10/2019, 17:05 - Sahil Garg: the layout is messed up I think man
+29/10/2019, 17:05 - Sahil Garg: its getting covered
+29/10/2019, 17:05 - Jenit Jain: Has
+29/10/2019, 17:08 - Sahil Garg: yes layout is messed up otherwise its coming now
+29/10/2019, 17:08 - Sahil Garg: can you send me photos of the db we drew
+29/10/2019, 17:08 - Sahil Garg: the 3 tables
+29/10/2019, 17:08 - Sahil Garg: in your notebook?
+29/10/2019, 17:09 - Sahil Garg: theres no logout anywhere bro?
+29/10/2019, 17:10 - Jenit Jain: Oh fuck I forgot that. If you do back then it's basically logging out
+29/10/2019, 17:10 - Jenit Jain: It was there on the drawing Soni forgot
+29/10/2019, 17:10 - Jenit Jain: Yes wait
+29/10/2019, 17:10 - Jenit Jain: <Media omitted>
+29/10/2019, 20:56 - Sahil Garg: Grant edit or upload access to the drive link
+29/10/2019, 20:57 - Sahil Garg: I'm going to upload all the files back
+29/10/2019, 20:57 - Sahil Garg: I've added code for login, signup and admin part
+29/10/2019, 20:57 - Sahil Garg: User part is left
+29/10/2019, 20:57 - Sahil Garg: So I'll push this code to drive link, you need to download and make the UI Proper for it
+29/10/2019, 20:58 - Sahil Garg: Basically it's just aligning the textboxes, labels and the field validators
+29/10/2019, 20:59 - Sahil Garg: Also the gridview for admin buses - where you add buses is huge so make that small - just run through the login page and the 2 admin pages and make the UI Proper bro
+29/10/2019, 20:59 - Sahil Garg: Do this by around 11:30, I'll finish the user code by then and then do the user code UI
+29/10/2019, 20:59 - Sahil Garg: Then we'll work on report
+29/10/2019, 20:59 - Sahil Garg: Call me or pick your call asap
+29/10/2019, 23:14 - Jenit Jain: Bro can you send the . Sln fike
+29/10/2019, 23:14 - Jenit Jain: How do you import this 😂
+29/10/2019, 23:23 - Sahil Garg: Just leave it
+29/10/2019, 23:23 - Sahil Garg: Why do you need that file
+29/10/2019, 23:23 - Sahil Garg: Just download all the files
+29/10/2019, 23:23 - Sahil Garg: And open as website in visual studio
+29/10/2019, 23:24 - Jenit Jain: Yeah yeah lol nevermind cool Chalo working on it
+30/10/2019, 00:58 - Sahil Garg: Code almost done
+30/10/2019, 00:58 - Sahil Garg: Just cancel booking left
+30/10/2019, 00:58 - Jenit Jain: Alrightt
+30/10/2019, 00:58 - Sahil Garg: Try making the UI fine or else is also chill
+30/10/2019, 00:58 - Sahil Garg: The one I have is fine
+30/10/2019, 00:58 - Jenit Jain: I fixed one full page. 2 to go
+30/10/2019, 00:58 - Sahil Garg: If you can make it better
+30/10/2019, 00:58 - Sahil Garg: Insane bro
+30/10/2019, 00:58 - Sahil Garg: I'll only push the code first again once code is done
+30/10/2019, 00:59 - Sahil Garg: Then you take these 2 other files also and see for UI how much ever can be done and then report bro
+30/10/2019, 01:00 - Jenit Jain: Userpage is the only updated thing right?
+30/10/2019, 01:01 - Jenit Jain: What about the confirmation thing
+30/10/2019, 01:01 - Jenit Jain: And bro
+30/10/2019, 01:01 - Jenit Jain: For query string
+30/10/2019, 01:01 - Sahil Garg: Trips.aspx
+30/10/2019, 01:01 - Sahil Garg: And book.aspx
+30/10/2019, 01:01 - Sahil Garg: These 2 are for user
+30/10/2019, 01:01 - Sahil Garg: Added a confirm.aspx
+30/10/2019, 01:01 - Sahil Garg: It's done bro using the confirm page working sexy
+30/10/2019, 01:01 - Jenit Jain: Try redirecting it to the same page. So that some code gets executed in page_load and we won't have to make a new page also
+30/10/2019, 01:02 - Sahil Garg: It's done bro, even UI is done
+30/10/2019, 01:02 - Sahil Garg: You don't need to do anything about it
+30/10/2019, 01:02 - Jenit Jain: Sorry didn't read
+30/10/2019, 01:02 - Jenit Jain: Sicc
+30/10/2019, 01:02 - Jenit Jain: 🔥
+30/10/2019, 01:02 - Jenit Jain: Chalo great
+30/10/2019, 01:02 - Jenit Jain: Send the info Wala pdf so I know the format for the report
+30/10/2019, 01:30 - Sahil Garg: What's this
+30/10/2019, 01:31 - Sahil Garg: The PDF we saw when you came here?
+30/10/2019, 01:31 - Jenit Jain: Yes
+30/10/2019, 01:33 - Sahil Garg: <Media omitted>
+30/10/2019, 04:01 - Jenit Jain: https://drive.google.com/folderview?id=1iyFD1q9GrrZxNl741whMtH5Mr1h1k9E6
+30/10/2019, 08:50 - Jenit Jain: Bro I can't access multiple pages because I didn't setup the database part
+30/10/2019, 08:50 - Jenit Jain: Can you please take the screenshots
+30/10/2019, 09:09 - Sahil Garg: All the UI is updated?
+30/10/2019, 09:10 - Jenit Jain: Yepp
+30/10/2019, 09:11 - Sahil Garg: And my code is also there right bro?
+30/10/2019, 09:11 - Sahil Garg: Nothing got chucked?
+30/10/2019, 09:11 - Sahil Garg: Can I send you screenshots by 12?
+30/10/2019, 09:11 - Jenit Jain: Haha yeah everything is ther
+30/10/2019, 09:11 - Sahil Garg: After class or you need it abhi ?
+30/10/2019, 09:11 - Jenit Jain: Are we making the report together? :P
+30/10/2019, 09:11 - Sahil Garg: We can do it bro
+30/10/2019, 09:11 - Sahil Garg: From 11:30
+30/10/2019, 09:11 - Jenit Jain: No problem
+30/10/2019, 09:12 - Sahil Garg: To 1
+30/10/2019, 09:12 - Sahil Garg: In my room
+30/10/2019, 09:12 - Jenit Jain: Assignment😂
+30/10/2019, 09:12 - Sahil Garg: You come after that
+30/10/2019, 09:12 - Sahil Garg: Or do one thing
+30/10/2019, 09:12 - Sahil Garg: Make off the report
+30/10/2019, 09:12 - Sahil Garg: Leave the screenshots blank
+30/10/2019, 09:12 - Sahil Garg: I'll add them
+30/10/2019, 09:12 - Sahil Garg: Send the word doc
+30/10/2019, 09:12 - Sahil Garg: With the codes copied and intro and conclusion
+04/11/2019, 13:10 - Jenit Jain: Bro we don't have to write lab 10 codes na
+04/11/2019, 13:11 - Sahil Garg: Not sure
+04/11/2019, 13:11 - Sahil Garg: Don't think sk
+04/11/2019, 13:11 - Sahil Garg: We didn't do it
+04/11/2019, 13:14 - Jenit Jain: Okayy
+04/11/2019, 15:23 - Sahil Garg: Do we have to write them?
+04/11/2019, 15:28 - Jenit Jain: We literally have never done it so f it
+04/11/2019, 15:29 - Sahil Garg: Peace
+05/11/2019, 19:40 - Sahil Garg: Are you studying first 2 labs?
+05/11/2019, 20:05 - Jenit Jain: I'm just seeing those bro
+05/11/2019, 20:05 - Jenit Jain: I don't think it'll come
+05/11/2019, 20:05 - Jenit Jain: Enough marks for other things :p
+05/11/2019, 20:16 - Sahil Garg: Haha true
+06/11/2019, 13:19 - Jenit Jain: Bro when are datakeynames useful
+06/11/2019, 13:19 - Sahil Garg: Updatecommand using gridview
+14/11/2019, 16:22 - Jenit Jain: Bro are slides enough for security and Ajax?
+14/11/2019, 16:22 - Sahil Garg: I'm studying just that
+14/11/2019, 16:39 - Jenit Jain: Sort
+30/12/2019, 14:27 - Jenit Jain: Hey my main nigga happy birthday 💪🏻💛
+30/12/2019, 14:30 - Sahil Garg: Thanks a lot bruhhh ✌🏻😄

@@ -1,0 +1,73 @@
+User 1: jenit jenit jenit dude
+User 2: helu
+User 1: what r u doing for the swacch bharat thing? u planning on doing something here in bombay?
+User 2: my internship is already on going. so i have no idea. and their stupid website doesn't work properly can we don't from manipal ?
+User 1: i dont know but i was thinking its better to finish off during the vacay na?
+User 2: let me know any information you get on this
+User 1: sure u too jenit
+User 2: just talk to any broker
+User 1: do u stay in the hostel or in a flat?
+User 2: flat
+User 1: do u have any no.? ok
+User 2: i got a new phone so no numbers. check on mutc. there are plenty. everything was given except utensils
+User 1: hmm suck so was trying to find out if anyone knew a place i'll check mutc thanks alot
+User 2: place for parents or the kid
+User 1: place for the parenta mattress for the kid thats what they told me
+User 2: my friends parents were staying in a 1bhk in pratham pride and it was damn nice for a 1bhk. with a kitchen and all. that youget in manipal also so it's fine
+User 1: do u know where? can u ask for the no. for them to call?
+User 2: no alright hold om
+User 1: thanks btw for checking for flats how did u go abt it? i was just looking over the internet got it?
+User 2: he said that he also did without broker through mutc
+User 1: whats mutc i typed it on google n it resulted in some crap 
+User 2: word of mouth and whichever ones were good and had free flats we went a check each one
+User 1: oh ok
+User 2: no idea about that in manipal haha facebook page
+User 1: damn... ok
+User 2: it's the best for trading check it out it'll be easy
+User 1: acha i'll check it out thanks alot yaar this is the one?
+User 2: yep
+User 1: thanks dude dude dude jenit do v have to write io for the cn lab two
+User 2: as far as i know, no
+User 1: jenit how do i download the image its downloading as a video file n then how do i add it to gns3? missed voice call
+User 2: sorry did it happen
+User 1: yeah got it
+User 2: cool can we ping from any pc to x.com or only from the other router
+User 1: from any pc i think not one hundred percent sure so just confirm the answer with someone else
+User 2: i tried to set it up from any pc to x.com is not working
+User 1: oh wait i just saw in the corner is 1.1.1.1 the ip of x.com ?
+User 2: yes it is in the dns server
+User 1: if yes then i dont think its possible caz looks like from ur fig ur routers dont send the request toward another router for that address have u configured it to send the ping coming from any pc to go toward the router which leads to that dns server
+User 2: so to configure pc1 will we have to do ip route 10.0.0.0 255.0.0.0 20.0.0.2? and the same thing for pc2 right?
+User 1: yes u will have to do an ip route
+User 2: thankss
+User 1: no prob... . lemme know how it goes
+User 2: i'll do in a bit hey! merry christmas (belated) !!
+User 1: bro dw
+User 2: what's happening? 
+User 1: no submission or test from this just dont let anyone know u know n i told u caz they r trying to prank u too 
+User 2: parv on personal chat is also telling me that i have to submit i sent eco guy an email already 
+User 1: he's crazy
+User 2: ripp
+User 1: lol no prob he'll just tell u there's no such thing if he replies anything diff
+User 2: thanks man 
+User 1: no prob
+User 2: what is the plagiarism thing bro?
+User 1: its in the format for the seminar report
+User 2: bro i presented mine and dint do anything related to this
+User 1: haan caz apparently we don't have to
+User 2: fuck thank god. chalo thanks. call arav
+User 1: i gave him the key
+User 2: thanks a lot for your help today dynelle. truly the savior
+User 1: arrey no problem yaar u take care ok?
+User 2: definitely :d. so lucky you were right there
+User 1: i know i still cant 4get ur expression after u fell i was damm scared man howz the progress today? now
+User 2: bro it's was toooo scary. first time i blacked out. just getting the sutures thank god no fracture like last sem :p
+User 1: thank god
+User 2: the tripsy was exactly like three idiots. one handicapped in middle and two people getting him to the hospital
+User 1: broooooo donttttt how r u feeling now?
+User 2: haha surprisingly not hurting yet good meds
+User 1: oki goody
+User 2: time to ask some extra time lolll
+User 1: from whom?
+User 2: ashalatha end sems!!!
+User 1: lol good luck

@@ -1,0 +1,970 @@
+User 1: hey do we have oe class today?
+User 2: i'm guessing not 
+User 1: gonna pray and bunk 
+User 2: same 
+User 1: do we have ml? and did you attend oe?
+User 2: no no yesss i'm in class
+User 1: rippp
+User 2: you missed seeing that cute mtech chick bro xd
+User 1: man dikshita wants to know. i have no interest in her. i'm being pressurized by her to find that chicks name
+User 2: whattt , why tho? thought u wanted to make dikshita jealous 
+User 1: no wtf 
+User 2: did u take a photocopy of divya' ai notes also?
+User 1: yes
+User 2: can u get it to class tomorrow? i want to take a copy
+User 1: can i just ask divya first  i don't wanna be that guy who passes the notes without permission
+User 2: oh sure i would have asked her myself, but since u have a copy already, i thought it would be convenient to just take yours
+User 1: cool i'll get it tomorrow
+User 2: heyy where to study affine spaces from? i dont really follow the notes 
+User 1: dude i'm doing only the notes. i don't even know if i studied affine spaces they'll mostly just ask theorems
+User 2: i haven't started tbh  i'll tell u when i do
+User 1: what about ml?
+User 2: i did the first chapter  and most of fourth wbu?
+User 1: on the second the text book is too long gonna be a while before we're done 
+User 2: fuckkk i dont plan on attending class tomorrow then i'll come for lab is this jape's? i'm also studying from his notes only, i dont think my notes have any additional content 
+User 1:  rip i'll try asking other people i'll forward anything extra that i get
+User 2: i have these bro
+User 1: cant see this. don't wanna depress myself we'll have ten mcqs or fill in the blanks tho right?
+User 2:  yeah even worse now
+User 1: don't know about la, but we'll be in the same row for ml please to collab
+User 2:  done i think i'll fail both bro
+User 1: dude just think about end sem ml
+User 2: dude i honestly think the syllabus for sessionals is too vast idek what this renuka is doing i think they suddenly increased syllabus for us
+User 1: i guess she wanted to keep all algos after sessional two ripp
+User 2: possibly
+User 1: dude the 4th chapter is some andrew ng level 
+User 2: is it even there in those andrew ng videos? he explained contouring in a v simple manner, in the coursera one atleast point me to the videos if they relate?
+User 1: gradient descent ? neural networks and deep learning wala course he's also just deriving the equations but with explanation
+User 2: yep acha i'll check it out
+User 1: how well did you understand chapter four hahah
+User 2: not too well  like i couldn't understand those figures and all, two threshold values and stuff is there one on bayes estimator?
+User 1: nope don't understand this either man
+User 2: saaame bro which of the topics has a video?
+User 1: you'll have to see. i did it a year back but it has all the basic definitions likelihood and all those the bad one's are there too are you coming for la tomorrow?
+User 2: acha you're sorted then we dont have i think? tuesdays timetable right
+User 1: oh shit right do we have ml?
+User 2: no no
+User 1: i'll solve and send
+User 2: cool thx u finished ml?
+User 1: except the 5th chapter
+User 2: acha 5th is damn bad dude tell me one thing results like these and all, are u mugging up? or are u gonna solve during the paper, provided we know how to solve it correctly
+User 1: i think i might solve for few definitely not going to mug up i don't know how to thanks man
+User 2: same :( but i know i wont be able to solve all, probably the ones she did in class, yes how do u fill in this table? like how do u know which hi 1 in the first row, second row and so on?
+User 1: hi i-1 in binary
+User 2: oh yeah got it thanks
+User 1: bro remember those three pages of maths i missed can you send me pictures of those
+User 2: is it not in jape's notes?
+User 1: do you have the entire thing? send me the pdf if you have thay i have to only till one st feb thank you!
+User 2: 2
+User 1: because the last row has all zeros so not counted
+User 2: the last line says because rank2 we can equate zy-2x  zero
+User 1: because the coefficients or a and b are zero where's the class
+User 2: oh sorry dude didnt see
+User 1: it's chill  how was it
+User 2: i'll lose a mark in mcq and last q i just wrote the eqns i didnt what to derive :p wbu?
+User 1: i still don't even know which ones they even wanted i just derived equation for sigma inverse
+User 2: ohh
+User 1: ripp
+User 2: dude are u free? can u explain the last theorem on affine spaces to me?
+User 1: i'm so sorry  dude i got rekt
+User 2: aye it's ok yeah?? i kinda fucked up one proof but the fill in the blanks was kinda shit
+User 1: ikr do we have maths
+User 2: well yes 
+User 1: you there
+User 2: yes 
+User 1: thank you so much is this all i missed?
+User 2: wait this is the second class that u missed i'm yet to send the first also, could u send the last class that we attended? saturday's?
+User 1: yep i'll send
+User 2: first lecture could u send the last one please? like right away? there's eefm also to study 
+User 1: yep i just woke up lol dude did you see math marks
+User 2: eleven dude  you?
+User 1: half this  lowest sessional ever
+User 2: fuckkkk shit dude
+User 1: man sessional two will be different it's fine
+User 2: hopefullyyy listen
+User 1: i have a decent excuse for bad performance tell
+User 2: i cant read anything in those pictures :p is your camera quality too bad?
+User 1: i'll send from actual camera what's app is just bad
+User 2: that's true tho acha okay thanks you mean 5.5? o.o
+User 1: don't bring it up again 
+User 2: fuckkk dude i think if u had less than five he would make u sign something and all
+User 1: not the first time me doing that either 
+User 2: yeah??  i too have signed but that's cause i missed the test 
+User 1: hence the drastic difference in the cgpa
+User 2:  thank youu
+User 1: what's the portion for maths assignment
+User 2: not too sure dudd i'm guessing everything after first sessionals till end of what he did
+User 1: cool thanks
+User 2: first assignment
+User 1: i haven't even given first assignment i don't know the portion 
+User 2: oh lol umm i think it was till basis or something ok i think we have everything from linear span onwards
+User 1: accha alright thanksss
+User 2: np yes belongs to you just substitute in the previous eqn
+User 1: how do we get only x on the rhs?
+User 2: because here xalpha x0 is one
+User 1: dafuq
+User 2: x alpha  x0 if we take x0  one we get this
+User 1: oh they have done like that cool cool thanks ignore the call oops
+User 2:   come to class xp dude call me right away on this no seven billion, nineteen million, one hundred and seventy-one thousand, seven hundred and ninety-one 0603, 2:39 pm priya ma'am cd: hi..there will be continuous evaluation on friday.. assessment will be for simple grammar and c grammar parser...same will be applied for other batch on wednesday portion for pcap assignment three is could u send me ml notes from classification onwards up until regression? i have regression thanks bro thank youuu
+User 1: dude send me the picture of the last thing we did in ml na of the multilayer network thanks
+User 2: did u get my book?
+User 1: yes yes i'm late because i'm getting food
+User 2: haha thanks brooo dude could u send those ai and ml notes? i missed classes here and there
+User 1: which do ml from text book only ai tell which ones
+User 2: the last class in ai yeah? ok send me the second class of neural networks
+User 1: cool in a bit
+User 2: sure
+User 1: not coming in assignment
+User 2: it's not like i've started 
+User 1: dude my parents are here too much i'm doing
+User 2: ohhh too much of what? studying?  where dya hide all your stash bro xd
+User 1: duh why do you think anything was remaining :p
+User 2:  done with ai and ml? 
+User 1: ml done ai eh
+User 2: same dude, it's too much you're writing pcap?
+User 1: we have this also tomorrow?
+User 2: pakka we dont have pcap on tuesday
+User 1: oh fuck rip and oe?
+User 2: there isn't much chill oe on wednesday we have time for that wed morning
+User 1: what's the portion
+User 2: portion for pcap assignment three is
+User 1: you deleted this message
+User 2: thanks dude
+User 1: wait i'll check and send
+User 2: thanks
+User 1: all the best
+User 2: thanks lol 
+User 1: please send the ai ml paper how were the papers https:m.facebook.comstory.php?storyfbid2284316011784631id1437633996452841
+User 2: broooo the la paper was damn bad
+User 1: i'd ask for the paper but lolll how bad
+User 2: dude v v bad like nothing came from the notes at all every q was new apart from the theorems
+User 1: do you have all the notes? till date?
+User 2: yeah its complete wtf bro  but yeah the ml guy is too bad jenittt get my math book to class
+User 1: yepp
+User 2: dude i think u have my math paper could u send pictures? i'll try looking up the answers
+User 1: cool also where are you
+User 2: hostel
+User 1: please study i literally don't know a single thing not one
+User 2: send da
+User 1: i'm not at home can't send we fucked
+User 2: ayyooo
+User 1: bro what's the portion for la
+User 2: second sessional?
+User 1: yep
+User 2: from linear transformations up until inner product spaces but the orthonormal thing isn't there
+User 1: thank you
+User 2: also dude, do u have ai and ml notes? post sessionals i haven't attended a single class
+User 1: post sessional also my hand was broken na lol
+User 2: ehhh
+User 1: its easy only ai is chill
+User 2: u would have gotten from divya or someone 
+User 1: ml he sent slides
+User 2: but i need to know what's going on 
+User 1: soon hahaha
+User 2: lmao okay we dont have both classes tomorrow so then friday only
+User 1: thank god
+User 2: yeah lol xd i heard he yelled at u and all  again lmao "ik you're smarter, you dont need to show off"  gg
+User 1: arre he was saying bs from the previous class as well so i set him straight chut.
+User 2: hahahaha 
+User 1: composition of two linear maps is also a linear map right
+User 2: not necessarily
+User 1: okk and how to give nullity of t or dim ker t
+User 2: dim is the no of vectors in ker t except wait when it's zero the dim is zero basically dim is the no of independent vectors required to express the vector space
+User 1: i'm ded
+User 2: stfu u still have four hours that's how long i studied  that's given in the q
+User 1: ok how do you know the free variables and what after those values
+User 2: this idk i just saw how it's done
+User 1: if we have to prove linear iso then what all do we prove
+User 2: that the lt is one one onto or even that cyclicity of conditions holds
+User 1: they don't give extra time to cripples also shish
+User 2:  how did it go tho? also i thot u got someone to write for u?
+User 1: 10ish only because the sir left his cabin and we discussed the shit out of it maths the person would be too slow
+User 2: ohh that's good you'll have enuf internals dw
+User 1: they don't know our symbols
+User 2: that's true tho was it like the paper he had set for us only? also send pics of the paper plis
+User 1: lol easier i think
+User 2: hahah that's always the case bro resessionals are always easier or atleast u get more time to prepare
+User 1: pcap god please
+User 2: i have pcap sesh one but dude sesh two was pretty easy only
+User 1: how to do 5th and 9th
+User 2: idk why he gave the 5th q in this paper that's actually firsts sessional syllabus from what i remember intersection of two subspace is a subspace but union isn't can't really think of an example atm : 9th no clue
+User 1: second part was in your paper too
+User 2: that's what he gave me one mark for that i have no clue why  i just substituted some two random points
+User 1: lets see ya atleast i can write end sems for sure haha after lr(1) what all is there in cd
+User 2: bro it was some v complicated syllabus ok wait so no bison no flex no error recovery at all but that sdt shit is there also that ambiguity thing is there
+User 1: what is this isnt this also there
+User 2: they cancelled last minute dont remember now, remind me later? i'll look it up
+User 1: yepp
+User 2: final:
+User 1: thank youu
+User 2: yeah the conflict resolution thing is there
+User 1: can we have the oe assignment
+User 2: dont think so dude also get my book to class
+User 1: omw you deleted this message inherited and synthesized attributes are there?
+User 2: yup
+User 1: and it starts from bottom up na
+User 2: yeah
+User 1: also i was really just joking today alright i'm very offensive like that but i don't mean shit
+User 2: ayeee it's totally cool lmao  chill xd there was a point of time when my best friend would call me medusa cause my hair was too shitty xd
+User 1: was too shitty okay then
+User 2: yeah got better, i started using argan oil post college xd
+User 1: sounds expensive why are you wasting money
+User 2: stfu  it's good stuff, no more split ends did u take ml notes?
+User 1: nopee will study from the text only
+User 2: bro that math behind lagranges multiplier is damn fucked up there are videos on all that, but it will take quite some time
+User 1: which chapter
+User 2: svm
+User 1: fuck
+User 2: choosing the optimal hyperplane
+User 1: i'm not going to study for assignment four don't have time make notes please thanks
+User 2:  50-50
+User 1: right even you have a sessional
+User 2: hahah someone remembered  good luckkk
+User 1: writing with soc people is the fucking worst fuck this sem
+User 2: fuck what happened da u had cd no?
+User 1: man it was a simple paper
+User 2: really?! :o
+User 1: do you want to draw state zero of an lr(1) for me yes but that chick is so slow and dumb it is unbelievable
+User 2: wat lol xd it is kinda difficult for them uk, like where to place the dot and all
+User 1: dude i couldn't even attempt the full paper . please
+User 2: lr(1) means clr right?
+User 1: yes
+User 2: ok i'll draw it's ok bro, even i got one ten in that paper 
+User 1: i'm getting 4.5 mvqs  grace marks
+User 2: grace for?
+User 1: other ten marks
+User 2: wah  how much could u attempt tho?
+User 1: rip
+User 2: u got wrong?  i think this q was from the slides tho..i remember doing it
+User 1: i put extra lookahead i still did jugaad and got string parsing so 8.5 max 
+User 2:  ok but the string parsing is only for half a mark  i saw the scheme for our paper
+User 1: greattt
+User 2: 1.5 for dfa one for table
+User 1: stop making me sad no shame no regrets
+User 2:  cant believe u actually texted her this 
+User 1: this too
+User 2: wooow  nice nice  u could have done automata on your own no left hand it's just symbols
+User 1: i don't understand my handwriting which will mess up the dfa plus i'm really slow
+User 2:  what is this sad story bro but it's good u told her tbh ik your teacher, she's nice she might mark u leniently bechara xd
+User 1: bhai i won't be eligible for few companies if i drop below 8.5
+User 2: oh fuck chill how did your lab go? this sem carries less credits wont affect your gpa much
+User 1: one less equally bad except my relationship nothing is good touch wood
+User 2: awwwww well atleast u have that no, be happy for that my personal life is so fucked up lmao
+User 1: do tell can't decide whom to hook up with out of all your options?
+User 2: stfu no  my bangalore scene is peace my friends there dont judge and all u have no idea how much drama that hook up w saurak caused lmao
+User 1: still? this is gossip i care about plis
+User 2: well it did for the entire sem, idk about now i'll tell u in math class lmao it's a v long story  basically it really got on the nerves of the ppl who hosted the party  all because of this chantal, if only she didnt have to pee that night, no one would have known
+User 1: i don't like her a lot some negative af vibes not like we study anyway dude when you cc in an email can the two people receiving it see each other's id
+User 2: yeah they can, go with bcc instead
+User 1: no i want them to see otherwise the respect ma'am sir would be so offensive
+User 2: oh lol ok go with cc then 
+User 1: sent such a depressing email too them going to ruin their sunday lol
+User 2: to whom? 
+User 1: raviraja ashlatha last part of opencl is also coming kya
+User 2: yeah the matrices part is there ohh, what u asked for subject teachers to write your paper?
+User 1: extra time and laptop
+User 2: ohh peacee idk why they dont give extra time they used to at school and all
+User 1: i'm just praying man otherwise a subjects will also go
+User 2: yeahh eefm ml and all u can easily get
+User 1: eefm toh by hook or crook ml this sessional will be bad how much did you get in ml
+User 2: 12.5
+User 1: chill only man urgh i'm waiting for their reply let's hope lol
+User 2: ohh
+User 1: dude seven days to game of thrones and seven seasons start
+User 2: hahahah xd i dont watch tbh too much adult content :p
+User 1: bapree dude see the content it's the most brilliant thing ever made
+User 2:  to be done in the summer xd
+User 1: weak which assignments can happen tomorrow
+User 2: pcap and ml i guess fuck dude sessionals also to write
+User 1: ml lolll bt pcap what is evening happening
+User 2: idek he sent syllabus for u guys? i doubt it's tomorrow tho
+User 1: doubt it
+User 2: he sent for us tbh
+User 1: bro i have mpi lab assessment alsoo
+User 2: ohhh fuckkk but u studied for end sem no
+User 1: yes i'll keep for tomorrow only
+User 2: u started studying for sessional?
+User 1: an hour back
+User 2:  thanks bro xd
+User 1: do you have the pcap paper
+User 2: nopee bro what are we doing about ml notes i haven't made
+User 1: no clue what so ever i'm planning to wing all subjects no other option
+User 2: hmm u haven't gotten pcap syllabus right? ai isn't today mostly, he's not done with syllabus
+User 1: no someone asked on the group and no one replied so doubt it great
+User 2: yeah even sahil told me u guys haven't gotten
+User 1: man i hope he doesn't conduct it or i'll ask him if i can give tomorrow a lot on this sem depends on pity
+User 2: pcap?
+User 1: during the cd paper ma'am comes to me and asks me for the permission proof for extra time and i'm like there's no proof, only pity. she laughed and gave me five mins extra ml
+User 2:  ohh
+User 1: 1 for being savage?
+User 2:  jenit send those slides brooo i overslept thanks u finished? i started only half an hour back this is not there right?
+User 1: divya was unsure about this
+User 2: wtf
+User 1: haven't started
+User 2: lol same boat then
+User 1: are you doing from text
+User 2: yep
+User 1: which sections da
+User 2: .
+User 1: till 13.1
+User 2: im stopping at 13.1 yep
+User 1: starting from?
+User 2: propositional logic lol we have to make for first order also now
+User 1: divya lol
+User 2: dude there's no time to cheat in ai u made ml?
+User 1: nothing i did
+User 2: same so fucked
+User 1: bro except the probability part i didn't understand anything in ai
+User 2:  i just read it all oncec
+User 1: which sections in the text exactly in my text 13.1 is some conditional planning
+User 2: acting under uncertainty? i have no idea where this came from
+User 1: send me your book from this you're doing the 12th and 13.1?
+User 2: yes
+User 1: after your eefm notes complete
+User 2: no dude.. dude did u get cd syllabus?
+User 1: section b teacher said thst it is not today
+User 2: ohh peacee thanks
+User 1: bro in proof by refutation you basically just do kb  a and then at the end prove a, then say aa is false hence proved right? and what do you do in proof by resolution? just apply the resolution formula?
+User 2: wat. isn't this resolution? idk what refutation is check once?
+User 1: are they assume?
+User 2: ? ik that resolution is that box thing
+User 1: using only the resolution formula? and this is using any formula?
+User 2: this is the formula, and then u make boxes, taking all combinations dude i think resolution and refutation is the same thing are u coming for math?
+User 1: nope bro 1st and 8th and how to do 12th ka third
+User 2: 1st is d i'm guessing resolution only. we haven't learnt the others. valid i think. when u and another condition to the lhs it doesnt affect your rhs
+User 1: thanks how to dictate ml please to help
+User 2:  i think u should teach her what those symbols are
+User 1: she's too stupid she starts giggling when i say a technical term she doesn't know i said "pruned" and she lost her shit 
+User 2:  u checked your ai assignment mark's? he uploaded
+User 1: fuck don't want to how much did you get oh fuck he gave me eighteen
+User 2: oh, he gave me twenty dude
+User 1: too lit
+User 2: even i was suprised dude he gave me eighteen in cn last sem, and honestly i studied cn a lot more than i studied ai
+User 1: dude i didn't even know fol during the assignment
+User 2: ohh yeah  u didnt write the sessional no  it was some easy q that he gave tho
+User 1: exactly too good i'll send all these teachers thank you email
+User 2: this fol also is v easy too good xd 
+User 1: but 1mark
+User 2: its two high time u did so. after all the sob stories that u typed out 
+User 1: oh those yeah 
+User 2: for pe's one means highest preference right
+User 1: duh what's your cgpa 3rd year
+User 2: like rn? wait what did u mean? 
+User 1: it's fine i don't want that negativity sarcasm
+User 2: okay  jenitt what's the ml syllabus post sessionals?
+User 1: isn't it there in the group
+User 2: where? i saw only ai we haven't attended a single class also post sessionals 
+User 1: lol i'll ask and tell
+User 2: cool cool thaanks how do your ml retest go?
+User 1: eh 10ish i'll get
+User 2: why u didnt study enough?
+User 1: arre they asked recurrent networks ya useless thing
+User 2: imagine end sems broo
+User 1: and i forgot logistic discrimination
+User 2: what's this?
+User 1: ded
+User 2: ohh
+User 1: exactly
+User 2:  bro i heard seniors got fucked last year even with forty-five internals they got b and all
+User 1: i'm fine with any grade just want to pass all subjects my cd teacher is my tg so she was quite aware about everything and she gave me 33
+User 2: wtfff that's fkn nasty but i think everyone got fucked in cd? idk even parv was crying
+User 1: how much did you get in second sessional and on total
+User 2: he asked how much i got and he refused to tell me his  forty-three total ten in the second one 
+User 1: 9
+User 2: ohh then what u lost your marks in assignments?
+User 1: fourteen
+User 2: faaack she fucked u over looks like can u not?  i deleted it
+User 1: beauttt
+User 2: i was hoping to see a fully healed hand
+User 2: how do u live with it?
+User 1: it's not like i had a choice
+User 2: well i'd cover it up if i were u and when is it coming off
+User 1: everything is coming off today
+User 2: out thank god
+User 1: you're going for maths? bro i have no idea what the fuck is that subject tell me what to do
+User 2: same  jape and i plan on studying in the library sometime  i dont have the motivation to tackle it on my own  i think so dude
+User 1: please decide and tell me i'm piling on
+User 2: cool cool i'll ask jape and let uk we're going at 8:30 in the morning tomorrow
+User 1: great i'll be there
+User 2: cya jenittt are u up yet
+User 1: are y'all there?
+User 2: we're here
+User 1: dude after cuda, how many pages does the notes ka thing have
+User 2: v few but sir wait there's assignment four syllabus also
+User 1: yeah the device architecture
+User 2: yeah that's only some five pages
+User 1: accha then whenever you're free please send pictures for whatever is after cuda no like at night is also fine just camscan it
+User 2: cool cool u want only the pvm thing right
+User 1: anything after 2nd sessionals
+User 2: this u have?
+User 1: nope
+User 2: it's in that tb only dude the opencl textbook
+User 1: okay okay then just the pvm bro everything is there from this. and in chapter eight it's full flex and bison
+User 2: fuckkk you're sure uh?
+User 1: yes
+User 2: u got the syllabus from the teacher??
+User 1: yes i confirmed
+User 2: ahh ok thanks fml gonna take an entire day
+User 1: exwctpy
+User 2: :(( bro your teacher is scamming the syllabus a section got reduced portions i'll send that once i get it
+User 1: tell
+User 2: dont have it rn ojasvi said she would send
+User 1: accha cool forward it asap i don't wanna do extra shit lol
+User 2: triplets, 6.3-6.3.3(included),6.4.1,8.1,8.2,8.4,8.5.1,8.7,8.8.1,7.1,7.2-7.2.2(included)  section d idk where this is from this is from a section
+User 1: i'm following this
+User 2: that's your class ka syllabus
+User 1: seems like a sincere student i'll follow her 
+User 2:  yeah same lol https:www.dropbox.comsgm7qjre32wkxwyypvmclass.ppt?dl0 https:www.dropbox.coms17ritf1z6t0gi1rparallel20virtual20machine.pptx?dl0
+User 1: thanksss only if y'all had come a day later
+User 2: mangoes  and potato chips also 
+User 1: they are jain but you get the point 
+User 2: hahahah xd scam xd did u get sahil's cd notes post sessionals?
+User 1: nope i did everything from text which part 8.3 na?
+User 2: 8.1.4
+User 1: i mean this diag explanation or 8.2
+User 2: what? i mean i dont get how the optimal mc code is produced
+User 1: bro i don't think they will ask us how it is produced. just try to understand it. even idk how it is produced but i get the code.
+User 2: but in the third line in the first example theres nothing in r0 to multiply with
+User 1: all the regs in example one should be r1 and in the 2nd example the srda instruction is basically like a pre processing step for binary division rest is fine
+User 2: cool cool also st places the first operand into the second right
+User 1: smart
+User 2:  thanks so much!! this is pakka correct?
+User 1: yes
+User 2: check debt equity
+User 1: my sister solved it and sent so just accept too fucked for ratios
+User 2: ohhhh fuckkk thanks
+User 1: bro send sums that you solve we'll tally
+User 2: ok prev year paper?
+User 1: cool if two non terminals that's are not starting symbols are in deadlock while finding the follow set then we just add  to both of them right?
+User 2: yup
+User 1: did you solve anything
+User 2: bro im trying to cover syllabus
+User 1: instruction cost? dude do you understand how these are being solvrd
+User 2: no time to explain now bro :
+User 1: just explain any one
+User 2: which q
+User 1: anyyy fastttt harsha explain thanks tho all the best 
+User 2: oh okay u too
+User 1: you deleted this message
+User 2: do u have calc of pi code? i want for cuda and opencl
+User 1: just opencl
+User 2: thanks bro what's the monte carlo shit do we have that this is mpi
+User 1: no shit then don't have ut
+User 2: bro what's the plan for ai
+User 1: going to do all the bad things today ontology and all and the first sessional graph algos you?
+User 2: same same i'll keep second sessional for tomorrow listennn where are u doing q from wanna solve together? prev year papers have many
+User 1: i'll do the conceptual part you send every question you solve just the q then we'll chexk
+User 2: yeah cool so basically i'm doing chapters three five twelve thirteen fourteen today maaaybe two also if i get time
+User 1: greedy
+User 2: what xd
+User 1: did you start 
+User 2: ive done ten pages so far 
+User 1: i'm doing two three twelve thirteen fifteen ten more than me urghh you remember those food stalls?
+User 2:  even im doing two doing two rn actually which ones? revels?
+User 1: no recently outside the 13th block
+User 2: yepp i went to those
+User 1: dude i ordered five cinnamon buns from that girl through instagram i'm waiting to have those before studying 
+User 2:  bro i had tried the brownie nutella one didnt like it only
+User 1: but the cinnamon buns looked too good even that day dw it'll be up on my instagram lol cant wait only thing i can do to procrastinate
+User 2:  ohhoo clarifying doubts and all on the group xd
+User 1: i still havent started man i just cant
+User 2: bro i'm still on the 10th page 
+User 1: lets just start at seven
+User 2: ok that gives us twenty-three min
+User 1: nine
+User 2: sigh it's time to begin
+User 1: how much did you do
+User 2: chap three u?
+User 1: 2.1
+User 2: wow xd i did fourteen now
+User 1: i'll catch up
+User 2: good good xd i'm gonna do chap two now i think i'll read all these chapters first and then solve q
+User 1: so first studying the questions and then studying the other chapters?
+User 2: will read all these, then solve q from all these it will be around six in the evening by that time
+User 1: cool
+User 2: then read the rest what's chap 15?? i think we have only 14?
+User 1: ha toh that my bad
+User 2: ya cool
+User 1: in uniform search algo, we check if it is a goal state if that is the node that we'll expand next (as it is in the start of the priority queue). we can keep expanding a node continuously down the tree without expanding the other children of the root if the path cost to those children is too high compared to the current node right? its not like bfs in which you have to go the sibling before expanding the children right?
+User 2: we can expand either the children or the siblings of the nose node depending on which has the lower cost
+User 1: cool how much done
+User 2: and oh i missed fourteen
+User 1: full fourteen done?
+User 2: yeah its damn small wbu
+User 1: just two and three i'll start five now what are stuff and things stuff is basically a part of something and retains the same intrinsic properties even when subdivided. right? and what about things
+User 2: which chap
+User 1: twelve it's only .1 .2 .5 .6 for the 12th chapter arre ya i did the full thing shish
+User 2: what that's a lot lmao yeah, but idk what they mean when they say that stuff "specifies" no intrinsic properties. does it mean the same thing?
+User 1: yeah exactly the definition is the problem
+User 2: yeah idek what kind of q they will ask from this chap dude gotta see old papers things is not even defined btw
+User 1: we dont have that proving havent seen it tho they might expect us to like just write about it theres a para on optimality of a
+User 2: try this
+User 1: okay
+User 2: i'm getting some diff ans for dfs and uniform cost bro even a i have no clue what she's done
+User 1: wait for ten i'll do and then we'll check
+User 2: cool cool that arrow points from c to f btw
+User 1: dfs is also s a g1
+User 2: but it says dont take the one that loops
+User 1: i think its written in the text book that we use explored states so that it doesnt go in infinite loop
+User 2: that's for graph search right
+User 1: so when it goes back to a, no other node will be traversed from that a noed
+User 2: i guess this is tree search?
+User 1: how is all this diff
+User 2: what do u mean actually in tree search it gets stuck in that loop
+User 1: oh wait divya is confirming okay yeah so according to graph search it should be s a g1 why are you getting a diff
+User 2: yeah got the same took the arrow wrong
+User 1: so if they havent specified which one (tree or graph ) then do we just assume it to be graph ? dude if the path cost from s a g1 was less than s a b c g2 then we would consider the first sequence only right?
+User 2: ok uniform cost also i got the same thing looks like no?
+User 1: haan exactly because i remember he always drew the explored states on the side
+User 2: yup so only dfs we're not sure of now
+User 1: also in a algo, once we find a final state, we expand the other frontiers also till the value till that node is greater than the goal state so see if there are more optimal parts
+User 2: yaa but that's because he solved only uniform cost and a in class  yep
+User 1: bro how is this person even connecting a and c. there is no direct link in the graph its a decent assumption so only graph based algos
+User 2: that's whattt
+User 1: eh fuck it
+User 2: let's see what divya says
+User 1: our dfs is correct i didnt send her the question
+User 2: ohh
+User 1: wait i'll ask the dfs
+User 2: ya ask ask because the textbook does not tell us what to do when there's a loop but for bfs we keep that explored state right graph based
+User 1: yes yes this is toh eight puzzle problem dude in the paper it's written missing info may be assumed according so just mention explored states are used
+User 2: hmm ok what do we write under time complexity for each depth? it's not the asymptotic one right
+User 1: that only we have to write no
+User 2: howw asymptotic is when u have infinite modes nodes same for 2c check please 
+User 1: this seems right time complexity part ido this is i'll check everything is right but what's that sixty-two thing
+User 2: that's in case nodes are tested during expansion
+User 1: accha then yeah sort no what plan
+User 2: how much are u done with? i did half of fourteen
+User 1: two three twelve thirteen fourteen i'll do the rest from divyas notes
+User 2: ohh why not do the textbook?
+User 1: i know those things decent enough and divya reads the text and writes extra notes she said it's fine 
+User 2: ohh 
+User 1: we don't have algos no
+User 2: dont think so dude why aren't the values of alpha and beta being passed down the tree?
+User 1: yeah they aren't updating properly
+User 2: yeah the scheme is completely wrong 
+User 1: in objects and categories what does the rectangle and the double rectangle represent
+User 2: i think double rectangle is for binary relations.. but both are used when the relations apply to individual objects and not categories bro we have agent programs?! what rule did they use here?
+User 1: there's no retune rule as such just normalise so that there probabilities add to one
+User 2: how does p(cavity,toothache,catch)  0.108,0.016 it should be just 0.108?
+User 1: the second probability is for  cavitiy we include that too to get both the probabilities in a vector format they are fusing the above two equations also did you even sleep wth also in the water jug problem, you just try to get the answer through intuition through the graph right
+User 2: yeah ik but i thought joint probability gives only one value wtf ya lol on and off yes there are many solutions
+User 1: man i'll read it again and see. think if you don't form a vector also it should be fine
+User 2: ok cool also did u do completeness of resolution and all?!
+User 1: wtf is this
+User 2: so proof shit i hope they dont ask all that some
+User 1: fuck proofs in proof by refutation you prove kb   a is a nullset by being false and in proof by resolution, you just apply the formula till you get the required 'a' right
+User 2: i think both are the same?
+User 1: no no also turing test is acting humanly no
+User 2: yes
+User 1: how was it 
+User 2: decent yours?
+User 1: tell actually da
+User 2: actually only, i did one small mistake in alpha beta and graph part idk
+User 1: same same
+User 2: ya i pruned one extra i'm sure of all except dfs
+User 1: did you get three sa g1 and one s c g2
+User 2: how 2?
+User 1: you wrote all s a g1?
+User 2: i didnt get this. cause u have to trace according to alphabet order first one i got cost fourteen second eleven bfs ucs dfs i did tree and graph, graph i got twenty-five last one was fourteen i think
+User 1: don't know eh it's ovet studying ml today?
+User 2: no dude tomorrow only u?
+User 1: duh
+User 2:  there's a looot tho
+User 1: problem for tomorrow it's too early for this arghhh but anyay you have to do -(log0.5log2)
+User 2: you're saying for the conversion to base ten thing?
+User 1: yeah basically
+User 2: bro i entered base two only on my calci oh wait
+User 1: doesnt this imply log of 0.5 to the base two too? rhetorical yes it does
+User 2: got it  yeah lol just started i think i'll do second sessional syllabus today how much done?
+User 1: zero you!
+User 2:  i did decision trees 
+User 1: woowwww
+User 2: yep i finally finished this at one in the afternoon 
+User 1: i'm just netflixing can't fuck around for maths ha
+User 2: why we're kinda done studying no
+User 1: sessional one
+User 2: eh that will take only one day da but ok we need to study let's go the library on the first day atleast  if we sit by ourselves we'll chill like how we're chilling now 
+User 1: dude honestly i'm very concerned about maths since only twenty-six please both days library needed
+User 2: ok ok  but i think if we study properly we can actually cover syllabus in one day let's try next day we can solve extra q from textbooks and all
+User 1: yes yes everything tbu how much did you do
+User 2: i did 9, 2, 7, fifteen wbu
+User 1: fifteen i started doing 14th and wasn't u derstanding anything and wasted a lot of time and then i realized i was doing edition two not three rip
+User 2: ooohh fuckkk i was about to do that too
+User 1: are you doing the solved questions from the answer booklet after each chapter! ?
+User 2: we have to, pakka it will come  listen most of the stuff in these papers is out of syllabus right?!
+User 1: 2b 3c 4a might be out
+User 2: 2c 4b 3a 3b?
+User 1: 4b also not there
+User 2: do we have k nearest neighbor?
+User 1: i think so
+User 2: no not there
+User 1: cool greatt did you solve any papers and did you see all the solved exercises?
+User 2: no dude, will do that in the morning
+User 1: coming early?
+User 2: no lol
+User 1: humidity no?
+User 2: dont know on what basis did u select humidity? u calculated information gain and all?
+User 1: no i just calculated entropy and selected the lesser one that's how you do it i don't know if this another method because i don't even know what this is
+User 2: that's not how u do it this is how u select
+User 1: did you get humidity
+User 2: see same thing has been asked here also i left this q thinking it was not of syllabus
+User 1: lol
+User 2: yeah lol but i calculated the split entropies so i should get around three marks
+User 1: arre you the lesser one is the answer
+User 2: huh? that's not how u do it bro u calculate the entropy of the result and subtract the entropies after splitting from this
+User 1: it's done
+User 2: yes lol
+User 1: tomorrow morning eight library
+User 2: math next  library opens at nine j think :
+User 1: let's by one 
+User 2: one in the afternoon uh?
+User 1: you decide i'll come
+User 2:  thanks  how u been? how's your vacay
+User 1: the absolute worst. no internship plus after my sister left i basically live at a old age home what about you  starts tomorrow right?
+User 2: ohhh fuckk  yeah tomorrow, so today i'm gonna check into this hotel courtyard marriott. they're providing accommodation for a week first two days orientation. they want us to get ready and board the gs provided transport at 6:30 in the morning 
+User 1: isn't the internship in blore only? haha it's fine man. think about the greater good!
+User 2: yes, but sahil and i decided to take 
+User 1:  scammm
+User 2: yeah..i want that ppo bro. its gonna be too bad sitting for placements or else wbu what are u doing? writing a research paper? broo even i want to do this tbh.
+User 1: such is life for me lel i spoke to apratim and he said that unless you come across a problem that is not solved in the best way till then you won't be able to write like a good paper
+User 2: but you're gonna apply to unis right. my dads saying work here, make some money and go. 
+User 1: so i'm planning to just do projects with algos that i haven't done
+User 2: work for a year
+User 1: and improve my older ones and then toefl and ielts yep mostly this only
+User 2: ohh what kind of algos for u too? i didnt even disagree. my chances of getting in are so bad lmao 
+User 1: basically lstms, gans and couple other things. then i'm making this model for dikshita using our whatsapp history . so i'm not sure about anything, i'll ask the program to predict what she might say  should make life easier
+User 1: yes. jiju said that apply directly but i want to work first so i'll apply but won't go till i get my top five  don't piss of subah subah
+User 2: makes sense. jiju means? uncle? auto generated response also? xd
+User 1: sister's husband. like he's an engineer too so he was telling me what happened with his friends and why you should leave asap. no so it's a dialogue bases thing no. so i input the message, output should be her reply. i'm really excited for this project i hope we don't break up because then i'll be filling a void with the computer program  fuck i sound creepy. don't tell anyone plis thanks
+User 2:  wont wont  going anywhere during the vacation?
+User 1: trekking in manali maybe. i hope these guys book tickets soon if not that then eid in dubai 
+User 2: ohhooo sort sort i'm not going anywhere this time :(
+User 1: because you have a boring ass job which pay 75k 
+User 2: sister's also in 12th grade. gotta wait a year
+User 1: are you planning to do anything simultaneously with the internship! ? also did you get a jd lok
+User 2: nah it ends on july 4th i think not sure if i'll get time. if i do i'll prep for gre i guess what's this
+User 1: job description at gs
+User 2: oh, no not yet bro its damn confidential and all itseems they make u sign an nda but i'll tell u 
+User 1: this is the age where corruption starts 
+User 1: who all are there in gs? you sahil and?
+User 2: mahima rishita rohit sarkar shounak and shreyansh
+User 1: ouch nevermind forget i asked
+User 2: ouch? 
+User 1: how did it gooooo results
+User 2: let's not talk about it lowest ever
+User 2: hiiii jenittt
+User 1: hellloooo whatsu
+User 2: my internship got over so i'm just chilling what's up w u?
+User 1: aeee damn nice good good nothing jsut dreading the end of vacations. i feel this one was damnnn short i miss my trip also last sem now 
+User 2: sameee what trip?  kinda glad tbh  bangalore is too chill
+User 1: i went for a trek-ish kinda trip with all my school friends it was too lit anyways most of the people will get placed in blore only so :p yeah actually
+User 2: ohhh wooow yeah but in my case, it's my own city :p, i met like ten ppl from my school who were interningworking at gs only and many others in walmart codenation deloitte and all
+User 1: haha now full manipal and school is going to be in your city. too easy how was the gs experience whats the scene with ppo?
+User 2: yesss good dude! dont know yett
+User 1: wahh let's prayyy
+User 2: hahaha yes so fucked if i dont get it lol
+User 1: us na. we know  increasing the competition for us
+User 2: stfu  i haven't started preparing for placements 
+User 1: not like you need it 
+User 2: shushhh but this time gs and ms aren't coming, so i guess citrix is the only one that pays more than 20lpa
+User 1: microsoft isn't why?!!!
+User 2: apparently they took way too many interns from all colleges so they aren't going to a lot of campuses it's not on the list that we got also right
+User 1: yeah what was the need to take anushka and nikita and mediocre girls like them oh shit yeah i thought they weren't on the list because it was given that it's coming chut nadella
+User 2: bro anushka and nikita are far better than the rest they took  they recruited like madd, they took forty from bits hyd  
+User 1: no. i'm in their lab nikita two roll nos before me and anushka is always opposite me because advait is around there don't get me started divya and sarthak are the only deserving ones wow but atleast they'll mostly get ppo so lesser competition
+User 2: ok lol i thought nikita was good  that's exactly why they aren't recruiting this year, cause they plan on converting most anyway, the ones from manipal will get their ppos this friday, let's see what happens
+User 1: fuckkkk too close what about your gs ppos
+User 2: we don't know dude i think we told them to give them out by 12th let's see what happens last time they were v late tho
+User 1: arghh the suspense is always the worst but like did your seniors like you and all haha
+User 2: ya ya all that's good. but my manager said it also depends on requirements and the final decision lies with hr
+User 1: ha that's true. it's fine you have all the requirements. just ask what's the pay tho  can't go under 75k a month anyway :p
+User 2: requirements as in the no of positions that are open  dude so screwed, they're telling us about the ppo only when college begins : not sure about this
+User 1: its fine no. till then you study for placements. and then once college begins either you'll get opportunities or some chill time.
+User 2: i want to chill now 
+User 1: man you have done enough coding throughout the vacation you literally just have to see things that you have to memorize. its fine shouldn't be a problem
+User 2: that was in java xd i code in c  dude, dya wanna like work on a project once the sem starts? once your placement scene is sorted
+User 1: yes yes yes
+User 2: yasssss bro, my friends from school are publishing papers and all and presenting them in international conferences  i feel like shit 
+User 1: apratim is citing his own papers!
+User 2: ohhoo that's damn good we have just one sem left at college need to write a paper man u did start working on something w parv no?
+User 1: yeah that didn't really work out  one thing i wanna do is make jenit chat bot so like i downloaded my whatsapp chat history which i will train my network on
+User 2: oh yeah u told me about this how far did u get?
+User 1: no need to be arrogant
+User 2: whatt lol u only used future tense
+User 1: don't need to hurt no. you know it's going to start in the future na
+User 2: arre, i genuinely thought u had started thisss why dya always think of double meanings when there aren't any da 
+User 1: man it's been a very long vacation. didn't get time only. i jkkk but we definitely will do something this sen
+User 2: hopefully we'll get some good accuracy , i dont think we can write a paper or else on it xd, a lot of my friends tried their hands on soo many and got only like 70 and all
+User 1: 70 is fine only tbh like if it's something new which prolly won't be the case
+User 1: you stop worrying before deciding what we are going to do 
+User 2: i was seeing something that got accepted into springer they got 92  give me a list of things to do before we start working da, i haven't done any courses. will prolly do it over this week
+User 1: honestly speaking rn you should focus on placements till you don't get ppo and simultaneously do lstms cnns are too over done and you need massive data and all for that which we won't get or won't be able to handle
+User 2: yeah true ok ok duuude divya didnt get ppo or what? all those other chicks did
+User 1: i dont know didnt know how to ask exactly sarthak got?
+User 2: idk about that too on the wtm group, divya's name wasnt there even dyuti i'm not sure
+User 1: was it a list or was everyone just congratulating
+User 2: not a list but someone did ask for all the names no one named divya
+User 1: who all were named but
+User 2: and disha and ananya and daksha too
+User 1: wtf nikita got too fucking lame unbelievable
+User 2: lol nothing's going on in your class group?
+User 1: na we don't really care for our peers achievements only birthday wish game is strong in our class lol
+User 2: ok no divya got
+User 1: thank god
+User 2:  yeah idk about sarthak and pritika everyone else got
+User 1: except pritika everyone got lol
+User 2: ya thought so 
+User 1: rude why tho 
+User 2: cause her name was not on the wtm group  and that group congratulates any girl who does anything 
+User 1:  such bt man everyone got selected except her
+User 2: yeah that's damn sad actually ik her she's from my class and dude tbh she's v quiet and all see the thing about interning is even if u dont do much work u have to talk your way out
+User 1: like to seniors and all? is this what you did sannidhi 
+User 2: yup manager and all no no i worked a lott xd but i was also v good at making conversation xd being able to communicate really well seems like an unfair advantage tbh but yeah at the end of the day, it is what it is
+User 1: anything that get you the ppo is worth it at the end of the day no did you apply for the codenation thing
+User 2: yeah lol i'll just see the q and sleep dude my friends in iiitb are coding in grgoups groups and apparently they're as it is v good at coding
+User 1: argh i have no coder friends in this entire city ripp so you'll ace them and sleeo gotcha
+User 2: no lol i just wanna see what the q are like my friend interned there and he got ppo he doesn't want to take it tho
+User 1: how is the company ohhh
+User 2: small not organized
+User 1: how are they giving 31l then loll
+User 2: the only women are the receptionists idk all that but he didnt like the work also
+User 1: you make me want to sleep early hahha might as well not like i have so many opportunities going on anyways
+User 2: lolol hmm also dude getting this ppo is damn hard my friend who got the internship he's acm icpc two time regionalist rank six that too and he tried couple of times in odd and even sems
+User 1: no idea what you just said but okay might as well give it and get done with it
+User 2: yeah i cant login
+User 1: same i think they havent made it live yet
+User 2: ohh ok nahh it doesn't recognize my username
+User 1: dont know whats happening anymore read the fb comments everyone is so pissed off
+User 2: the test for today for off campus shas been cancelled due to unforeseen technical issues . we are extremely sorry for the inconvenience cause . we will release a new test shortly in a few days . keep coding ! see you soon
+User 1: lollll bt
+User 2: gn gn xd
+User 1: nightt
+User 2: got the ppo xd we all did
+User 1: aeeee damn nice what's your package lol
+User 2: twenty-two sixteen in hand
+User 1: damnnn sonnnn congratulations!!!! 
+User 2: thankssss  duuude i think we got ashalatha for nlp we can try working under her also nlp projects are easier than cv i guess
+User 1: she'll definitely help us with the paper as well. sort
+User 2: yesss hello! i'm happy to share that i will also be heading for my masters this year! i had to be hush about it until i got my visa to not affect my chances of continuing work at microsoft if i didnt - but i got it yday, so i can finally share the news with you all! sachi angle, two years our senior sent this looks like we can get a lot of help for nlp :p
+User 1: how well do you know her
+User 2: i dont know her :p but they're all pretty nice only and moreover she herself said shes ready to help ik tito, he got into oxford, but i think he worked on cv
+User 1: sucks to be a nice person lol but yeah we'll text her and all
+User 1: when are you coming
+User 2: tomorrow morning wbu?
+User 1: i'm at mumbai airport rn bus?
+User 2: no flight xd gs is reimbursing  breakfast and all i took 
+User 1: wait why  man flights from blore are tooo early
+User 2: so they reimburse two tickets, either college to your place or your place to bangalore in my case, my place is bangalore  yeah 7:40 for me sahil, like one df, is taking the bus 
+User 1:  all these ten pointers have a different swag we won't understand
+User 1: how to prove wrong one hundred and one man this semester is starting so relaxed for you naukri dedo koi 
+User 2:  you'll get da, try ciscocitrix they pay damn well
+User 1: anything more than what my sister is earning rn and i'll be peace
+User 2: hahahaha dude tbh sahil and i were damn disappointed w manipal's placement season this time bangalore colleges have uber and atlassian coming :
+User 1: microsoft and gs are also not coming man what sense does it make after paying so much fees and not getting better companies for placements
+User 2: exactlyyyyy full regret dude we were getting all these colleges thru cet only i told the placement officer about uber and atlassian he said nothing has materialized so far, which probably means they're not coming xd
+User 1: how are you talking to so many people in power broooo maharashtras best college where google and all go fees is 68k a year  it's in mumbai only  when do they tell us about the companies coming later
+User 2: that guy, harish called yest to tell about ppo  wooow vjti right? later only i think  once google went to rv towards the end, only some shitty ppl were left, they took them and went xd they prolly had some urgent requirement
+User 1: yeah man. my friend is working under my sister coincidentally like a subpart if i had taken it i could have been working under my sis lolll
+User 2: hahahha why cant u do the same here? ohh cause u dont stay in bombay?
+User 1: and pwc hires only from college like i cant even ask my sister to submit a recommendation or even a request for me no. and they don't come here mumbai has more of finance and commerce related opportunities in corporate so.
+User 2: your sister works in pwc? i dont think so..my friend interned there last summer, his dad got for him
+User 1: as a chartered accountant wtf. this is exactly what they told her maybe his dad is much higher in post so makes sense i guess
+User 2: yup, he's md or something brooo, if u have dcc slides please send thanksss jenitt can u get your nlp notes to class tomorrow
+User 1: barely anything but okay
+User 2: thankss dont forget did your dcc teacher give assignment syllabus?
+User 1: she said unit one and 2. no idea what it means tho
+User 2: ohh ok chap two and four i think
+User 1: do you know the portion from the text book? for dcc and it
+User 2: idk it
+User 1: which book but
+User 2: dont know again there are two books
+User 1: i have four
+User 2: one is that colouris
+User 1:  i asked sahil. he'll know. when he replies i'll let you know
+User 2: wtf lol accha cool did u find out?
+User 1: he said he had no idea idk now anymire re
+User 1: different classes of verbs and all
+User 2: but which one is which? j corresponds to?
+User 1: to act becomes active like that
+User 2: ohh okay and k?
+User 1: to represent
+User 2: no gimme an ex oh lol ok got it
+User 1: dumbfuck
+User 2:  and 'a' is adjective?
+User 1: yepp
+User 2: in "mice" why do we map u to epsilon? like on what basis?
+User 1: m letters are less in mice na
+User 2: yeah but why is u mapped to epsilon. why not someother letter?
+User 1: i think they are just keeping it as the middle letter but only o or u can be mapped so
+User 2: you could map 'u' to 'c' and 's' to epsilon also right? yassss sna cancelled
+User 1: :') i think so
+User 2: hahah still fucked for dcc lol ok ok we'll ask her once tomorrow
+User 1: done with dcc. nlp rippp
+User 2: done uh? how? what is this scene? no one is done with dcc xd
+User 1: sunday full i did that sna and sta are fine it nlp have toooo do eom toh rip
+User 2: ohhh hahaha i had it today, got fucked lol. notes didnt help only
+User 1: so 45? okayyy
+User 2: no clue bro  q was honestly v weird do mbo for police dept come up with quantifiable measures for peter drucker are u free for like five min, i have doubts in the e insertion transducer
+User 1: i just woke up so just text
+User 2: oh fuck it's too hard to type that out, so basically, i cant understand how the trap state traps "series", "series" could have e insertion also done right? and similarly even foxes can go to trap state?
+User 1: according to the fst yes it can. but i think it is not deterministic. and since for normal ones there is a transition epsilon to e, i think all the regular ones follow that path and all the rest go from q2 to q5 when they incur the s in the intermediate state (s part)
+User 2: ohh ok thanks what's the three level morphology for children? i want the intermediate part actually
+User 1: that hasn't been done definitely won't come please sit next to me in nlp i haven't studied for jt
+User 2: it's in divya's book. .. okay i really hope i'll be able to help
+User 1:  her children thing is 100 wrong it was hw that no one did and she didn't solve it in class mapping is always from one letter to another. it can't be d:dren. i'm sure about that
+User 2: yeah that's what that's why i asked but no one knows it will be epsilon: r and so on i think
+User 1: do you have notes from the ties lecture in sna?
+User 2: no dude i'm making now tho
+User 1: i was absent fornit and don't understand it only so
+User 2: read the textbook its explained properly i'm doing that only
+User 1: is it a lot? also send the text book lol
+User 2: no its damn less it's on the group
+User 1: chalo thanks bro i can't download from the group
+User 2: wait i'll send
+User 1: full chapter 5?
+User 2: yes listen are your it notes complete?
+User 1: arghh okayy
+User 2: i'm taking xerox
+User 1: till seven i'll do the rest in break and dcc
+User 2: fuckk dude eight and ten left?
+User 1: it's not hard tho ha
+User 2: yeah i read it ok i'll take xerox during eom
+User 1: okayy
+User 2: ppt nine is not there no for it
+User 1: no
+User 2: is javascript in syllabus?
+User 1: no man just c and html tags
+User 2: thanks do u have an example for freeman's formula?
+User 1: i was also looking for that. couldn't find :
+User 2: what's the dcc syllabus?
+User 1: just refer to the docx till unit three chapter 1,2,4,5 and for synchronization from text book i don't know which chapter
+User 2: entire chap six is there? i have for this also
+User 1: i think it should be enough to read these but just text rest don't even bother. the docx are enough bro i'm going to do nlp in the evening i'll check then
+User 2: ok ok how much done in dcc?
+User 1: shhh no such questions
+User 2:  does anyone have a good pdf of the tannenbaum textbook? the one ma'am sent is incredibly badly formatted do u?
+User 1: nope how are you doing nlp
+User 2: only slides
+User 1: same broo yeah the last term is missing
+User 2: dude what do we have to learn in nlp i'm just reading
+User 2: broooo
+User 1: sup
+User 2: can we please start with a project. i just realized we cant get recos from teachers if we dont work under them lolol so even if it's a small one it's ok, let's just do something lmao
+User 1: whatsapp chat what downloading
+User 2: also u dont have sta today?? haven't done it yet. but will start doing today. also we should discuss about what exactly we want to do, and then go tell ashalatha about it
+User 1: lol i have only sna done
+User 2: oh hmm idk what to do from two to 3:30 yess lemme know when you're free what's the easiest way to download chat history? besides i dont see an option to do that on whatsapp export chat works?
+User 1: without media
+User 2: ok ok how many do u want me to export
+User 1: all noob
+User 2: u mean to say no scandalous things right
+User 1: dw i'll send you the preprocessing code when it is ready so you don't have to share your chags
+User 2: groups included? lolol thanks xp
+User 1: no just pm
+User 2: did u tell me to do sequence models it has rnn i didnt see lstm
+User 1: youtubeee
+User 2: jenitt what exactly is our project we're building a chatbot for?
+User 1: basically imitate how we type because we'll be mixing our data
+User 2: okay, so given some input, it should give two imitations? one for you and one for me? and how do you test if its actually how we reply?
+User 1: no we'll combine our thing da we'll check the output. and i'm sure there will be metric in keras for thay
+User 2: oh okay, is there some existing work on this already that i can read about?
+User 1: read about chat bots only that's exactly what it's going to be like so i'll make a guy repo you know how to use git via terminal no?
+User 2: i use it via the gui but ok i'll learn there are many videos on that okay, so basically we apply diff methods like tf idf, bag of words etc and see which gives bet results? is there a scope to right a paper on this? many ppl would have worked on this already na best
+User 1: i don't think we have to make diff models it mostly will work only with lstms we have to apply different preprocessing techniques
+User 2: this is only the pre processing part no? i'm yet to read up about this
+User 1: this is to the data no models will be decided after we have good representation for data
+User 2: yes yes got it also jenit, we could go to muralikrishna sir to be our guide his area is nlp ml and cv and moreover he's one of the best professors in the department, he taught me daa and took lab too he taught pretty well
+User 1: done email him first with the idea with both our names and ask to meet
+User 2: you do this part no i'll mail him today only i have his number also i can just whatsapp him
+User 1: arre you know him it's better you do it
+User 2: he's damn chill while giving lor also btw
+User 1: arre perfect no don't be lazy if a know student it's better !!
+User 2: no i'm saying, u describe what we will be doing i'll only mail him since i dont have much clarity with your description of the project
+User 1: https:adeshpande3.github.iohow-i-used-deep-learning-to-train-a-chatbot-to-talk-like-me
+User 2: did u start the project? i texted murali sir this morning, he didnt reply tho. guess we'll have to meet him in person
+User 1: yep cool yes i finally did thoda today
+User 2: ohh preprocessing?
+User 1: the start
+User 2: cool cool
+User 1: bro so the first step of preprocessing that im doing is uploading the text files to grammarly and correctly all the errors in the files it will be time consuming but ah well
+User 2: spelling errors?? fuck dude isnt there something else we could do?
+User 1: have to do that no
+User 2: hm, ok so, wait spelling errors can be resolved by word only na just select that option, resolve all
+User 1: yeah that only andthen download the edited file
+User 2: ah cool how much time is this taking?
+User 1: pretty quick tbh
+User 2:  you keep insulting all the time, idk when to take it seriously 
+User 1: take those advicesss
+User 2: okay i'll take, starting from tomorrow https:scholar.google.comcitations?userzrtypbiaaaajhlen do u want to work under her
+User 1: but she's a assistant professor
+User 2: murali sir is also assistant prof also she taught me os brooo, i didnt really like her xd he is pretty good tho
+User 1: she will have some of her project
+User 2: yeahhh that's what i also thought
+User 1: thanks for this motivation :p
+User 2:  happy birthday fgt 
+User 1: ae thanks bro 
+User 2: what scene
+User 1: nothing much. drank shit ton last night. breezy today. must get ready for tomorrow's photoshoot so just prep for that
+User 2: wowow
+User 1: ae damn cuteee
+User 2: not my smile tho 
+User 1: dude i have lost so much weight and it shows
+User 2: yeah true u look nice tho guess my weight now after i fell sick fuckinf 40.8 xd
+User 1: i lost 5kgs too going for class party?
+User 2: i wenttt i'll be heading back now tho dude it's raining like mad
+User 1: haha good enough niceee hahaha stayyyy
+User 2: we cant even go to the beach power has gone out too i wishhh but its damn small also
+User 1: ohhh lol
+User 2: not enough place for everyone to sleep
+User 1: fuck it: p
+User 2: like three rooms
+User 1: no one sleeps????
+User 2: haan
+User 1: we had two rooms 
+User 2: hahaha
+User 1: bro stay i'm telling you
+User 2: i have two absents already
+User 1: and zero more sems to go
+User 2:  i got back xd man the rain fucked up the whole vibe it poured
+User 1: that's sucks :l atleast you left haha
+User 2: dude four of us shared one umbrella bad scene
+User 2: dude our party got raided last night three hour police check
+User 1: what did they find
+User 2: they didnt find cause they flushed it down but they took pics and all of everyone allowed only fifteen ppl to stay
+User 1: wtf  rest? and why only those
+User 2: they roamed around until the check was done so till two o clock basically roamed around in vehicles u have lab eight codes?
+User 1: bro i have three lands incomplete
+User 2: kinda same tbh where are u doing dcc from?
+User 1: text book only bro it's too hard
+User 2: wttff no slides?
+User 1: in the latest lecture she gave some cfg remember? s - np vp etc so i think it's from that cfg
+User 2: ohh ok ok not in syllabus right?
+User 1: don't knwo i'm doing thag chapter only
+User 2: heyy do u have syllabus for any subject? have u started studying yet? 
+User 1: haha broni don't know post sessional for any subject yep today was a hiccup tho  partial toh is there on your group anywau
+User 2: why what happened assignment syllabus u mean?
+User 1: sessionals ganja and heavy antibiotics
+User 2: wtf why are u doing this to yourself
+User 1: no the combination is fine
+User 2: i dont even have alcohol when i'm on antibiotics
+User 1: i'm just giving you reasons why i was slow today lol
+User 2: no
+User 1: oh fuck no i'm not drinking a sip dw alcohol and antibiotics is the problem not the other
+User 2: why antibiotics? cant be for your hand no
+User 1: arre bro i can still get an infection no lotta flesh was exposed no
+User 2: ohhh fuck ok
+User 1: i thought it would living but i can't find one tho because vbg can be living and to live (mostly) but rest seem perfect . if you get an answer tell me
+User 2: what's the other tag for living? only one tag is wrong in each sentence
+User 1: what is it with present continuous ? like the tag ikkk. bro everything seemed fine. 3rd is a hard one i guess :
+User 2: vbg only is present continuous right what else can we have? adjective? noun? like gerundive?
+User 1: gerund is: to live
+User 2: i think that's called infinitive not ground gerund gerund is ing form i think
+User 1: oh sorry yeah my bad but, what's the problem in the 3rd one!
+User 2: even idk lol xd want to put it up on the group?
+User 1: yes bro
+User 2: or i'll ask madhav one min
+User 1: yes please
+User 2: dude he's not sure either he says it's either have or living
+User 1: have is verb because you are having a friend right so it's action
+User 2: yes

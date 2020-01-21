@@ -1,0 +1,97 @@
+04/04/2019, 16:07 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+04/04/2019, 16:07 - Jenit Jain: <Media omitted>
+04/04/2019, 16:07 - Jenit Jain: How do you know which ones are free variables and how do you set their values
+04/04/2019, 17:23 - Abhilash: See the last non zero row u take in echeleon form right, every variable that is left there, can be taken as free variable. Cos this gives u free values which scales the whole range 
+
+So say suppose there is like 2 varisables in the bottomost equation, 
+The equation might be 
+4y+ 3z=0
+
+Here u if take z as free variable, u can write y as a version of y. Like y=-(3t)/4
+
+Now in the top equations u keep substituting these values
+
+If top line was 2x+3y+4z, u have taken z as t already. U derived y in form of t in last step, now u substitute both in this rqn n find x in terms of t only n were the final equation with only one variable t
+04/04/2019, 17:25 - Jenit Jain: Why did they take it y s t
+04/04/2019, 17:25 - Abhilash: If the last equation in echelin for had 3 variables, u take z n y as free variables as t1 n t2 n write the first variable as combination of these two in the equation n find it's value interns if t1 and t2.
+Then u subsequently take it up the equation s substituting in values
+04/04/2019, 17:25 - Jenit Jain: Okay okay
+04/04/2019, 17:26 - Jenit Jain: And what about the random values that they have taken
+04/04/2019, 17:26 - Abhilash: It is a number which can span the whole space of numbers
+04/04/2019, 17:26 - Jenit Jain: Yes that's basis
+04/04/2019, 17:27 - Jenit Jain: But how did they assume
+04/04/2019, 17:27 - Abhilash: U don't have to define , it means it can be any number in the space
+04/04/2019, 17:27 - Jenit Jain: Accha
+04/04/2019, 17:27 - Jenit Jain: So what should the last step be?
+04/04/2019, 17:27 - Jenit Jain: This should be the last step ticket
+04/04/2019, 17:27 - Jenit Jain: right*
+04/04/2019, 17:28 - Abhilash: Like if a variable is a free variable, it necessarily means it belongs to R and all numbers that the given equations derive can be expressed as a linear combination of these free variables
+04/04/2019, 17:28 - Abhilash: Last step is when u transfer the free variables to the first equation
+04/04/2019, 17:29 - Abhilash: Cos the first eqn has highest number of variables in echeleon form no
+04/04/2019, 17:32 - Jenit Jain: Yes
+04/04/2019, 17:32 - Jenit Jain: And range of t is image of t right
+04/04/2019, 17:38 - Abhilash: Nhi nhi. No relation with that. It basically means it takes all value without restriction
+04/04/2019, 19:02 - Jenit Jain: Thanks man
+04/04/2019, 19:02 - Jenit Jain: They don't give extra time to cripples also shish
+04/04/2019, 19:02 - Jenit Jain: Our paper was way easier than yours😂
+04/04/2019, 19:37 - Abhilash: 😂
+04/04/2019, 19:37 - Abhilash: Damn. Compensated. Cripple😂
+20/04/2019, 18:13 - Jenit Jain: bro how much did you get in math?!
+20/04/2019, 18:54 - Abhilash: 16.5
+20/04/2019, 19:15 - Jenit Jain: Man he is fucking everyone
+20/04/2019, 19:15 - Jenit Jain: And total?
+20/04/2019, 20:24 - Abhilash: 33
+20/04/2019, 20:24 - Abhilash: Fckd
+20/04/2019, 20:24 - Abhilash: I think he's evaluated assignments out of 4
+20/04/2019, 20:24 - Abhilash: How much did u gey
+20/04/2019, 20:25 - Jenit Jain: 26😂
+20/04/2019, 20:25 - Jenit Jain: Just ask him to review it agaon
+20/04/2019, 20:26 - Jenit Jain: Pm the guy who wrote the text on group
+20/04/2019, 20:27 - Abhilash: Yeah I did
+20/04/2019, 20:28 - Abhilash: But I think he's corrected it pretty seriously
+20/04/2019, 20:28 - Abhilash: U r more fckd
+20/04/2019, 20:28 - Abhilash: At least we got MTech people who score low
+20/04/2019, 20:28 - Abhilash: I guess cut off will be lower
+20/04/2019, 20:28 - Jenit Jain: Do you know anyone more than 40
+20/04/2019, 20:28 - Jenit Jain: Counting on it man
+20/04/2019, 20:29 - Abhilash: I guess manav Manoj and Siddharth got above 40. I'll ask though
+20/04/2019, 20:29 - Abhilash: Most people lost marks at sessional level only
+20/04/2019, 20:31 - Jenit Jain: I got 11.5 in assignments bro 😂
+20/04/2019, 20:32 - Abhilash: Did u miss any?
+20/04/2019, 20:56 - Jenit Jain: Ya man
+20/04/2019, 20:58 - Abhilash: Math OE was a disaster lol
+20/04/2019, 20:58 - Jenit Jain: Reason I took software testing 😂
+20/04/2019, 20:59 - Abhilash: Dude, No😂
+20/04/2019, 21:05 - Jenit Jain: Did you take the neural nets one
+20/04/2019, 21:10 - Abhilash: Yeah
+20/04/2019, 21:10 - Abhilash: Soft computing
+20/04/2019, 21:10 - Abhilash: I like soft computing. But I used to like linear algebra also
+20/04/2019, 21:11 - Jenit Jain: i like marks so i'll try to stick to that.😂
+20/04/2019, 21:11 - Abhilash: Hard realisation. Takes time to kick in
+20/04/2019, 21:12 - Abhilash: I m fckd for one more year lol
+20/04/2019, 21:12 - Jenit Jain: will need improve my cgpa after this 5 month disaster
+20/04/2019, 21:12 - Abhilash: Yeah. Honeymoon semester for u😂
+20/04/2019, 21:13 - Abhilash: People say it's easier to score in 7th though
+20/04/2019, 21:23 - Jenit Jain: bro i'll do eom and shit in the vacations itself
+20/04/2019, 21:23 - Jenit Jain: sahil mode on af
+20/04/2019, 21:27 - Abhilash: Sahil class sunta hai. Ho payega?
+20/04/2019, 21:27 - Abhilash: 😂
+20/04/2019, 21:41 - Jenit Jain: atleast 1/6 classes.
+20/04/2019, 21:41 - Jenit Jain: and ill do at least 1 lab without him
+20/04/2019, 21:41 - Jenit Jain: should be enough for a 10😂
+20/04/2019, 22:04 - Abhilash: There is only one lab
+20/04/2019, 22:04 - Abhilash: That too web technologoes
+20/04/2019, 22:04 - Abhilash: Chill
+20/04/2019, 22:04 - Abhilash: That's the amount of optimism I need in life atm
+05/05/2019, 21:39 - Jenit Jain: Bro do you have notes for single value decomposition
+06/05/2019, 06:09 - Abhilash: <Media omitted>
+06/05/2019, 06:09 - Abhilash: <Media omitted>
+06/05/2019, 06:09 - Abhilash: <Media omitted>
+06/05/2019, 06:09 - Abhilash: <Media omitted>
+06/05/2019, 06:09 - Abhilash: <Media omitted>
+06/05/2019, 06:13 - Jenit Jain: Thank bro
+06/05/2019, 06:36 - Abhilash: ✌
+17/09/2019, 14:24 - Abhilash: Bro
+17/09/2019, 14:24 - Abhilash: The question paper on the table is mine
+17/09/2019, 14:24 - Abhilash: Could u keep it with urself so ma'am doesn't take it away with her
+17/09/2019, 14:51 - Jenit Jain: Bro I gave all the papers back

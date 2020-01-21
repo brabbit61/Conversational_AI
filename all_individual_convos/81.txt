@@ -1,0 +1,56 @@
+04/11/2018, 13:15 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+04/11/2018, 13:15 - Jenit Jain: Hello sir this is jenit. Please forward the end sem portion at the earliest. Thank you
+04/11/2018, 13:16 - Rohit Sir: 1.1, 1.2, 1.3
+2.1, 2.2, 2.3 except DNS, 2.5
+3.1, 3.2, 3.3, 3.4
+4.1 except 4.1.5, 4.2.1, 4.2.2, 4.2.4, 4.3.1, 4.3.2, 4.4.1, 4.5.1
+5.1.1, 5.1.2, 5.1.3, 5.2.1, 5.2.2, 5.2.3 (only crc complete and checksum basics ), 5.3, 5.4, 5.5.1, 5.5.2, pg 424-427 (Concept should be clear)
+6.1.1, 6.1.2 till pg 488 no PCF, 6.3
+7.1.1, 7.1.2, 7.1.3
+04/11/2018, 13:18 - Rohit Sir: Please refer to the content I had covered in the class. Also discuss with the other sections for any additional topics.
+20/01/2019, 18:06 - Jenit Jain: Hello sir, this is Jenit. 
+Sir, I'm leaving tomorrow for my sibling's wedding and hence will be missing assignment week. When I applied for a leave, they didn't consider my request and gave me a leave 24th January onwards.
+20/01/2019, 18:07 - Jenit Jain: I beg you to consider to allow me to re-write the AI assignment if it is held before the 24th. I would be very grateful for the same. Thank you.
+22/01/2019, 17:09 - Rohit Sir: Ok.
+22/01/2019, 17:10 - Jenit Jain: Thanks a lot sir.
+01/04/2019, 08:47 - Jenit Jain: Sir, may I please put your name as the reference in the placement portal
+01/04/2019, 09:17 - Rohit Sir: Ok man.
+05/04/2019, 14:24 - Jenit Jain: You deleted this message
+10/04/2019, 13:00 - Jenit Jain: Hello sir.
+10/04/2019, 13:02 - Jenit Jain: In proof by refutation you just prove kb^~a is false
+10/04/2019, 13:02 - Jenit Jain: And in proof by resolution you just use the resolution formula?
+10/04/2019, 13:04 - Rohit Sir: Yes.
+10/04/2019, 13:04 - Rohit Sir: But in both the method we use resolution rule only.
+10/04/2019, 13:04 - Rohit Sir: We prove resultant to be an empty set.
+10/04/2019, 13:09 - Jenit Jain: Yes sir, but can't we use modus ponens and the other formulas
+10/04/2019, 13:14 - Rohit Sir: Yes. Only resulolition rule
+10/04/2019, 13:15 - Rohit Sir: Resolution
+10/04/2019, 13:15 - Jenit Jain: So when do we need the other formulas
+10/04/2019, 13:53 - Rohit Sir: When asked for infernce rule application
+10/04/2019, 14:57 - Jenit Jain: Thanks sir
+11/04/2019, 11:33 - Rohit Sir: Your answer script has been corrected.
+11/04/2019, 11:34 - Jenit Jain: Thank you sir. How much did I get
+11/04/2019, 11:36 - Rohit Sir: It's 12
+11/04/2019, 11:37 - Rohit Sir: If you want to see. Please do it today itself.
+11/04/2019, 11:38 - Jenit Jain: It's alright sir, upload the marks. I have back to back exams so won't be able to see
+11/04/2019, 11:38 - Jenit Jain: And thank you again
+11/04/2019, 11:38 - Rohit Sir: Ok. All the best.
+11/04/2019, 11:38 - Jenit Jain: Thank you
+11/04/2019, 16:53 - Rohit Sir: I have uploaded all AI assignments and sessional marks. Please verify it by tomorrow. 
+
+After tomorrow no request for any change in marks would be entertained.
+
+Please message or email me for pointing any error in the marks.
+11/04/2019, 16:54 - Rohit Sir: Circulate in AI group.
+11/04/2019, 17:05 - Jenit Jain: Okay sir
+12/04/2019, 12:28 - Rohit Sir: Jenit
+
+This is regarding your assignment 1. You have to submit new form for assignment mark scale up request. Please contact department for the same.
+12/04/2019, 12:45 - Jenit Jain: Why new sir? I have the old one original copy? And the hod has also sanctioned it. Can I submit that to you?
+12/04/2019, 13:01 - Rohit Sir: Please ignore this. Because That's what had been communicated recently. However, on requesting HoD madam, she has agreed for the old one. 
+
+Can you mail me the approval?
+12/04/2019, 13:02 - Jenit Jain: <Media omitted>
+12/04/2019, 13:05 - Rohit Sir: This is the new format.
+12/04/2019, 13:05 - Rohit Sir: Thanks.
+12/04/2019, 13:09 - Jenit Jain: 👍🏻

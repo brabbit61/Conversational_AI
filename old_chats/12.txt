@@ -1,0 +1,50 @@
+﻿8/20/18, 9:01 AM - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+8/20/18, 9:01 AM - Amrit Cs: 172.16.59.125
+8/20/18, 9:02 AM - Amrit Cs: :8000 for access
+8/23/18, 12:47 PM - Amrit Cs: Bro what's the command to open your PC to connections?
+8/23/18, 12:47 PM - Jenit Jain: Connections?
+8/23/18, 12:47 PM - Jenit Jain: Ifconfig?
+8/23/18, 12:49 PM - Amrit Cs: No no the python thing?
+8/23/18, 12:49 PM - Jenit Jain: python -m SimpleHTTPServer 8000
+8/23/18, 12:49 PM - Amrit Cs: Chal thanks a lot.
+8/23/18, 12:50 PM - Amrit Cs: You tell me your port number and IP once you do it okay?
+8/23/18, 12:51 PM - Jenit Jain: Yas
+8/23/18, 1:02 PM - Amrit Cs: Sort sort.
+10/12/18, 7:36 AM - Jenit Jain: Get the watch today, please
+10/12/18, 7:39 AM - Amrit Cs: Yes boss.
+10/12/18, 7:39 AM - Jenit Jain: Thanks fam
+2/14/19, 7:19 PM - Amrit Cs: rcb.amrit@gmail.com
+2/14/19, 7:20 PM - Amrit Cs: And which book to study from also you tell. 😂
+2/14/19, 7:21 PM - Jenit Jain: Fundamentals of financial management
+2/14/19, 7:21 PM - Amrit Cs: Yup got that.
+2/19/19, 4:21 PM - Amrit Cs: Just a reminder message because I'll forget otherwise 😂
+2/19/19, 4:49 PM - Jenit Jain: 😂
+2/19/19, 4:50 PM - Jenit Jain: Same number right
+2/19/19, 4:53 PM - Amrit Cs: Yup.
+2/19/19, 5:28 PM - Amrit Cs: You sent money from some harshit saxena guy?
+2/19/19, 5:28 PM - Jenit Jain: Yepp
+2/19/19, 5:28 PM - Amrit Cs: Cool thanks. 🙌
+4/6/19, 4:06 PM - Jenit Jain: Bro you have tez right
+4/6/19, 4:12 PM - Amrit Cs: Yeah why?
+4/6/19, 4:19 PM - Jenit Jain: Bro tez your share to vaibhav na, 100 bucks
+4/6/19, 4:19 PM - Jenit Jain: Even I'm sending 100
+4/6/19, 4:19 PM - Jenit Jain: I'm not telling sahil because he did extra work and I don't want to piss him off before end semester😂
+4/6/19, 4:27 PM - Amrit Cs: 😂😂😂
+4/6/19, 4:27 PM - Amrit Cs: Alright done.
+4/6/19, 4:27 PM - Amrit Cs: Give.me his number na.
+4/6/19, 4:29 PM - Jenit Jain: Vaibhav Cs.vcf (file attached)
+4/6/19, 7:58 PM - Amrit Cs: Done.
+4/6/19, 7:58 PM - Jenit Jain: 👍🏻
+4/15/19, 7:10 PM - Jenit Jain: Limitations and Improvements:
+The algorithm runs till only n=10 because of single GPU, Golomb's ruler for larger values of n are computed using cluster computers so we couldn't implement that, also we are using global memory in the kernel and each kernel defines an array to store the ruler which can be optimized by using shared memory. For efficient use of the GPU under heavy computation, we must run the parallelized form of the algorithm on clusters, and take advantage of the shared memory available.
+4/15/19, 7:32 PM - Amrit Cs: Itna kaafi Hain?
+4/15/19, 7:34 PM - Jenit Jain: It's only a small part na
+4/15/19, 7:34 PM - Jenit Jain: I'll send pics yo
+4/15/19, 7:35 PM - Amrit Cs: Alright.
+4/15/19, 7:44 PM - Amrit Cs: You're finding the results ka graph right?
+4/15/19, 7:49 PM - Jenit Jain: It's fine I'll make the graphs and send
+4/15/19, 7:49 PM - Jenit Jain: Just n vs time.rigjt
+4/15/19, 7:49 PM - Amrit Cs: Yup I think so.
+4/15/19, 8:17 PM - Jenit Jain: <Media omitted>
+4/15/19, 8:17 PM - Jenit Jain: bro just crop the graph and put it in the report
+4/15/19, 8:18 PM - Amrit Cs: Will do boss

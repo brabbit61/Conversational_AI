@@ -1,0 +1,56 @@
+20/08/2018, 09:00 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+20/08/2018, 09:00 - Amrit Goyal: 172.16.59.125
+20/08/2018, 09:01 - Amrit Goyal: :8000 for access
+23/08/2018, 12:46 - Amrit Goyal: Bro what's the command to open your PC to connections?
+23/08/2018, 12:47 - Jenit Jain: Connections?
+23/08/2018, 12:47 - Jenit Jain: Ifconfig?
+23/08/2018, 12:48 - Amrit Goyal: No no the python thing?
+23/08/2018, 12:49 - Jenit Jain: python -m SimpleHTTPServer 8000
+23/08/2018, 12:49 - Amrit Goyal: Chal thanks a lot.
+23/08/2018, 12:49 - Amrit Goyal: You tell me your port number and IP once you do it okay?
+23/08/2018, 12:50 - Jenit Jain: Yas
+23/08/2018, 13:01 - Amrit Goyal: Sort sort.
+12/10/2018, 07:35 - Jenit Jain: Get the watch today please
+12/10/2018, 07:38 - Amrit Goyal: Yes boss.
+12/10/2018, 07:38 - Jenit Jain: Thanks fam
+14/02/2019, 19:19 - Amrit Goyal: rcb.amrit@gmail.com
+14/02/2019, 19:19 - Amrit Goyal: And which book to study from also you tell. 😂
+14/02/2019, 19:20 - Jenit Jain: Fundamentals of financial management
+14/02/2019, 19:20 - Amrit Goyal: Yup got that.
+19/02/2019, 16:20 - Amrit Goyal: Just a reminder message because I'll forget otherwise 😂
+19/02/2019, 16:49 - Jenit Jain: 😂
+19/02/2019, 16:49 - Jenit Jain: Same number right
+19/02/2019, 16:53 - Amrit Goyal: Yup.
+19/02/2019, 17:27 - Amrit Goyal: You sent money from some harshit saxena guy?
+19/02/2019, 17:27 - Jenit Jain: Yepp
+19/02/2019, 17:27 - Amrit Goyal: Cool thanks. 🙌
+06/04/2019, 16:05 - Jenit Jain: Bro you have tez right
+06/04/2019, 16:11 - Amrit Goyal: Yeah why?
+06/04/2019, 16:18 - Jenit Jain: Bro tez your share to vaibhav na , 100 bucks
+06/04/2019, 16:18 - Jenit Jain: Even I'm sending 100
+06/04/2019, 16:19 - Jenit Jain: I'm not telling sahil because he did extra work and I don't want to piss him off before end sems😂
+06/04/2019, 16:27 - Amrit Goyal: 😂😂😂
+06/04/2019, 16:27 - Amrit Goyal: Alright done.
+06/04/2019, 16:27 - Amrit Goyal: Give.me his number na.
+06/04/2019, 16:28 - Jenit Jain: Vaibhav Cs.vcf (file attached)
+06/04/2019, 19:58 - Amrit Goyal: Done.
+06/04/2019, 19:58 - Jenit Jain: 👍🏻
+15/04/2019, 19:10 - Jenit Jain: Limitations and Improvements:
+The algorithm runs till only n=10 because of single GPU, Golomb's ruler for larger values of n are computed using cluster computers so we couldn't implement that, also we are using global memory in kernel and each kernel defines an array to store the ruler which can be optimised by using shared memory. For efficient use of the GPU under heavy computation, we must run the parallelized form of the algorithm on clusters, and take advantage of the shared memory available.
+15/04/2019, 19:31 - Amrit Goyal: Itna kaafi Hain?
+15/04/2019, 19:33 - Jenit Jain: It's only a small part na
+15/04/2019, 19:33 - Jenit Jain: I'll send pics yoo
+15/04/2019, 19:34 - Amrit Goyal: Alright.
+15/04/2019, 19:43 - Amrit Goyal: You're finding the results ka graph right?
+15/04/2019, 19:48 - Jenit Jain: It's fine I'll make the graphs and send
+15/04/2019, 19:48 - Jenit Jain: Just n vs time.rigjt
+15/04/2019, 19:49 - Amrit Goyal: Yup I think so.
+15/04/2019, 20:17 - Jenit Jain: <Media omitted>
+15/04/2019, 20:17 - Jenit Jain: bro just  crop the graph and put it in the report
+15/04/2019, 20:17 - Amrit Goyal: Will do boss
+21/10/2019, 00:36 - Amrit Goyal: Bro that 9th MCQ in last year's paper
+21/10/2019, 00:36 - Amrit Goyal: How is it D?
+21/10/2019, 08:42 - Jenit Jain: Because *p is basically the location of x
+21/10/2019, 08:42 - Jenit Jain: And since *p (x) is on the lhs of =  that's why definition of the 2
+21/10/2019, 08:43 - Amrit Goyal: Thanks bro
+24/10/2019, 18:33 - Amrit Goyal's security code changed. Tap for more info.

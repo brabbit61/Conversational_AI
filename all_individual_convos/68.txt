@@ -1,0 +1,83 @@
+06/08/2019, 13:54 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+06/08/2019, 13:54 - Jenit Jain: .
+29/08/2019, 11:07 - Nihal Pereira: Yo dude nihal here
+29/08/2019, 11:08 - Nihal Pereira: Coukd u plz send the link pred problem she did in class?
+29/08/2019, 11:08 - Jenit Jain: Yep just a min
+29/08/2019, 11:09 - Nihal Pereira: Thanks a lot dude
+29/08/2019, 11:09 - Jenit Jain: <Media omitted>
+29/08/2019, 11:09 - Jenit Jain: <Media omitted>
+29/08/2019, 11:09 - Jenit Jain: <Media omitted>
+29/08/2019, 11:10 - Nihal Pereira: Thanks again dude
+07/09/2019, 12:24 - Nihal Pereira: Yo dude
+07/09/2019, 12:24 - Nihal Pereira: Largest connected component based on no of edges?
+07/09/2019, 12:24 - Nihal Pereira: Or nodes
+07/09/2019, 12:25 - Jenit Jain: Nodes
+07/09/2019, 12:25 - Nihal Pereira: Thanks fam
+07/09/2019, 12:25 - Jenit Jain: But why do you need to find the largest component?
+07/09/2019, 12:25 - Nihal Pereira: It's given on slides
+07/09/2019, 12:25 - Nihal Pereira: A unsolved question
+07/09/2019, 12:25 - Jenit Jain: Accha.
+07/09/2019, 12:25 - Jenit Jain: Alright cool
+07/09/2019, 12:25 - Jenit Jain: I thought another concept that idk 😂
+07/09/2019, 12:26 - Nihal Pereira: 😂
+07/09/2019, 12:26 - Nihal Pereira: Thanks again
+07/09/2019, 12:26 - Nihal Pereira: <Media omitted>
+07/09/2019, 12:26 - Nihal Pereira: This was one
+07/09/2019, 12:26 - Jenit Jain: So it is the left one or the right?
+07/09/2019, 12:26 - Nihal Pereira: Omfg
+07/09/2019, 12:26 - Nihal Pereira: 😂
+07/09/2019, 12:27 - Nihal Pereira: Who knows now 😂
+07/09/2019, 12:27 - Jenit Jain: Nahi ayega
+07/09/2019, 12:27 - Nihal Pereira: I guess edges also play a role then
+07/09/2019, 12:27 - Nihal Pereira: I'll ask on group
+07/09/2019, 13:31 - Nihal Pereira: <Media omitted>
+07/09/2019, 13:31 - Nihal Pereira: <Media omitted>
+07/09/2019, 13:31 - Nihal Pereira: <Media omitted>
+07/09/2019, 13:31 - Nihal Pereira: Nibs for u
+07/09/2019, 13:31 - Nihal Pereira: Freeman shit
+07/09/2019, 13:32 - Jenit Jain: Haha yeah found the same question in my book as well. Thanks
+07/09/2019, 13:32 - Nihal Pereira: Cool
+07/09/2019, 13:32 - Nihal Pereira: Ans is 21/42
+07/09/2019, 13:34 - Jenit Jain: No bro
+07/09/2019, 13:34 - Jenit Jain: Check your degrees again
+07/09/2019, 13:34 - Jenit Jain: Since it's directed, degree = in + out
+07/09/2019, 13:34 - Jenit Jain: Your degree of I is wrong
+07/09/2019, 13:35 - Jenit Jain: <Media omitted>
+07/09/2019, 13:35 - Nihal Pereira: Omg
+07/09/2019, 13:35 - Nihal Pereira: Thanks man
+07/09/2019, 13:39 - Nihal Pereira: U forgot H
+07/09/2019, 13:39 - Nihal Pereira: 20/42
+07/09/2019, 13:54 - Jenit Jain: Accha ha thanks
+07/09/2019, 14:36 - Nihal Pereira: Yo dude
+07/09/2019, 14:36 - Nihal Pereira: <Media omitted>
+07/09/2019, 14:36 - Nihal Pereira: Bottom sentence
+07/09/2019, 14:38 - Jenit Jain: ARGHHH
+07/09/2019, 14:38 - Nihal Pereira: Lol
+09/09/2019, 00:42 - Nihal Pereira: When we count the no of unique words, 
+Do we count captitalized "THE" and "the" as same
+09/09/2019, 00:42 - Nihal Pereira: And singular "cat" and plural "cats" as same?
+09/09/2019, 00:44 - Jenit Jain: This I think no
+09/09/2019, 00:44 - Jenit Jain: And this yes
+09/09/2019, 00:44 - Nihal Pereira: Cool thanks dude
+09/09/2019, 00:44 - Jenit Jain: But dw they won't give such cases
+09/09/2019, 00:44 - Nihal Pereira: Hopefully 😂
+24/09/2019, 00:22 - Nihal Pereira: Hey dude
+24/09/2019, 00:23 - Nihal Pereira: In SNA , if there is a missing value do we consider it as non matching or do we ignore it?
+24/09/2019, 00:23 - Nihal Pereira: <Media omitted>
+24/09/2019, 09:00 - Jenit Jain: Bro I actually missed a lot of classes with this topic. But I think you take it as partial match partial non match or something like that
+24/09/2019, 09:00 - Jenit Jain: Can't really help you here sorry 🙈
+24/09/2019, 10:03 - Nihal Pereira: Np xd
+12/10/2019, 11:50 - Nihal Pereira: So dude
+12/10/2019, 11:50 - Nihal Pereira: Did u ask how many bunks
+12/10/2019, 11:50 - Nihal Pereira: For semino
+12/10/2019, 11:52 - Jenit Jain: I bunked today also 😂😂
+12/10/2019, 11:52 - Jenit Jain: I have 6 bunks bro I'm fucked
+12/10/2019, 11:52 - Jenit Jain: I'll go talk to ancilla on monday
+12/10/2019, 11:55 - Nihal Pereira: Cool
+12/10/2019, 11:55 - Nihal Pereira: Xd
+12/10/2019, 11:55 - Nihal Pereira: I have 4 tho
+21/10/2019, 14:22 - Nihal Pereira: Dude do u have spectral algo
+21/10/2019, 14:22 - Nihal Pereira: Problems
+21/10/2019, 14:23 - Nihal Pereira: And markov
+21/10/2019, 14:31 - Jenit Jain: No🙈🙈
+21/10/2019, 14:34 - Nihal Pereira: Xd

@@ -1,0 +1,50 @@
+2/20/19, 8:53 PM - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+2/20/19, 8:53 PM - Jenit Jain: https://drive.google.com/folderview?id=1T5up94hoOGnO_2Ekx4FjOtRydHhMJzxi
+2/20/19, 8:54 PM - Jenit Jain: The crop-detection_image is the driver file
+2/20/19, 8:54 PM - Jenit Jain: I haven't sent the model, just the code
+2/20/19, 8:54 PM - Jenit Jain: There are so many files because those were needed for the tensorflow API
+2/20/19, 8:55 PM - Jenit Jain: Although I suggest y'all Implement yolo v3
+2/20/19, 9:06 PM - Hamza Physiz: We'll do that with you
+2/20/19, 9:06 PM - Hamza Physiz: Yolo
+2/20/19, 9:07 PM - Jenit Jain: I'm planning couple of other things this sem so y'all go ahead with this. Good thing is that I have the data and labels already for this
+2/20/19, 9:08 PM - Hamza Physiz: Cool
+2/20/19, 9:08 PM - Hamza Physiz: Don't worry even if we do something with it
+2/20/19, 9:08 PM - Hamza Physiz: We'll definitely give credits and royalty
+2/20/19, 9:08 PM - Hamza Physiz: Haha
+2/20/19, 9:17 PM - Jenit Jain: 😂 thanks man
+2/20/19, 9:17 PM - Jenit Jain: Let me know how it comes along
+2/20/19, 9:17 PM - Jenit Jain: Still working at physiz this sem?
+2/20/19, 9:29 PM - Hamza Physiz: Yup
+2/20/19, 9:29 PM - Hamza Physiz: Working full time now
+2/20/19, 9:31 PM - Hamza Physiz: When are you in Mumbai next ?
+2/20/19, 9:49 PM - Jenit Jain: Damn
+2/20/19, 9:49 PM - Jenit Jain: 8th May
+2/20/19, 9:50 PM - Jenit Jain: Quite some time
+2/20/19, 9:50 PM - Jenit Jain: Front end?
+2/20/19, 9:52 PM - Hamza Physiz: Areh May
+2/20/19, 9:52 PM - Hamza Physiz: Long time
+2/20/19, 9:52 PM - Hamza Physiz: Both now
+2/20/19, 9:52 PM - Hamza Physiz: Back end and FE
+2/20/19, 9:53 PM - Hamza Physiz: Abhishek more focused on hardware coding now
+2/20/19, 9:53 PM - Jenit Jain: Wah nice man
+2/20/19, 9:53 PM - Jenit Jain: Anything happening with ML now? 😂
+2/20/19, 11:23 PM - Hamza Physiz: No not as of now
+2/20/19, 11:23 PM - Hamza Physiz: Later this year maybe
+2/20/19, 11:23 PM - Hamza Physiz: Come on board then
+2/21/19, 7:21 AM - Jenit Jain: Kismat achi Hui toh kabhi nahi😂😂
+2/21/19, 8:42 AM - Hamza Physiz: <Media omitted>
+2/21/19, 8:44 AM - Jenit Jain: <Media omitted>
+2/21/19, 8:45 AM - Hamza Physiz: Damn
+2/24/19, 12:47 PM - Jenit Jain: <Media omitted>
+2/24/19, 1:18 PM - Hamza Physiz: Banda haat bhaada raha
+2/24/19, 1:18 PM - Hamza Physiz: Apna haat peeche Mt rahkna.
+2/24/19, 1:19 PM - Hamza Physiz: Else. 
+Your choice.
+2/24/19, 1:56 PM - Jenit Jain: Pata nahi yaar
+2/24/19, 1:57 PM - Jenit Jain: He's too fucked in his head. Don't know what he's thinking
+2/24/19, 1:57 PM - Jenit Jain: I'm planning to work in a corporate environment. Thanks anyway.
+2/24/19, 1:57 PM - Jenit Jain: This is what I replied
+2/24/19, 1:57 PM - Jenit Jain: Physiz na ho payega
+2/24/19, 2:41 PM - Hamza Physiz: Yeah he is unpredictable
+2/24/19, 2:41 PM - Hamza Physiz: But the doors will always be open, that's for sure.
+2/24/19, 2:41 PM - Hamza Physiz: Hahah

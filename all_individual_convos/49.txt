@@ -1,0 +1,42 @@
+11/10/2018, 19:52 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+11/10/2018, 19:52 - Jenit Jain: Hey, did you solve the question you sent on the group? The simd one
+11/10/2018, 20:00 - Kriti Anandan: Yup
+11/10/2018, 20:03 - Jenit Jain: Can you please send the solution :)
+11/10/2018, 20:21 - Kriti Anandan: This message was deleted
+11/10/2018, 20:31 - Jenit Jain: How'd you get N as 25
+11/10/2018, 20:32 - Kriti Anandan: Oh wait
+11/10/2018, 20:32 - Kriti Anandan: I was answering some other question
+11/10/2018, 20:33 - Kriti Anandan: Ignore that
+11/10/2018, 20:33 - Kriti Anandan: So I assumed it's the Illiac 4 network
+11/10/2018, 20:33 - Kriti Anandan: It's the simplest design for one PE connected to 4 others
+11/10/2018, 20:37 - Kriti Anandan: And we need r which is root N
+11/10/2018, 20:37 - Kriti Anandan: And only N= 25 has a proper square root
+11/10/2018, 20:54 - Jenit Jain: Isnt there some formula 2n-1 for the number PEs one PE  is connected to
+11/10/2018, 20:56 - Kriti Anandan: Um in which topic
+11/10/2018, 20:56 - Jenit Jain: Wait
+11/10/2018, 20:57 - Jenit Jain: This is in barrel shifter
+11/10/2018, 20:58 - Kriti Anandan: Well illiac routing functions satisfies the condition as well
+11/10/2018, 20:59 - Jenit Jain: The question has only simd so how do we know which network to select?
+11/10/2018, 21:01 - Kriti Anandan: Aren't they all SIMD
+11/10/2018, 21:01 - Jenit Jain: Exactly
+11/10/2018, 21:01 - Kriti Anandan: Like we only deal with the PEs
+11/10/2018, 21:01 - Kriti Anandan: And there are multiple PEs
+11/10/2018, 21:01 - Kriti Anandan: So I think both work if they satisfy it
+11/10/2018, 21:02 - Kriti Anandan: Like you have make a barrel shifter network within those constraints
+11/10/2018, 21:02 - Kriti Anandan: Mesh network is just easier
+11/10/2018, 21:02 - Kriti Anandan: Afaik most did mesh
+11/10/2018, 21:06 - Jenit Jain: Alright
+11/10/2018, 21:06 - Jenit Jain: Thankss
+11/10/2018, 21:08 - Kriti Anandan: Welcome 😬
+25/03/2019, 02:32 - Kriti Anandan: Hey do we have replacement analysis in the syllabus?
+25/03/2019, 07:40 - Jenit Jain: I'm eefm?
+25/03/2019, 07:40 - Jenit Jain: In*
+25/03/2019, 07:41 - Jenit Jain: Never heard of it🙈
+25/03/2019, 07:42 - Kriti Anandan: Nothing nothing I got confused
+25/03/2019, 07:45 - Jenit Jain: All the best🙈
+25/03/2019, 07:47 - Kriti Anandan: Thanks 😂
+25/04/2019, 12:44 - Jenit Jain: <Media omitted>
+25/04/2019, 12:44 - Jenit Jain: <Media omitted>
+25/04/2019, 12:55 - Kriti Anandan: Uh
+25/04/2019, 12:55 - Kriti Anandan: What do you mean
+25/04/2019, 12:58 - Jenit Jain: Like how did they get the associated cost

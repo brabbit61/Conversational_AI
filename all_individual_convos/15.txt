@@ -1,0 +1,268 @@
+05/09/2018, 18:43 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+05/09/2018, 18:43 - Jenit Jain: Got into DSC?
+05/09/2018, 21:24 - Apratim Mukherjee: Ye
+05/09/2018, 21:24 - Apratim Mukherjee: Me Sarthak Arijit
+05/09/2018, 21:24 - Jenit Jain: Lol nice
+04/10/2018, 20:37 - Jenit Jain: Yo
+04/10/2018, 20:38 - Jenit Jain: Wish me at 12
+05/10/2018, 00:03 - Apratim Mukherjee: Happy Birthday dumbass
+05/10/2018, 00:03 - Apratim Mukherjee: 🎊🎉🎊
+06/11/2018, 00:06 - Jenit Jain: <Media omitted>
+06/11/2018, 00:09 - Apratim Mukherjee: F
+06/11/2018, 00:10 - Apratim Mukherjee: Ik u do this
+06/11/2018, 00:13 - Jenit Jain: So vasvi again from what I hear
+06/11/2018, 00:33 - Jenit Jain: Tellll
+27/11/2018, 10:57 - Jenit Jain: Have you taken AI
+27/11/2018, 13:01 - Apratim Mukherjee: Yep
+27/11/2018, 13:01 - Jenit Jain: Who else
+27/11/2018, 13:03 - Apratim Mukherjee: No idea
+01/02/2019, 12:58 - Jenit Jain: Oye
+01/02/2019, 12:58 - Jenit Jain: Kaunsa theorbroma
+01/02/2019, 12:58 - Jenit Jain: Jaldi Bata madarchod
+01/02/2019, 13:00 - Apratim Mukherjee: O
+01/02/2019, 13:00 - Apratim Mukherjee: Koi sa bhi
+01/02/2019, 13:00 - Apratim Mukherjee: Jo mood kare
+01/02/2019, 13:00 - Jenit Jain: Tere liye imaginary lauga
+01/02/2019, 13:00 - Apratim Mukherjee: Woh bhi chalega
+01/02/2019, 13:01 - Apratim Mukherjee: 😘
+15/02/2019, 13:09 - Jenit Jain: Informed search is the last thing
+15/02/2019, 13:09 - Apratim Mukherjee: My textbook doesn't have
+15/02/2019, 13:09 - Apratim Mukherjee: It's old
+15/02/2019, 13:09 - Apratim Mukherjee: Lolz
+15/02/2019, 13:11 - Apratim Mukherjee: I had the first edition
+15/02/2019, 13:11 - Apratim Mukherjee: It's from third edition
+30/03/2019, 17:31 - Jenit Jain: Apu
+30/03/2019, 20:56 - Apratim Mukherjee: Ye wat up
+31/03/2019, 02:20 - Jenit Jain: Is naive Bayes Classifier linear or non Linear
+31/03/2019, 02:20 - Jenit Jain: And in it the number of training instances per class changes the output na
+31/03/2019, 02:20 - Jenit Jain: What is this called?
+31/03/2019, 02:20 - Jenit Jain: Local something na
+31/03/2019, 02:20 - Jenit Jain: Like some technical word
+31/03/2019, 02:20 - Jenit Jain: Is it called class likelihood
+31/03/2019, 10:54 - Apratim Mukherjee: Log likelihood?
+31/03/2019, 12:46 - Jenit Jain: Not used in Bayes theorem right
+31/03/2019, 13:49 - Apratim Mukherjee: Bayes likelihood is different no
+31/03/2019, 13:50 - Apratim Mukherjee: Prior, likelihood and estimator are the 3 things for Bayes right
+31/03/2019, 14:00 - Jenit Jain: Arre but in Bayes there's a thing like right that if a particular class instances are more in the training set then that class is more likely to be predicted
+31/03/2019, 14:02 - Apratim Mukherjee: That's because your prior is higher no
+31/03/2019, 14:04 - Jenit Jain: Because the class likelihood is more?
+31/03/2019, 14:36 - Jenit Jain: And this?
+31/03/2019, 20:10 - Apratim Mukherjee: Non linear
+31/03/2019, 20:23 - Jenit Jain: Because it doesn't have any specific weighted sum of the inputs that's why right
+09/04/2019, 20:29 - Jenit Jain: What elective are you selecting
+09/04/2019, 20:49 - Apratim Mukherjee: Cv
+10/04/2019, 10:24 - Jenit Jain: Happy birthday Apu
+10/04/2019, 13:18 - Apratim Mukherjee: Thanks bro <3
+16/04/2019, 14:47 - Jenit Jain: Dude
+16/04/2019, 14:47 - Jenit Jain: What model can I use where both input and output is text
+16/04/2019, 14:48 - Jenit Jain: LSTM or rnn only I'll have to us no
+16/04/2019, 17:19 - Apratim Mukherjee: Ya good choice
+26/04/2019, 23:47 - Jenit Jain: Which gtx do you have
+27/04/2019, 12:39 - Apratim Mukherjee: 1060
+27/04/2019, 13:12 - Jenit Jain: And how many marks in pcap today😂
+27/04/2019, 17:17 - Apratim Mukherjee: Will get gud marks
+27/04/2019, 17:18 - Jenit Jain: Seriously fuck
+10/05/2019, 12:28 - Jenit Jain: Do you have an internship?
+10/05/2019, 23:11 - Apratim Mukherjee: Ye
+10/05/2019, 23:11 - Apratim Mukherjee: I haz internship
+10/05/2019, 23:11 - Apratim Mukherjee: Why u askin
+10/05/2019, 23:12 - Jenit Jain: Where?
+10/05/2019, 23:12 - Jenit Jain: Cos I broke af nigga
+10/05/2019, 23:12 - Jenit Jain: Fucked for the vacation
+10/05/2019, 23:12 - Jenit Jain: Needed ideas to move forward or I'll end up wasting it.
+10/05/2019, 23:12 - Apratim Mukherjee: Rip
+10/05/2019, 23:13 - Apratim Mukherjee: Worcester Polytechnic Institute
+10/05/2019, 23:14 - Jenit Jain: US meh hi rehja chutiya
+10/05/2019, 23:14 - Jenit Jain: Research I wanna start
+10/05/2019, 23:14 - Apratim Mukherjee: :c
+10/05/2019, 23:16 - Jenit Jain: Tell me the process tomorrow or whenever you free. And this I'm literally counting on you and seeing the start of the year, you please don't let my year go as shitty as the start
+10/05/2019, 23:16 - Jenit Jain: Love you thanks
+10/05/2019, 23:16 - Apratim Mukherjee: Wat
+10/05/2019, 23:16 - Apratim Mukherjee: What process
+10/05/2019, 23:17 - Jenit Jain: How to go about doing the research part.
+10/05/2019, 23:17 - Jenit Jain: Idk
+10/05/2019, 23:17 - Jenit Jain: Help
+10/05/2019, 23:17 - Apratim Mukherjee: What'd you wanna know
+10/05/2019, 23:17 - Jenit Jain: <Media omitted>
+10/05/2019, 23:18 - Apratim Mukherjee: Research isn't a stand alone field man
+10/05/2019, 23:18 - Apratim Mukherjee: The only way I encountered it was doing something to solve a specific problem
+10/05/2019, 23:19 - Apratim Mukherjee: And on the way I figured out a slightly different method that people hadn't tried yet
+10/05/2019, 23:19 - Apratim Mukherjee: Or seemed like it wouldn't work
+10/05/2019, 23:19 - Apratim Mukherjee: Took me 1½ years to confirm it actually worked
+10/05/2019, 23:19 - Apratim Mukherjee: :/
+10/05/2019, 23:19 - Jenit Jain: Which was a tiny dataset, so your problem was how to get a larger training dataset and what  things can be done? Right?
+10/05/2019, 23:20 - Apratim Mukherjee: Not really no
+10/05/2019, 23:20 - Jenit Jain: Did you publish it?
+10/05/2019, 23:20 - Apratim Mukherjee: Not yet, need more data
+10/05/2019, 23:20 - Apratim Mukherjee: Moved my stack to tpus
+10/05/2019, 23:20 - Jenit Jain: Nevermind then lol
+10/05/2019, 23:20 - Jenit Jain: Kiska bc
+10/05/2019, 23:20 - Apratim Mukherjee: Trying to speed up the process
+10/05/2019, 23:20 - Apratim Mukherjee: Google
+10/05/2019, 23:20 - Apratim Mukherjee: Free credits
+10/05/2019, 23:20 - Jenit Jain: You're going to continue with this at your internship?
+10/05/2019, 23:21 - Jenit Jain: Accha ha I recently used their gpus. Too ez
+10/05/2019, 23:21 - Apratim Mukherjee: I'll be using it in the internship
+10/05/2019, 23:21 - Apratim Mukherjee: Will cite my own paper
+10/05/2019, 23:21 - Apratim Mukherjee: Aw yis
+10/05/2019, 23:21 - Jenit Jain: 😂
+10/05/2019, 23:21 - Jenit Jain: Accha so over there you'll do something different?
+10/05/2019, 23:22 - Apratim Mukherjee: A little different
+10/05/2019, 23:22 - Apratim Mukherjee: But overall very similar
+10/05/2019, 23:30 - Jenit Jain: Ooo.
+10/05/2019, 23:30 - Jenit Jain: So finally
+10/05/2019, 23:30 - Jenit Jain: I'm tired of Coursera. Prolly not going to do more than a course or 2. Already did 10
+10/05/2019, 23:31 - Jenit Jain: So what should I do ?
+10/05/2019, 23:31 - Jenit Jain: What I'm planning on for a couple of weeks is to perfect my older projects to tune them with whatever better I learned
+10/05/2019, 23:31 - Jenit Jain: But I want do something worthwhile. Especially that'll help me for my Master's application
+10/05/2019, 23:31 - Jenit Jain: Any suggestions?
+10/05/2019, 23:32 - Jenit Jain: You deleted this message
+29/05/2019, 13:51 - Jenit Jain: Boi. While selecting which model to pick in CV, should I select one with larger mAP or smaller Val loss?
+29/05/2019, 18:00 - Apratim Mukherjee: Depends
+29/05/2019, 18:01 - Apratim Mukherjee: If evaluation is same for both cases, then this situation shouldn't arise
+29/05/2019, 18:01 - Apratim Mukherjee: It's not possible only if both were evaluated on the same thing
+29/05/2019, 18:02 - Apratim Mukherjee: If they're evaluated on different sets then check how many images it was actually evaluated on
+29/05/2019, 18:03 - Apratim Mukherjee: If there's slightly lower mAP for a significantly larger val set, choose that
+29/05/2019, 18:13 - Jenit Jain: It was for the same set. I didn't know this fact.
+29/05/2019, 18:13 - Jenit Jain: Basically trying to implement yolo.
+29/05/2019, 18:14 - Apratim Mukherjee: I don't think it's possible
+29/05/2019, 18:14 - Apratim Mukherjee: Smaller val loss should equal higher mAP
+29/05/2019, 18:14 - Apratim Mukherjee: Unless there's a high class imbalance maybe
+29/05/2019, 18:15 - Apratim Mukherjee: Nah actually even then it wouldn't be possible
+29/05/2019, 18:17 - Jenit Jain: Oh I realized what I messed up. I mistook Val loss for training loss nevermind
+29/05/2019, 18:17 - Jenit Jain: mAP is calculated for only the training set right?
+29/05/2019, 18:17 - Jenit Jain: Or you can select?
+29/05/2019, 18:22 - Apratim Mukherjee: mAP for val matters
+29/05/2019, 18:22 - Apratim Mukherjee: That's all
+29/05/2019, 18:23 - Apratim Mukherjee: You could calculate map for training but it has no significance really
+29/05/2019, 18:24 - Apratim Mukherjee: You could check if your model is underfit or overfit though
+29/05/2019, 18:24 - Apratim Mukherjee: High map for training, shit for eval means overfit af
+29/05/2019, 18:27 - Jenit Jain: Accha cool cool
+29/05/2019, 18:27 - Jenit Jain: Thanks
+03/09/2019, 22:34 - Jenit Jain: <Media omitted>
+04/09/2019, 09:01 - Apratim Mukherjee: BET exam
+04/09/2019, 09:01 - Apratim Mukherjee: Kill me
+04/09/2019, 09:02 - Jenit Jain: Killing you before that exam would have really saved you a lotta trouble tru
+04/09/2019, 09:05 - Apratim Mukherjee: I was sick also
+04/09/2019, 09:05 - Apratim Mukherjee: Should have ended me
+03/10/2019, 18:56 - Jenit Jain: Why the fuck are you going home on the night of the photoshoot
+03/10/2019, 18:56 - Jenit Jain: Are you fucking retarded
+03/10/2019, 18:56 - Jenit Jain: Why you like this
+03/10/2019, 20:54 - Apratim Mukherjee: Gotta go home boi
+03/10/2019, 20:54 - Apratim Mukherjee: Can't do anything
+03/10/2019, 20:58 - Jenit Jain: Go on 7th???
+03/10/2019, 20:58 - Jenit Jain: Anyway your going to reach on 7th
+03/10/2019, 21:32 - Apratim Mukherjee: No man
+03/10/2019, 21:32 - Apratim Mukherjee: Have a meeting on 7th morning
+03/10/2019, 21:32 - Apratim Mukherjee: That's why going on 6th
+03/10/2019, 21:34 - Jenit Jain: Manas?
+03/10/2019, 23:12 - Apratim Mukherjee: Nah
+03/10/2019, 23:12 - Apratim Mukherjee: IIsc
+03/10/2019, 23:12 - Jenit Jain: Accha
+03/10/2019, 23:12 - Jenit Jain: Internship?
+03/10/2019, 23:13 - Apratim Mukherjee: Ye
+03/10/2019, 23:13 - Apratim Mukherjee: Prof wanted to meet
+03/10/2019, 23:13 - Jenit Jain: Akli baar Skype ki id dedio
+03/10/2019, 23:15 - Apratim Mukherjee: De chuka
+03/10/2019, 23:15 - Apratim Mukherjee: Usko _personal_ meeting chahiye
+03/10/2019, 23:26 - Jenit Jain: I hear that
+03/10/2019, 23:26 - Jenit Jain: It's alright
+03/10/2019, 23:26 - Jenit Jain: I'll miss you
+03/10/2019, 23:27 - Jenit Jain: It's irritating how you're missing everything
+03/10/2019, 23:27 - Jenit Jain: Theek hai Kar Kar love you
+05/10/2019, 00:42 - Apratim Mukherjee: Happy birthday dickhead
+05/10/2019, 00:42 - Jenit Jain: Thanks cunt
+14/10/2019, 15:15 - Jenit Jain: When deciding the length of sentence to take for an input you have to truncate it right because all the sentence in the dataset are different size. 
+So 
+1) how do you decide what length to truncate to, I tried to visualise the distribution of size and it's not a normal distribution.
+2) how do you include the truncated part in the model
+14/10/2019, 17:34 - Apratim Mukherjee: Pad
+14/10/2019, 17:35 - Apratim Mukherjee: Usually people will find max length of a sequence and pad everything else
+14/10/2019, 17:36 - Apratim Mukherjee: Or you can pass Nones too
+14/10/2019, 17:37 - Apratim Mukherjee: Pad in batches but inter-batch can have variable lengths
+14/10/2019, 17:45 - Jenit Jain: How?
+14/10/2019, 17:50 - Apratim Mukherjee: You'll have to write your own batching function for this
+14/10/2019, 17:50 - Apratim Mukherjee: Group similar lengths together
+14/10/2019, 17:53 - Jenit Jain: This I understood but how will you input different length batches in the same model
+14/10/2019, 17:55 - Apratim Mukherjee: Tf.keras lets you
+14/10/2019, 17:55 - Apratim Mukherjee: You can pass None type for length in an lstm
+14/10/2019, 17:55 - Apratim Mukherjee: I think
+14/10/2019, 17:55 - Apratim Mukherjee: Just cross-check once
+14/10/2019, 18:27 - Jenit Jain: Oh oh okay I'll checkk
+04/11/2019, 04:59 - Jenit Jain: 2019-11-03 23:26:35.772366: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:533] model_pruner failed: Invalid argument: MutableGraphView::MutableGraphView error: node 'loss/time_distributed_1_loss/mean_squared_error/weighted_loss/concat' has self cycle fanin 'loss/time_distributed_1_loss/mean_squared_error/weighted_loss/concat'.
+04/11/2019, 05:00 - Jenit Jain: 2019-11-03 23:26:35.902219: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+04/11/2019, 05:00 - Jenit Jain: please to help thanks luv
+04/11/2019, 17:20 - Apratim Mukherjee: Aise kaise bolu boss
+04/11/2019, 17:22 - Apratim Mukherjee: This probably means you have a cycle in your graph
+04/11/2019, 17:23 - Jenit Jain: Can I send you my model summary
+04/11/2019, 17:23 - Jenit Jain: And code for archi
+04/11/2019, 17:23 - Jenit Jain: It's pretty short and cute
+04/11/2019, 17:30 - Apratim Mukherjee: Do you have tf.nn activations anywhere
+04/11/2019, 17:31 - Jenit Jain: I'm using Keras and in that I'm giving activations
+04/11/2019, 17:31 - Apratim Mukherjee: Wb concat
+04/11/2019, 17:31 - Apratim Mukherjee: Are you using it anywhere
+04/11/2019, 17:32 - Jenit Jain: Repeatvector I'm using
+04/11/2019, 17:33 - Apratim Mukherjee: Which tf version are you using
+04/11/2019, 17:35 - Apratim Mukherjee: Could try rolling back the version
+04/11/2019, 17:36 - Jenit Jain: I'm running it on Collab anyway
+04/11/2019, 17:36 - Jenit Jain: Which version to use
+04/11/2019, 17:37 - Apratim Mukherjee: Any previous version
+04/11/2019, 17:38 - Jenit Jain: Cool I'll check something thanks
+04/11/2019, 17:43 - Apratim Mukherjee: 1.16 or sumthn
+04/11/2019, 17:45 - Apratim Mukherjee: Actually no
+04/11/2019, 17:45 - Apratim Mukherjee: Try downgrading all the way to 1
+04/11/2019, 17:45 - Apratim Mukherjee: Error might be because of an activation preceded by a concat tho apparently
+04/11/2019, 17:46 - Jenit Jain: Mind explaining
+04/11/2019, 17:49 - Apratim Mukherjee: Idk man I googled they said iz vug
+04/11/2019, 17:49 - Apratim Mukherjee: *bug
+04/11/2019, 17:49 - Apratim Mukherjee: Who knos
+04/11/2019, 17:55 - Jenit Jain: Loll even I didn't get it
+09/11/2019, 09:02 - Apratim Mukherjee: Why'd you call
+09/11/2019, 09:03 - Jenit Jain: I was harshas place only. Thought I'd swing by and say hi and offer you some pizza
+09/11/2019, 09:06 - Apratim Mukherjee: Oh rip
+09/11/2019, 09:06 - Apratim Mukherjee: I was out cold
+09/11/2019, 10:04 - Jenit Jain: It wasn't even 10
+09/11/2019, 10:22 - Apratim Mukherjee: Hadn't slept
+09/11/2019, 10:22 - Apratim Mukherjee: Had end sem lab so instead of studying
+09/11/2019, 10:23 - Apratim Mukherjee: Was watching videos all night
+09/11/2019, 10:24 - Jenit Jain: How did your exam go
+09/11/2019, 10:24 - Jenit Jain: Bro I got 10/30 in execution😂
+09/11/2019, 11:20 - Apratim Mukherjee: Wtf xD
+09/11/2019, 11:20 - Apratim Mukherjee: How do you know you got 10/30
+09/11/2019, 11:20 - Apratim Mukherjee: Mine went well I think, got the output
+09/11/2019, 11:21 - Jenit Jain: We had marks written on our paperm so she ticked next to 10 marks lel
+09/11/2019, 11:21 - Jenit Jain: Full no?
+09/11/2019, 11:21 - Apratim Mukherjee: Mayb
+09/11/2019, 11:21 - Jenit Jain: Toh full only youre getting chut
+09/11/2019, 11:21 - Apratim Mukherjee: Write galat hai xD
+09/11/2019, 11:21 - Apratim Mukherjee: *write up
+11/11/2019, 10:07 - Jenit Jain: Madarchod
+11/11/2019, 10:30 - Jenit Jain: You never told me you're dating vasvi!
+14/11/2019, 17:22 - Jenit Jain: Sorry for being so mean
+14/11/2019, 17:57 - Apratim Mukherjee: Relx man
+14/11/2019, 18:25 - Jenit Jain: bolhi deta pehle
+09/01/2020, 12:23 - Jenit Jain: You in Bangalore only no?
+09/01/2020, 13:45 - Apratim Mukherjee: Ye
+09/01/2020, 13:45 - Apratim Mukherjee: Visa hasn't come yet
+09/01/2020, 13:45 - Apratim Mukherjee: <Media omitted>
+09/01/2020, 13:45 - Jenit Jain: Werent you doing iisc only?
+09/01/2020, 13:48 - Apratim Mukherjee: Nono
+09/01/2020, 13:48 - Apratim Mukherjee: IISc till my visa came
+09/01/2020, 13:48 - Jenit Jain: Ohh otherwise where you going
+09/01/2020, 13:49 - Apratim Mukherjee: I'm going to ntu in feb
+09/01/2020, 13:49 - Jenit Jain: Ooooo
+09/01/2020, 13:49 - Jenit Jain: Okay then
+09/01/2020, 13:49 - Jenit Jain: We drink this weekend then.
+09/01/2020, 18:33 - Apratim Mukherjee: Bastard 😂
+09/01/2020, 18:35 - Apratim Mukherjee: How many times have you already gotten drunk in Bangalore
+09/01/2020, 18:37 - Jenit Jain: NO
+09/01/2020, 18:37 - Jenit Jain: I'm flying on Saturday
+09/01/2020, 18:38 - Jenit Jain: I've never been to blore 🙄🙄🙄🙄🙄🙄
+09/01/2020, 18:38 - Jenit Jain: New decade new me
+09/01/2020, 18:38 - Jenit Jain: I've changed
+09/01/2020, 18:38 - Jenit Jain: 😂😂😂💦💦💦💦
+09/01/2020, 23:11 - Apratim Mukherjee: fuck off 😂😂😂😂😂
+09/01/2020, 23:11 - Apratim Mukherjee: How many times have you gotten drunk already *regardless of where you were
+09/01/2020, 23:38 - Jenit Jain: 0
+09/01/2020, 23:39 - Jenit Jain: Well since my mom caught my pot stash at home 😂😂😂
+09/01/2020, 23:39 - Jenit Jain: Yeah man manipal drama is following up like always 🙃

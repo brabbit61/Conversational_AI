@@ -1,0 +1,50 @@
+20/02/2019, 20:53 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+20/02/2019, 20:53 - Jenit Jain: https://drive.google.com/folderview?id=1T5up94hoOGnO_2Ekx4FjOtRydHhMJzxi
+20/02/2019, 20:53 - Jenit Jain: The crop-detection_image is the driver file
+20/02/2019, 20:53 - Jenit Jain: I haven't sent the model, just the code
+20/02/2019, 20:54 - Jenit Jain: There are so many files because those were needed for the tensorflow API
+20/02/2019, 20:54 - Jenit Jain: Although I suggest y'all Implement yolo v3
+20/02/2019, 21:05 - Hamza Ghufran: We'll do that with you
+20/02/2019, 21:05 - Hamza Ghufran: Yolo
+20/02/2019, 21:06 - Jenit Jain: I'm planning couple of other things this sem so y'all go ahead with this. Good thing is that I have the data and labels already for this
+20/02/2019, 21:07 - Hamza Ghufran: Cool
+20/02/2019, 21:07 - Hamza Ghufran: Don't worry even if we do something with it
+20/02/2019, 21:07 - Hamza Ghufran: We'll definitely give credits and royalty
+20/02/2019, 21:07 - Hamza Ghufran: Haha
+20/02/2019, 21:16 - Jenit Jain: 😂 thanks man
+20/02/2019, 21:16 - Jenit Jain: Let me know how it comes along
+20/02/2019, 21:16 - Jenit Jain: Still working at physiz this sem?
+20/02/2019, 21:28 - Hamza Ghufran: Yup
+20/02/2019, 21:28 - Hamza Ghufran: Working full time now
+20/02/2019, 21:30 - Hamza Ghufran: When are you in Mumbai next ?
+20/02/2019, 21:49 - Jenit Jain: Damn
+20/02/2019, 21:49 - Jenit Jain: 8th May
+20/02/2019, 21:49 - Jenit Jain: Quite some time
+20/02/2019, 21:49 - Jenit Jain: Front end?
+20/02/2019, 21:51 - Hamza Ghufran: Areh May
+20/02/2019, 21:51 - Hamza Ghufran: Long time
+20/02/2019, 21:51 - Hamza Ghufran: Both now
+20/02/2019, 21:52 - Hamza Ghufran: Back end and FE
+20/02/2019, 21:52 - Hamza Ghufran: Abhishek more focused on hardware coding now
+20/02/2019, 21:52 - Jenit Jain: Wah nice man
+20/02/2019, 21:52 - Jenit Jain: Anything happening with ML now? 😂
+20/02/2019, 23:22 - Hamza Ghufran: No not as of now
+20/02/2019, 23:22 - Hamza Ghufran: Later this year maybe
+20/02/2019, 23:22 - Hamza Ghufran: Come on board then
+21/02/2019, 07:20 - Jenit Jain: Kismat achi Hui toh kabhi nahi😂😂
+21/02/2019, 08:41 - Hamza Ghufran: <Media omitted>
+21/02/2019, 08:43 - Jenit Jain: <Media omitted>
+21/02/2019, 08:44 - Hamza Ghufran: Damn
+24/02/2019, 12:46 - Jenit Jain: <Media omitted>
+24/02/2019, 13:17 - Hamza Ghufran: Banda haat bhaada raha
+24/02/2019, 13:18 - Hamza Ghufran: Apna haat peeche Mt rahkna.
+24/02/2019, 13:18 - Hamza Ghufran: Else. 
+Your choice.
+24/02/2019, 13:56 - Jenit Jain: Pata nahi yaar
+24/02/2019, 13:56 - Jenit Jain: He's too fucked in his head. Don't know what he's thinking
+24/02/2019, 13:56 - Jenit Jain: I'm planning to work in a corporate environment. Thanks anyway.
+24/02/2019, 13:56 - Jenit Jain: This is what I replied
+24/02/2019, 13:56 - Jenit Jain: Physiz na ho payega
+24/02/2019, 14:40 - Hamza Ghufran: Yeah he is unpredictable
+24/02/2019, 14:40 - Hamza Ghufran: But the doors will always be open, that's for sure.
+24/02/2019, 14:40 - Hamza Ghufran: Hahah

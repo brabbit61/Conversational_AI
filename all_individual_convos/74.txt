@@ -1,0 +1,1858 @@
+15/08/2018, 12:33 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+15/08/2018, 12:33 - Priyanka Sahoo: Awww so cute xD
+15/08/2018, 12:34 - Priyanka Sahoo: Dude did Sasha block you on social media also?
+15/08/2018, 12:45 - Jenit Jain: Don't care enough to check
+16/08/2018, 14:24 - Priyanka Sahoo: Do you have ca assignment rn
+16/08/2018, 14:24 - Jenit Jain: Yep
+16/08/2018, 14:25 - Priyanka Sahoo: Fml
+16/08/2018, 14:25 - Priyanka Sahoo: Do you have the questions rn
+16/08/2018, 14:25 - Jenit Jain: Sit next to someone smart
+16/08/2018, 14:25 - Jenit Jain: Nope
+16/08/2018, 14:25 - Jenit Jain: She's still teaching
+16/08/2018, 14:25 - Priyanka Sahoo: Same
+16/08/2018, 14:25 - Priyanka Sahoo: What about os? Is that today ?
+16/08/2018, 14:27 - Jenit Jain: No clue
+16/08/2018, 14:28 - Jenit Jain: If it is then I'm fucked
+16/08/2018, 14:29 - Priyanka Sahoo: Same
+16/08/2018, 14:29 - Priyanka Sahoo: I'm sitting next to komal
+16/08/2018, 14:30 - Priyanka Sahoo: Hopefully she has some good notes
+20/08/2018, 00:24 - Priyanka Sahoo: Send algo lab 3 codes plsss
+20/08/2018, 06:26 - Jenit Jain: <Media omitted>
+20/08/2018, 06:26 - Jenit Jain: <Media omitted>
+20/08/2018, 06:26 - Jenit Jain: <Media omitted>
+20/08/2018, 06:26 - Jenit Jain: <Media omitted>
+20/08/2018, 07:05 - Priyanka Sahoo: Thanksss
+20/08/2018, 15:05 - Jenit Jain: Are you still downstairs
+20/08/2018, 15:06 - Priyanka Sahoo: Yes
+29/08/2018, 20:59 - Priyanka Sahoo: <Media omitted>
+29/08/2018, 20:59 - Priyanka Sahoo: Have you solved this
+29/08/2018, 21:58 - Jenit Jain: I mean just my question
+29/08/2018, 22:30 - Priyanka Sahoo: Show me plss
+29/08/2018, 22:31 - Jenit Jain: Man I don't solve stuff before exams
+29/08/2018, 22:31 - Jenit Jain: If I get solutions I'll forward them
+29/08/2018, 22:32 - Priyanka Sahoo: Okay fine
+29/08/2018, 22:32 - Priyanka Sahoo: Wait can u check if I solved one of the questions correctly
+29/08/2018, 22:32 - Jenit Jain: Sure
+29/08/2018, 22:32 - Priyanka Sahoo: <Media omitted>
+29/08/2018, 22:39 - Jenit Jain: When you draw the state diagram, when you right shift 11110 by one and then or it to get 11111 you don't make new state. The arrow goes to the already existing 11111 state
+29/08/2018, 22:43 - Priyanka Sahoo: <Media omitted>
+29/08/2018, 22:54 - Jenit Jain: Nope
+29/08/2018, 22:54 - Jenit Jain: Hold on I'm doing it now
+29/08/2018, 23:02 - Jenit Jain: You deleted this message
+29/08/2018, 23:02 - Jenit Jain: <Media omitted>
+29/08/2018, 23:09 - Priyanka Sahoo: Is the greedy cycle (1,1,6) cause it's avg latency is less than 3?
+29/08/2018, 23:10 - Jenit Jain: In a greedy cycle, all the elements need to have the least latency for the particular node. Basically all elements need to have *
+29/08/2018, 23:12 - Priyanka Sahoo: Ah okayokay
+29/08/2018, 23:12 - Priyanka Sahoo: And how do you find efficiency
+29/08/2018, 23:22 - Jenit Jain: You see the frame with 40 blocks
+29/08/2018, 23:23 - Jenit Jain: Check how many have tasks executing in them and how many are empty
+29/08/2018, 23:23 - Jenit Jain: Busy/ total
+29/08/2018, 23:36 - Priyanka Sahoo: Okie thankss
+04/09/2018, 14:11 - Jenit Jain: Just showed revati the ss😂
+04/09/2018, 14:12 - Priyanka Sahoo: YOU BITCH
+04/09/2018, 14:12 - Priyanka Sahoo: WHY WOULD U DO THAT
+04/09/2018, 14:12 - Priyanka Sahoo: PLS TELL ME YOU HID THE CAPTION AT LEAST
+04/09/2018, 14:13 - Jenit Jain: Yeah she didn't see that 😂
+04/09/2018, 14:14 - Priyanka Sahoo: Thank goodness
+04/09/2018, 14:14 - Priyanka Sahoo: What did she say?
+04/09/2018, 14:15 - Jenit Jain: Why are you being weird
+04/09/2018, 14:16 - Priyanka Sahoo: How am I being weird 😮
+04/09/2018, 14:16 - Priyanka Sahoo: I'm always weird tho ahahah
+04/09/2018, 14:16 - Jenit Jain: Dude how much did we talk last night
+04/09/2018, 14:16 - Jenit Jain: And about what 😂
+04/09/2018, 14:16 - Jenit Jain: I blacked the fuck out
+04/09/2018, 14:17 - Priyanka Sahoo: I knew you'd forget
+04/09/2018, 14:17 - Priyanka Sahoo: You told me about how you told your mom about you and dikshita
+04/09/2018, 14:18 - Priyanka Sahoo: And you also mentioned about how she was molested by some guy in 414
+04/09/2018, 14:19 - Jenit Jain: Oh yeah
+04/09/2018, 14:19 - Jenit Jain: Damn
+04/09/2018, 14:19 - Priyanka Sahoo: Oh and harshit, you and I started talking about how i need to move on from Rudhran
+04/09/2018, 14:19 - Priyanka Sahoo: Which is when you said that you understand why I haven't been able to move on from him cause of the way he treated and respected me
+04/09/2018, 14:19 - Priyanka Sahoo: AND then I told you about Parv
+04/09/2018, 14:20 - Priyanka Sahoo: Showed you the chat b/w him and I
+04/09/2018, 14:20 - Priyanka Sahoo: That's about it
+04/09/2018, 14:21 - Priyanka Sahoo: So yeah we did talk quite a lot I guess :')
+04/09/2018, 14:24 - Jenit Jain: Don't remember ANY of this
+04/09/2018, 14:24 - Jenit Jain: Ew
+04/09/2018, 14:25 - Priyanka Sahoo: Hahahahah fuck off
+04/09/2018, 14:26 - Priyanka Sahoo: You got drunk really fast
+04/09/2018, 14:26 - Priyanka Sahoo: You found the whole parv thingy funny
+04/09/2018, 14:27 - Priyanka Sahoo: I won't tell you what I told you about him tho 😂 iss a secret
+04/09/2018, 15:29 - Jenit Jain: Realllyyyyy don't care enough
+04/09/2018, 16:32 - Priyanka Sahoo: Stop lying
+04/09/2018, 16:32 - Priyanka Sahoo: I know you do
+07/09/2018, 22:13 - Priyanka Sahoo: Jenittttt
+07/09/2018, 22:13 - Priyanka Sahoo: Algo lab 5 codes plzzzz
+07/09/2018, 22:16 - Jenit Jain: Yas
+07/09/2018, 22:23 - Priyanka Sahoo: Thnx man
+07/09/2018, 22:37 - Priyanka Sahoo: Listennn, did you send them?
+07/09/2018, 22:51 - Jenit Jain: <Media omitted>
+07/09/2018, 22:51 - Jenit Jain: <Media omitted>
+07/09/2018, 22:52 - Jenit Jain: <Media omitted>
+07/09/2018, 22:52 - Jenit Jain: <Media omitted>
+07/09/2018, 22:54 - Priyanka Sahoo: Thank youuu💛
+07/09/2018, 22:58 - Jenit Jain: In the pictures the third question is actually the second
+07/09/2018, 22:58 - Jenit Jain: You deleted this message
+07/09/2018, 22:59 - Jenit Jain: <Media omitted>
+07/09/2018, 22:59 - Jenit Jain: And this is 1)ii)
+07/09/2018, 23:02 - Priyanka Sahoo: Okiee thankss
+11/09/2018, 13:09 - Priyanka Sahoo: Brah
+11/09/2018, 13:09 - Priyanka Sahoo: do we have cn assignment rn
+11/09/2018, 13:11 - Jenit Jain: Doubt ut
+11/09/2018, 13:13 - Priyanka Sahoo: But there's a possibility we might have it today right?
+11/09/2018, 13:13 - Jenit Jain: Yes
+11/09/2018, 16:58 - Priyanka Sahoo: Dude is there CA assignment today
+11/09/2018, 17:00 - Priyanka Sahoo: Nvm komal gave me a mini heart attack by telling me there's CA assignment rn
+13/09/2018, 20:09 - Priyanka Sahoo: Jenitttt
+13/09/2018, 20:09 - Priyanka Sahoo: What you doing
+13/09/2018, 20:12 - Jenit Jain: Sup
+13/09/2018, 20:12 - Priyanka Sahoo: Let's make plansss
+13/09/2018, 20:12 - Jenit Jain: For
+13/09/2018, 20:12 - Priyanka Sahoo: Idk drinking plans maybe
+13/09/2018, 20:13 - Jenit Jain: Tonight?
+13/09/2018, 20:14 - Priyanka Sahoo: Yeah
+13/09/2018, 20:16 - Jenit Jain: We're watching a movie come over
+13/09/2018, 20:16 - Jenit Jain: If you have nothing to do
+13/09/2018, 20:18 - Priyanka Sahoo: Okii
+13/09/2018, 20:32 - Priyanka Sahoo: Eyy come down
+22/09/2018, 00:30 - Priyanka Sahoo: Do you have algo lab 6 codes?
+29/09/2018, 22:51 - Jenit Jain: Whyd you deactivate your insta
+29/09/2018, 23:08 - Priyanka Sahoo: Cause I'm unhappy with life. Needed a break from social media
+29/09/2018, 23:11 - Priyanka Sahoo: i'll activate it once i feel good about myself
+29/09/2018, 23:22 - Jenit Jain: Tell me
+29/09/2018, 23:43 - Priyanka Sahoo: Eh it's just a bunch of self destructive thoughts which leads to the conclusion that I'm a horrible person
+29/09/2018, 23:44 - Jenit Jain: Did someone tell you something
+29/09/2018, 23:50 - Priyanka Sahoo: Nope, not really
+30/09/2018, 00:09 - Jenit Jain: Vidit already told me
+30/09/2018, 00:09 - Jenit Jain: Tell me when you feel like talking
+30/09/2018, 00:09 - Jenit Jain: I'm here :)
+30/09/2018, 00:10 - Priyanka Sahoo: It's not really related to that
+30/09/2018, 00:10 - Priyanka Sahoo: I just feel like I'm not important to some people whom I thought cared about me
+30/09/2018, 00:10 - Jenit Jain: Then telll
+30/09/2018, 15:41 - Priyanka Sahoo: Thought you should know that mahima and saba are going to confront me about something tonight
+30/09/2018, 16:41 - Jenit Jain: Do you know why
+30/09/2018, 16:48 - Priyanka Sahoo: Mahima - maybe because of the misconception that I told vidit that she *wanted* to hook up w someone that night at big shot. but I only said that cause i was ranting to him about what saba had told me the morning after my drunk night and it was all related in that context. And I think he took it out of proportion and thought she was hooking up w someone and confronted her about it. there's a clear cut difference between _wanting_ to hook up and actually hooking up with someone
+30/09/2018, 16:48 - Priyanka Sahoo: I have no idea what saba wants to talk about though
+01/10/2018, 00:39 - Jenit Jain: So what Happened
+01/10/2018, 00:59 - Priyanka Sahoo: We sorted stuff out - it's all good now
+01/10/2018, 01:08 - Jenit Jain: You deleted this message
+01/10/2018, 01:08 - Jenit Jain: Also
+01/10/2018, 01:08 - Jenit Jain: You know vidit is not actually bad at you right
+01/10/2018, 01:09 - Priyanka Sahoo: Yeah i know
+05/10/2018, 00:06 - Priyanka Sahoo: Happy birthdaayy biatch! Hope you have an amazing 20th ❤ party hard, go wilddd🎉
+05/10/2018, 00:25 - Jenit Jain: Wish you wetenhere
+05/10/2018, 00:25 - Jenit Jain: Thank you 💛
+05/10/2018, 00:29 - Priyanka Sahoo: We'll hang out soon 💖
+06/10/2018, 08:17 - Priyanka Sahoo: Bro do you have my library card? The blue one?
+06/10/2018, 08:22 - Jenit Jain: Yes
+06/10/2018, 08:22 - Jenit Jain: I forgot
+06/10/2018, 12:02 - Priyanka Sahoo: Give it to me on Monday?
+06/10/2018, 12:04 - Jenit Jain: Ha
+07/10/2018, 22:01 - Priyanka Sahoo: yo please don't forget to bring my id tomorrow. need it coz i have to go to the opd tomorrow
+07/10/2018, 22:20 - Jenit Jain: Yes
+08/10/2018, 10:21 - Priyanka Sahoo: Wya
+08/10/2018, 10:27 - Jenit Jain: I'm going to give the card to arav
+08/10/2018, 10:27 - Jenit Jain: Take it from him after 1230 lecture
+08/10/2018, 10:27 - Priyanka Sahoo: Wait where's his class?
+08/10/2018, 10:27 - Jenit Jain: I'll ask him to text you
+08/10/2018, 10:28 - Priyanka Sahoo: I need to meet my CN sir at 12:30 tho
+08/10/2018, 10:28 - Priyanka Sahoo: And then I have class at 1
+08/10/2018, 10:28 - Priyanka Sahoo: Kinda hectic schedule
+08/10/2018, 10:28 - Priyanka Sahoo: You can't give it?
+08/10/2018, 10:28 - Jenit Jain: I bunked the entire dau
+08/10/2018, 10:29 - Priyanka Sahoo: Damn okay
+08/10/2018, 18:24 - Priyanka Sahoo: Bro could you please send lab codes for lab 7 - 9?
+08/10/2018, 19:05 - Jenit Jain: Algo?
+08/10/2018, 19:20 - Priyanka Sahoo: Yes pleaseee
+08/10/2018, 19:28 - Jenit Jain: <Media omitted>
+08/10/2018, 19:28 - Jenit Jain: <Media omitted>
+08/10/2018, 19:28 - Jenit Jain: <Media omitted>
+08/10/2018, 19:28 - Jenit Jain: <Media omitted>
+08/10/2018, 19:28 - Jenit Jain: <Media omitted>
+08/10/2018, 19:29 - Jenit Jain: <Media omitted>
+08/10/2018, 19:29 - Jenit Jain: <Media omitted>
+08/10/2018, 19:29 - Jenit Jain: <Media omitted>
+08/10/2018, 19:29 - Jenit Jain: <Media omitted>
+08/10/2018, 19:29 - Jenit Jain: <Media omitted>
+08/10/2018, 19:29 - Jenit Jain: <Media omitted>
+08/10/2018, 19:29 - Jenit Jain: <Media omitted>
+08/10/2018, 19:29 - Jenit Jain: <Media omitted>
+08/10/2018, 19:29 - Jenit Jain: <Media omitted>
+08/10/2018, 19:30 - Jenit Jain: <Media omitted>
+08/10/2018, 20:31 - Priyanka Sahoo: Thank youuu💛
+08/10/2018, 20:31 - Jenit Jain: <Media omitted>
+08/10/2018, 20:31 - Jenit Jain: <Media omitted>
+08/10/2018, 20:31 - Jenit Jain: This is the 3rd question of lab 9
+17/10/2018, 17:48 - Priyanka Sahoo: What you guys doing tonight?
+17/10/2018, 18:12 - Jenit Jain: Not hanging out with you woohoo
+17/10/2018, 18:12 - Priyanka Sahoo: Mean :(
+17/10/2018, 18:16 - Priyanka Sahoo: I'm so bored man
+17/10/2018, 18:27 - Jenit Jain: Have fun
+17/10/2018, 18:28 - Priyanka Sahoo: 😭
+18/10/2018, 19:41 - Jenit Jain: Listen
+18/10/2018, 19:41 - Jenit Jain: We guys are going to dinner with my parents tomorrow
+18/10/2018, 19:41 - Jenit Jain: I'll let you know the place
+18/10/2018, 19:41 - Jenit Jain: dont come thete
+18/10/2018, 19:42 - Priyanka Sahoo: Hahahahaha
+18/10/2018, 19:42 - Priyanka Sahoo: You're so sweet ❤
+18/10/2018, 19:42 - Jenit Jain: im being serious tho
+18/10/2018, 19:43 - Priyanka Sahoo: Yeah i got your message crystal clear
+18/10/2018, 19:43 - Priyanka Sahoo: Won't be there
+20/10/2018, 20:26 - Jenit Jain: 1230 at coast asia
+20/10/2018, 21:25 - Priyanka Sahoo: Okiess
+20/10/2018, 21:28 - Priyanka Sahoo: Listen could one of the guys come till block 22 with an auto??
+20/10/2018, 21:29 - Jenit Jain: Wtf why
+20/10/2018, 21:30 - Priyanka Sahoo: Because I can't walk
+20/10/2018, 21:32 - Priyanka Sahoo: i still use crutches to walk lolz
+20/10/2018, 21:33 - Jenit Jain: Talk to them
+20/10/2018, 21:33 - Priyanka Sahoo: wait is diskshita also coming?
+20/10/2018, 21:37 - Jenit Jain: Divya will be there
+20/10/2018, 21:38 - Priyanka Sahoo: Alrighty
+20/10/2018, 21:39 - Priyanka Sahoo: is there a lift to get to coast asia tho? or is it only stairs?
+20/10/2018, 21:44 - Jenit Jain: Stairs lol
+20/10/2018, 21:50 - Priyanka Sahoo: Hmm i won't be able to climb up the stairs. So if you guys are willing to help me out then I'd be able to come :3
+21/10/2018, 11:21 - Priyanka Sahoo: Bro don't think I'll be able to make it for lunch. There's no way I can climb the stairs
+21/10/2018, 11:45 - Jenit Jain: Vidit and all will be there man
+21/10/2018, 11:45 - Jenit Jain: Chill
+21/10/2018, 11:50 - Priyanka Sahoo: Ahh okayy
+21/10/2018, 11:50 - Priyanka Sahoo: Could you give me Divya's number? I'll ask her if we could go together
+21/10/2018, 11:54 - Jenit Jain: Divya M.vcf (file attached)
+22/10/2018, 16:41 - Jenit Jain: Yo
+22/10/2018, 16:41 - Jenit Jain: Dont remember so im asking, how much did you pay for the second round yesterday
+22/10/2018, 16:45 - Priyanka Sahoo: I dunno
+I don't think we paid, only harshit and vidit paid I think
+22/10/2018, 16:47 - Jenit Jain: Harshit and I did
+22/10/2018, 16:47 - Jenit Jain: Accha I mean if you're not very short on money, can you just tez some to harshit please.
+22/10/2018, 17:02 - Priyanka Sahoo: Ohhh okay
+22/10/2018, 17:02 - Priyanka Sahoo: Yeah how much do I owe you guys?
+22/10/2018, 17:03 - Jenit Jain: Man I don't know that tbh 😂
+22/10/2018, 17:03 - Jenit Jain: Just send something lol
+22/10/2018, 17:05 - Priyanka Sahoo: I'll send 200?
+22/10/2018, 17:06 - Jenit Jain: Cool
+22/10/2018, 17:19 - Priyanka Sahoo: Lol turns out I have less than 100 in my account. I'll pay him once my dad transfers money
+22/10/2018, 17:20 - Jenit Jain: Yeah yeah it's chill
+22/10/2018, 17:58 - Priyanka Sahoo: Dude btw I think naman felt bad that we didn't call him to titos
+22/10/2018, 17:59 - Priyanka Sahoo: I saw him today and i was like "long time no see. Haven't seen you in ages." And he was like "yeah you're so busy these days drinking without me" low-key throwing shade lmao
+22/10/2018, 22:35 - Jenit Jain: We don't like him
+22/10/2018, 22:35 - Jenit Jain: Kya bole
+22/10/2018, 22:35 - Priyanka Sahoo: I thought you guys were friends with him
+22/10/2018, 22:35 - Priyanka Sahoo: When did this happen
+22/10/2018, 22:35 - Jenit Jain: He exists
+22/10/2018, 22:35 - Jenit Jain: What else
+22/10/2018, 22:36 - Priyanka Sahoo: Ah okay
+22/10/2018, 22:36 - Priyanka Sahoo: So kinda like he's not part of the circle
+22/10/2018, 22:36 - Priyanka Sahoo: But harshit used to call him to cnm and stuff before
+22/10/2018, 22:37 - Jenit Jain: He is. It's just that when you have good company why to ruin it
+22/10/2018, 22:37 - Jenit Jain: Like we don't mind him there
+22/10/2018, 22:37 - Jenit Jain: It's just that I toh don't want him around
+22/10/2018, 22:37 - Priyanka Sahoo: Makes sense
+22/10/2018, 22:38 - Priyanka Sahoo: When he said all that to me, I felt like he wanted to come to titos
+22/10/2018, 22:38 - Priyanka Sahoo: I was so awkward, so didn't say anything. Changed the topic lmao
+22/10/2018, 22:45 - Jenit Jain: 😂
+02/11/2018, 20:52 - Priyanka Sahoo: Jenittttt
+02/11/2018, 20:52 - Priyanka Sahoo: Do you have algo lab 12 codes?
+02/11/2018, 20:57 - Jenit Jain: I'll send
+02/11/2018, 21:03 - Priyanka Sahoo: Okiee
+02/11/2018, 22:34 - Jenit Jain: <Media omitted>
+02/11/2018, 22:34 - Jenit Jain: <Media omitted>
+02/11/2018, 22:34 - Jenit Jain: <Media omitted>
+02/11/2018, 22:34 - Jenit Jain: <Media omitted>
+02/11/2018, 22:34 - Jenit Jain: <Media omitted>
+02/11/2018, 23:06 - Priyanka Sahoo: Thankss 💛
+04/11/2018, 22:36 - Jenit Jain: Send me the 12th own code pictures again
+04/11/2018, 22:56 - Priyanka Sahoo: <Media omitted>
+04/11/2018, 22:56 - Priyanka Sahoo: <Media omitted>
+04/11/2018, 22:56 - Priyanka Sahoo: <Media omitted>
+04/11/2018, 22:56 - Priyanka Sahoo: <Media omitted>
+04/11/2018, 22:56 - Priyanka Sahoo: <Media omitted>
+22/12/2018, 12:39 - Priyanka Sahoo: Where is your notebook
+22/12/2018, 12:39 - Priyanka Sahoo: Cn
+22/12/2018, 12:51 - Priyanka Sahoo: Did you keep it in your cupboard?
+22/12/2018, 12:58 - Jenit Jain: Check the left one
+22/12/2018, 12:59 - Priyanka Sahoo: Kaay
+22/12/2018, 13:19 - Priyanka Sahoo: Found it
+22/12/2018, 13:19 - Priyanka Sahoo: Thnxxx
+22/12/2018, 13:30 - Jenit Jain: All the best
+22/12/2018, 14:03 - Priyanka Sahoo: ❤
+29/12/2018, 13:52 - Priyanka Sahoo: <Media omitted>
+29/12/2018, 13:52 - Priyanka Sahoo: you're wanted to see this right?^
+29/12/2018, 14:02 - Jenit Jain: Do 4 5 6 7 9
+29/12/2018, 14:02 - Jenit Jain: Then 3 8
+29/12/2018, 14:02 - Jenit Jain: You deleted this message
+29/12/2018, 14:03 - Jenit Jain: 13 11
+29/12/2018, 14:03 - Jenit Jain: 12 2 1
+29/12/2018, 14:03 - Jenit Jain: 10 with this
+29/12/2018, 14:04 - Jenit Jain: For sure do
+29/12/2018, 14:08 - Priyanka Sahoo: Okayokay so I start with this?
+29/12/2018, 14:08 - Priyanka Sahoo: And then 3 8
+29/12/2018, 14:08 - Jenit Jain: From top to bottom do
+29/12/2018, 14:08 - Priyanka Sahoo: And so on
+29/12/2018, 14:08 - Jenit Jain: Ha
+29/12/2018, 14:08 - Priyanka Sahoo: Okiesss
+29/12/2018, 14:08 - Priyanka Sahoo: Thank youuu
+29/12/2018, 14:08 - Jenit Jain: All the best lol
+29/12/2018, 14:08 - Jenit Jain: You gonna need it
+29/12/2018, 14:08 - Priyanka Sahoo: Do you recommend slides or book
+29/12/2018, 14:09 - Priyanka Sahoo: Since I literally have 24hrs left
+29/12/2018, 14:09 - Priyanka Sahoo: Hahaha thnx😭💕
+29/12/2018, 14:11 - Jenit Jain: My notes for the chapters available
+29/12/2018, 14:11 - Jenit Jain: And rest slides
+29/12/2018, 14:12 - Jenit Jain: That's what I did
+29/12/2018, 14:15 - Priyanka Sahoo: thanks mannn
+01/01/2019, 18:17 - Priyanka Sahoo: Oi what scenes
+01/01/2019, 18:18 - Jenit Jain: I'm so high
+01/01/2019, 18:18 - Jenit Jain: Wait I'll text in a bit
+01/01/2019, 18:19 - Priyanka Sahoo: Okiess
+01/01/2019, 21:44 - Jenit Jain: Try to get beers too plis
+01/01/2019, 21:45 - Priyanka Sahoo: Only beer??
+01/01/2019, 21:45 - Priyanka Sahoo: You don't want any other booze?
+01/01/2019, 21:56 - Jenit Jain: Entry is difficult so like get according to what you want
+01/01/2019, 22:04 - Priyanka Sahoo: Hmm okay but you guys won't have anything else other than beer ?
+01/01/2019, 22:05 - Priyanka Sahoo: And also will the guard not allow us to enter after 10:40 ish?
+01/01/2019, 22:05 - Priyanka Sahoo: Mahima is coming w me btw
+02/01/2019, 11:48 - Priyanka Sahoo: Listen I'll come in the afternoon - the electrician and plumber are coming at 12:30 and then I need to head to big baazar after that
+02/01/2019, 11:48 - Priyanka Sahoo: I'll come for sure tho xD
+02/01/2019, 11:49 - Jenit Jain: Big Bazar from where?
+02/01/2019, 11:50 - Priyanka Sahoo: Udupi
+02/01/2019, 12:12 - Jenit Jain: To get whag
+02/01/2019, 12:12 - Jenit Jain: Even I have to get stuff
+02/01/2019, 12:13 - Priyanka Sahoo: Basic house stuff
+02/01/2019, 12:13 - Priyanka Sahoo: You wanna come with us?
+02/01/2019, 12:13 - Jenit Jain: Have you seen the big bed side mat in my room
+02/01/2019, 12:14 - Jenit Jain: Other than the bathroom mat
+02/01/2019, 12:14 - Priyanka Sahoo: Even we need that
+02/01/2019, 12:14 - Priyanka Sahoo: But yeah I've seen the mat you're talking about
+02/01/2019, 12:14 - Jenit Jain: Get one for me if you find it thanks
+02/01/2019, 12:15 - Priyanka Sahoo: Okayokay
+02/01/2019, 12:15 - Priyanka Sahoo: Will do
+02/01/2019, 12:15 - Priyanka Sahoo: I'll send pictures and confirm w you
+02/01/2019, 12:15 - Jenit Jain: Thanks
+02/01/2019, 12:15 - Jenit Jain: If I don't reply just get a non girlish one
+02/01/2019, 12:16 - Priyanka Sahoo: I think you mean the opposite 😂
+02/01/2019, 12:16 - Jenit Jain: Shut up
+02/01/2019, 14:58 - Priyanka Sahoo: <Media omitted>
+02/01/2019, 14:58 - Priyanka Sahoo: Like this??
+02/01/2019, 14:59 - Jenit Jain: Yess
+02/01/2019, 14:59 - Jenit Jain: If there's bigger than get that or else this is also fine
+02/01/2019, 14:59 - Priyanka Sahoo: Okiess
+02/01/2019, 14:59 - Priyanka Sahoo: This one is 300 bucks
+02/01/2019, 15:01 - Jenit Jain: Cool
+02/01/2019, 15:05 - Priyanka Sahoo: <Media omitted>
+02/01/2019, 15:05 - Priyanka Sahoo: <Media omitted>
+02/01/2019, 15:05 - Priyanka Sahoo: Which colour
+02/01/2019, 15:05 - Jenit Jain: Blue
+02/01/2019, 15:05 - Priyanka Sahoo: Cool
+02/01/2019, 15:43 - Priyanka Sahoo: Could you tez me me 300 rn
+02/01/2019, 15:44 - Jenit Jain: I only have cash rn :/
+02/01/2019, 15:44 - Priyanka Sahoo: Ah okok
+02/01/2019, 16:32 - Priyanka Sahoo: You guys are at home rn?
+02/01/2019, 16:38 - Jenit Jain: We're sleeping rn
+02/01/2019, 16:39 - Priyanka Sahoo: When should I come
+02/01/2019, 19:34 - Priyanka Sahoo: Stop sleeping so much
+02/01/2019, 19:47 - Jenit Jain: Hey
+02/01/2019, 19:48 - Jenit Jain: Talk to arav
+02/01/2019, 19:48 - Jenit Jain: He wants to go out drinking
+02/01/2019, 19:49 - Priyanka Sahoo: You wanna go out or no
+02/01/2019, 19:52 - Jenit Jain: Not me
+02/01/2019, 19:53 - Jenit Jain: I'll chill with dikshita
+02/01/2019, 20:13 - Priyanka Sahoo: Okiesss
+02/01/2019, 20:13 - Priyanka Sahoo: Have fun
+04/01/2019, 17:01 - Jenit Jain: House warming at emerald tonight?
+04/01/2019, 17:14 - Priyanka Sahoo: What time y'all wanna come
+04/01/2019, 17:20 - Jenit Jain: 8ish
+04/01/2019, 17:26 - Priyanka Sahoo: Okiess coool
+04/01/2019, 17:27 - Priyanka Sahoo: Also we don't have speakers. so if u want to play music, bring your speakers no?
+04/01/2019, 18:00 - Jenit Jain: Okay
+04/01/2019, 18:14 - Priyanka Sahoo: Being whatever u wanna drink. I'll be buying booze too
+04/01/2019, 18:14 - Priyanka Sahoo: Who all are coming?
+04/01/2019, 18:21 - Jenit Jain: What's a party where there's no booze waiting 😂
+04/01/2019, 18:22 - Jenit Jain: Tell me whom should I tell
+04/01/2019, 18:28 - Priyanka Sahoo: Who said there won't be booze? I'll buy a bottle for y'all but the more, the merrier xD
+04/01/2019, 18:28 - Priyanka Sahoo: All of u guys
+04/01/2019, 18:28 - Priyanka Sahoo: Our usual gang
+04/01/2019, 18:43 - Jenit Jain: You call Naman and all if you want
+04/01/2019, 18:43 - Jenit Jain: Tell kaustubh too
+04/01/2019, 19:05 - Priyanka Sahoo: Okiess
+04/01/2019, 19:53 - Priyanka Sahoo: Could u pleaseeee get coke Also?? I forgot to bring it xD
+04/01/2019, 20:28 - Jenit Jain: On our way
+04/01/2019, 20:28 - Priyanka Sahoo: C 301
+17/01/2019, 20:59 - Priyanka Sahoo: Jenitttt
+17/01/2019, 20:59 - Priyanka Sahoo: Could you send me CD lab 2 code?
+17/01/2019, 21:00 - Priyanka Sahoo: And lab 1 q3?
+17/01/2019, 21:00 - Priyanka Sahoo: Pleaseee
+17/01/2019, 21:57 - Jenit Jain: In a bit
+17/01/2019, 22:28 - Priyanka Sahoo: Okiess
+17/01/2019, 22:50 - Jenit Jain: <Media omitted>
+17/01/2019, 22:50 - Jenit Jain: <Media omitted>
+17/01/2019, 22:50 - Jenit Jain: <Media omitted>
+17/01/2019, 22:50 - Jenit Jain: <Media omitted>
+17/01/2019, 22:50 - Jenit Jain: <Media omitted>
+17/01/2019, 22:50 - Jenit Jain: <Media omitted>
+17/01/2019, 22:50 - Jenit Jain: <Media omitted>
+17/01/2019, 22:50 - Jenit Jain: <Media omitted>
+17/01/2019, 22:59 - Priyanka Sahoo: Thank youuu
+19/01/2019, 11:53 - Jenit Jain: Do you have cn lab book?
+19/01/2019, 11:54 - Priyanka Sahoo: Your notebook? Yeah I have it
+19/01/2019, 11:54 - Jenit Jain: Lab one
+19/01/2019, 11:54 - Priyanka Sahoo: Yes yes, I took both the lab and your notes
+19/01/2019, 11:55 - Priyanka Sahoo: You need it?
+19/01/2019, 11:55 - Jenit Jain: Harsbit has it this sem
+19/01/2019, 11:56 - Priyanka Sahoo: Ohokok I'll give it in on Monday
+19/01/2019, 11:56 - Priyanka Sahoo: I took it cos I was gonna do CN lab next sem
+19/01/2019, 11:56 - Priyanka Sahoo: Last*
+19/01/2019, 11:56 - Priyanka Sahoo: During the vacation
+19/01/2019, 11:56 - Jenit Jain: Do you need it now?
+19/01/2019, 11:56 - Jenit Jain: You're done right
+19/01/2019, 11:57 - Priyanka Sahoo: Nope, but will need it next sem
+19/01/2019, 11:57 - Priyanka Sahoo: I'll give it to him tho since I dont need it now
+19/01/2019, 11:57 - Jenit Jain: Cook
+19/01/2019, 11:58 - Priyanka Sahoo: Btw are you guys not hanging w me cos of vidit?
+19/01/2019, 12:07 - Jenit Jain: No man.
+19/01/2019, 12:07 - Jenit Jain: It's just that's all of us don't drink much anymore
+19/01/2019, 12:07 - Jenit Jain: Or just get it at home
+19/01/2019, 12:08 - Jenit Jain: I've told you to chill the f out
+19/01/2019, 12:08 - Jenit Jain: Do that
+19/01/2019, 12:10 - Priyanka Sahoo: Haha okay
+07/02/2019, 17:47 - Priyanka Sahoo: Could you please send lab 3 q6 and lab 4?
+07/02/2019, 18:20 - Jenit Jain: Which lab
+07/02/2019, 18:39 - Priyanka Sahoo: Cd lab
+07/02/2019, 18:39 - Priyanka Sahoo: The lab assessment is on lab 1-4 right?
+07/02/2019, 18:41 - Jenit Jain: yes
+07/02/2019, 18:41 - Jenit Jain: alright ill send
+07/02/2019, 18:41 - Jenit Jain: email?
+07/02/2019, 18:42 - Priyanka Sahoo: priyankasahoo@hotmail.com
+07/02/2019, 18:42 - Priyanka Sahoo: Thank youu
+07/02/2019, 19:02 - Priyanka Sahoo: Jenittt you sent me PCAP codes
+07/02/2019, 19:03 - Priyanka Sahoo: I wantes CD lab 3 q6 and lab4 codes
+07/02/2019, 22:19 - Priyanka Sahoo: bro plsss send them soon🙈
+07/02/2019, 22:54 - Jenit Jain: I did bro
+07/02/2019, 22:55 - Priyanka Sahoo: <Media omitted>
+07/02/2019, 23:02 - Jenit Jain: Oh shit
+07/02/2019, 23:02 - Jenit Jain: Wait
+07/02/2019, 23:04 - Priyanka Sahoo: thanksss
+07/03/2019, 21:24 - Priyanka Sahoo: yoooo do you have CD lab 6 codes?
+07/03/2019, 21:25 - Priyanka Sahoo: dp 🔥
+07/03/2019, 22:43 - Jenit Jain: check your mail
+07/03/2019, 22:45 - Priyanka Sahoo: yesyes, I just received it. thank youu
+12/03/2019, 16:57 - Priyanka Sahoo: hey what's the scene with your hand now?
+12/03/2019, 17:22 - Jenit Jain: Not hurting
+12/03/2019, 17:23 - Jenit Jain: But the main doctor still hasn't seen it so we don't know if I'm getting a surgery
+12/03/2019, 17:23 - Jenit Jain: We'll told Tomorrow I think
+12/03/2019, 17:24 - Priyanka Sahoo: ahh okay, so you're not admitted at the hospital right?
+12/03/2019, 23:24 - Jenit Jain: Yes lol
+15/03/2019, 16:58 - Jenit Jain: Dude
+15/03/2019, 16:59 - Jenit Jain: What was the insurance scene for your surgery
+15/03/2019, 16:59 - Jenit Jain: College only does it right?
+15/03/2019, 16:59 - Jenit Jain: Just 25% is the full cost right?
+15/03/2019, 17:25 - Priyanka Sahoo: yuppp
+15/03/2019, 17:26 - Priyanka Sahoo: I remember my bill came up to like 70k out of which my dad had to pay only 4k
+15/03/2019, 17:26 - Jenit Jain: 😂
+15/03/2019, 17:26 - Jenit Jain: Cool thanks
+15/03/2019, 17:26 - Jenit Jain: Wednesday surgery
+15/03/2019, 17:27 - Priyanka Sahoo: ahh
+15/03/2019, 17:27 - Priyanka Sahoo: what time?
+15/03/2019, 17:29 - Jenit Jain: No clue
+17/03/2019, 21:37 - Priyanka Sahoo: Keerti Mandavi Broker.vcf (file attached)
+17/03/2019, 21:37 - Priyanka Sahoo: you contacted this guy right?
+17/03/2019, 21:37 - Jenit Jain: He didn't answer
+17/03/2019, 22:53 - Priyanka Sahoo: hmm if emerald doesnt work out, why dont you try for royal embassy?
+17/03/2019, 23:28 - Jenit Jain: We went there and got the guys number
+17/03/2019, 23:28 - Jenit Jain: We'll come tomorrow
+18/03/2019, 11:44 - Priyanka Sahoo: oohh you guys are checking out the apt over there today?
+18/03/2019, 11:45 - Priyanka Sahoo: I wanna come with u guys :3
+18/03/2019, 11:45 - Jenit Jain: We're in pearl citu
+18/03/2019, 11:45 - Jenit Jain: They have 3 bhks
+18/03/2019, 11:46 - Priyanka Sahoo: so u guys gonna take an apt in pearl?
+18/03/2019, 11:51 - Jenit Jain: We really like it
+18/03/2019, 12:00 - Priyanka Sahoo: what about emerald? any flats avaible?
+18/03/2019, 12:00 - Priyanka Sahoo: available *
+18/03/2019, 12:05 - Jenit Jain: None
+18/03/2019, 12:05 - Jenit Jain: Who you planning to live with next sem
+18/03/2019, 12:05 - Jenit Jain: And where
+18/03/2019, 17:03 - Priyanka Sahoo: mahima and I are staying in emerald only
+18/03/2019, 17:03 - Priyanka Sahoo: how was sovereign?
+18/03/2019, 17:12 - Jenit Jain: They don't mind MIT at all
+18/03/2019, 17:12 - Jenit Jain: But they have literally nothing
+18/03/2019, 17:13 - Jenit Jain: Family that wants to relocate in the same building also can't do that
+18/03/2019, 17:13 - Jenit Jain: That's what the manager said
+18/03/2019, 17:13 - Jenit Jain: So nott we just have to convince harshit
+18/03/2019, 20:10 - Priyanka Sahoo: that's fucked up
+18/03/2019, 20:10 - Priyanka Sahoo: why cant the landlady provide yall furniture and stuff
+18/03/2019, 20:11 - Priyanka Sahoo: and what about the flat in emerald? is that still an option or nah
+18/03/2019, 20:43 - Jenit Jain: I meant no empty apartments what so ever
+18/03/2019, 20:44 - Priyanka Sahoo: ohhhh
+18/03/2019, 20:44 - Priyanka Sahoo: my bad 😂😂
+18/03/2019, 20:44 - Jenit Jain: Keerti also said no vacancies
+18/03/2019, 20:44 - Jenit Jain: Rip
+18/03/2019, 20:44 - Jenit Jain: We'll be 2 mins away from Arusha and all
+18/03/2019, 20:44 - Jenit Jain: Going to be too entertaining
+18/03/2019, 20:45 - Priyanka Sahoo: no but didnt u say that kaustubh's friends are vacating next sem?
+18/03/2019, 20:45 - Priyanka Sahoo: hahaha that's there
+18/03/2019, 20:45 - Priyanka Sahoo: y'all can have chill and all xD
+18/03/2019, 20:45 - Priyanka Sahoo: ignore the have^
+18/03/2019, 20:46 - Priyanka Sahoo: wont harshit find it awks to see arusha tho
+18/03/2019, 20:47 - Jenit Jain: Yes but kaustubhs isn't being clear about that situation so we're just going to pass on that since it is too late
+19/03/2019, 14:17 - Priyanka Sahoo: makes sense
+19/03/2019, 14:18 - Priyanka Sahoo: hey could u send me pcap lab 9 codes?
+19/03/2019, 14:18 - Priyanka Sahoo: (if u have them)
+19/03/2019, 14:21 - Jenit Jain: Don't have🙈
+19/03/2019, 14:29 - Priyanka Sahoo: ah okayokay
+20/03/2019, 11:05 - Priyanka Sahoo: when is your surgery??
+20/03/2019, 11:07 - Jenit Jain: Tomorrow man
+20/03/2019, 11:08 - Priyanka Sahoo: ohh wasnt it today?
+20/03/2019, 11:08 - Jenit Jain: Kmc 🙄
+20/03/2019, 11:09 - Priyanka Sahoo: goddamn
+20/03/2019, 11:09 - Priyanka Sahoo: tomorrow is holiii
+20/03/2019, 11:12 - Jenit Jain: Have bhang and come😂
+20/03/2019, 13:38 - Priyanka Sahoo: totally 😂😂
+20/03/2019, 13:38 - Priyanka Sahoo: what time is your surgery?
+20/03/2019, 13:44 - Jenit Jain: No clue but mostly morning
+21/03/2019, 14:20 - Priyanka Sahoo: how are you??
+21/03/2019, 17:29 - Jenit Jain: In pain can't text
+21/03/2019, 17:29 - Priyanka Sahoo: will come to see u soon
+24/03/2019, 08:49 - Jenit Jain: What time you want to come
+24/03/2019, 09:37 - Priyanka Sahoo: after lunch?
+24/03/2019, 09:39 - Jenit Jain: Spoke to harshit
+24/03/2019, 09:40 - Jenit Jain: Come by 4ish
+24/03/2019, 09:50 - Priyanka Sahoo: okiee
+24/03/2019, 14:29 - Jenit Jain: Harshit is saying 6 now
+24/03/2019, 14:29 - Jenit Jain: He hasn't started the other subject yet
+24/03/2019, 15:11 - Priyanka Sahoo: okie, I'll come at 6
+24/03/2019, 17:57 - Priyanka Sahoo: I'll come now yeah?
+24/03/2019, 18:00 - Jenit Jain: Yes
+24/03/2019, 18:06 - Priyanka Sahoo: alright, omw
+24/03/2019, 18:24 - Priyanka Sahoo: come down pls
+04/04/2019, 21:19 - Priyanka Sahoo: hai I need a huge favor 
+so I'm partnered up with Akash for CD project and we both dont know shit :/could u please share ur project with us?
+04/04/2019, 21:21 - Jenit Jain: you ask for something i cant giv ou. even i just made the report
+04/04/2019, 21:21 - Jenit Jain: barely coded
+04/04/2019, 21:21 - Jenit Jain: if the teachers find out which they will, we'll get fucked
+04/04/2019, 21:21 - Jenit Jain: and i have a 10 pointer in the group. need to stay in his good books
+04/04/2019, 21:22 - Jenit Jain: implement lab 8
+04/04/2019, 21:22 - Jenit Jain: using bison
+04/04/2019, 21:22 - Priyanka Sahoo: hmm okayy
+04/04/2019, 21:22 - Jenit Jain: implement that lab, in which there are 4 grammars given
+04/04/2019, 21:23 - Jenit Jain: i heard someone say that they'\ll give like 5 marks for it
+04/04/2019, 21:23 - Jenit Jain: or just look for a ready made project online no
+04/04/2019, 21:23 - Priyanka Sahoo: ah yeaah I'm looking for one
+04/04/2019, 21:24 - Priyanka Sahoo: need to figure smthn out asap
+04/04/2019, 21:24 - Jenit Jain: atb🙈🙈
+04/04/2019, 21:25 - Jenit Jain: https://github.com/g31pranjal/erplag-compiler
+04/04/2019, 21:25 - Jenit Jain: https://github.com/Gaurang18/Compiler-Project-BITS-Pilani
+04/04/2019, 21:26 - Jenit Jain: https://github.com/khursheedali38/miniCompiler
+04/04/2019, 21:26 - Jenit Jain: try to get one of these working
+04/04/2019, 21:26 - Priyanka Sahoo: omg thank you so much!! I'll see what I can do with these
+20/04/2019, 15:41 - Jenit Jain: Hey
+20/04/2019, 15:41 - Jenit Jain: How are you doing
+20/04/2019, 15:42 - Priyanka Sahoo: I'm alright
+20/04/2019, 15:42 - Priyanka Sahoo: wbu
+20/04/2019, 15:43 - Jenit Jain: I meant after last night shit
+20/04/2019, 15:44 - Priyanka Sahoo: they told you?
+20/04/2019, 15:45 - Priyanka Sahoo: man this is so embarrassing
+20/04/2019, 15:45 - Jenit Jain: Sasha told harshit. Harshit told me in short
+20/04/2019, 15:45 - Jenit Jain: I'm sorry you were around such shitheads
+20/04/2019, 15:45 - Jenit Jain: It's me man relax
+20/04/2019, 15:45 - Priyanka Sahoo: I dont feel like hanging with them ever again
+20/04/2019, 15:45 - Jenit Jain: Don't go
+20/04/2019, 15:46 - Priyanka Sahoo: they want me to pay for it but why should I pay when the damage was mostly done by them?
+20/04/2019, 15:46 - Priyanka Sahoo: like, I literally contributed to the mess by 1%
+20/04/2019, 15:46 - Jenit Jain: They puked on the bed as well right?
+20/04/2019, 15:46 - Priyanka Sahoo: yeah
+20/04/2019, 15:47 - Priyanka Sahoo: jeet walked on the bed with shoes on
+20/04/2019, 15:47 - Priyanka Sahoo: made the bed very dirty
+20/04/2019, 15:47 - Jenit Jain: Harshit was really pissed when he came home
+20/04/2019, 15:47 - Jenit Jain: Just tell me properly
+20/04/2019, 15:47 - Jenit Jain: Who all fucked which part of the room
+20/04/2019, 15:47 - Jenit Jain: We'll try to intervene if we can
+20/04/2019, 15:47 - Priyanka Sahoo: only priyank and jeet made the mess dude
+20/04/2019, 15:47 - Priyanka Sahoo: no one did anything
+20/04/2019, 15:48 - Priyanka Sahoo: everyone else was sitting and chilling
+20/04/2019, 15:48 - Priyanka Sahoo: priyank smashed the cake on jeet's face
+20/04/2019, 15:48 - Priyanka Sahoo: so the cake was literally everywhere on the floor, on the walls, on the curtains
+20/04/2019, 15:48 - Priyanka Sahoo: then jeet walked all over the bed with those dirty shoes on
+20/04/2019, 15:49 - Priyanka Sahoo: puked in the washroom and on the bed
+20/04/2019, 15:49 - Jenit Jain: Sure?
+20/04/2019, 15:49 - Priyanka Sahoo: 100%
+20/04/2019, 15:49 - Priyanka Sahoo: nobody else even threw cake on jeet besides priyank
+20/04/2019, 15:49 - Priyanka Sahoo: I was just sitting on one corner of the bed and it happened
+20/04/2019, 15:50 - Priyanka Sahoo: <Media omitted>
+20/04/2019, 15:50 - Priyanka Sahoo: there was no need to point it out like that
+20/04/2019, 15:51 - Priyanka Sahoo: I'm not paying for this shiz
+20/04/2019, 15:52 - Jenit Jain: Sont
+20/04/2019, 15:52 - Jenit Jain: Exactly
+20/04/2019, 15:52 - Jenit Jain: This is why he doesn't get girls
+20/04/2019, 15:52 - Priyanka Sahoo: he legit has no shame
+20/04/2019, 15:53 - Priyanka Sahoo: apparently he told sasha that he'll call me up and tell me to pay
+20/04/2019, 15:53 - Jenit Jain: Balls
+20/04/2019, 15:53 - Jenit Jain: See it's jeets birthday today so I personally don't want to get into it today. But if harshit wakes up and says so what we need to talk this out, then we'll go up today itself
+20/04/2019, 15:54 - Jenit Jain: If he calls you and tells you to pay, just blast him off
+20/04/2019, 15:54 - Jenit Jain: Don't get pressurized
+20/04/2019, 15:54 - Jenit Jain: Tell him y'all didn't do shit and the bill would be 36k without your presence as well
+20/04/2019, 15:55 - Jenit Jain: And he should be ashamed because only he fucked up
+20/04/2019, 15:55 - Jenit Jain: And hang up
+20/04/2019, 15:55 - Jenit Jain: Pretty much what we're gonna sau
+20/04/2019, 15:55 - Priyanka Sahoo: legit but dude, doesnt he have any decency? 🙄
+20/04/2019, 15:56 - Priyanka Sahoo: I thought I'd just ignore his call
+20/04/2019, 15:56 - Jenit Jain: Or this
+20/04/2019, 15:56 - Jenit Jain: Tell Sasha to tell Priyank then that you're not paying
+20/04/2019, 15:58 - Priyanka Sahoo: yeahh, sasha mentioned that he'll talk to priyank
+20/04/2019, 15:58 - Priyanka Sahoo: this entire situation is just awks
+20/04/2019, 15:59 - Priyanka Sahoo: on top of that, how does he expect us to pay for the damage when jeet and priyank made the mess?
+20/04/2019, 15:59 - Priyanka Sahoo: he was like "I dont think its right for one person to pay the entire due"
+20/04/2019, 16:00 - Priyanka Sahoo: if the others went crazy and made the mess, then it makes sense
+20/04/2019, 16:10 - Jenit Jain: I'm going to talk to raghav about this too
+20/04/2019, 16:10 - Jenit Jain: Dw I'll leave you out of it
+20/04/2019, 16:10 - Jenit Jain: You relax now
+20/04/2019, 16:10 - Jenit Jain: Just study
+20/04/2019, 16:13 - Priyanka Sahoo: okayokay
+20/04/2019, 16:13 - Priyanka Sahoo: thank u so much💖
+20/04/2019, 23:28 - Jenit Jain: Dude
+20/04/2019, 23:29 - Jenit Jain: Did he call you
+21/04/2019, 06:51 - Priyanka Sahoo: nope
+21/04/2019, 06:51 - Priyanka Sahoo: I paid 500 for the wine and shisha I had at country inn
+21/04/2019, 06:52 - Priyanka Sahoo: did y'all talk to him or something
+21/04/2019, 10:47 - Jenit Jain: We want to know if Priyank actually told Sasha to call you
+21/04/2019, 10:47 - Jenit Jain: You deleted this message
+21/04/2019, 10:48 - Jenit Jain: So when he does and pressurizes you then we'll go
+21/04/2019, 12:43 - Priyanka Sahoo: sasha did call me yesterday but he told me to pay for the wine, shisha and the non smoking charges; I told him I'm not paying for the non smoking charges coz its not like I knew they booked a non smoking room
+21/04/2019, 12:44 - Jenit Jain: How much for the smoking
+21/04/2019, 12:44 - Priyanka Sahoo: not sure, but he asked to pay 1k
+21/04/2019, 12:45 - Priyanka Sahoo: including the non smoking
+21/04/2019, 12:45 - Priyanka Sahoo: I gave 500 instead
+21/04/2019, 12:45 - Priyanka Sahoo: <Media omitted>
+21/04/2019, 12:45 - Jenit Jain: I mean all rooms are non smoking but okay 🙄
+21/04/2019, 12:46 - Priyanka Sahoo: in that case why smoke in the room if it's a non smoking room
+21/04/2019, 12:46 - Priyanka Sahoo: country inn has rooms where u can smoke
+21/04/2019, 12:46 - Jenit Jain: Oh
+21/04/2019, 12:46 - Jenit Jain: Idm
+21/04/2019, 12:47 - Jenit Jain: Idk
+21/04/2019, 12:47 - Jenit Jain: Just pay the 500
+21/04/2019, 12:48 - Priyanka Sahoo: yupp
+21/04/2019, 12:48 - Priyanka Sahoo: hanging with them is so annoying
+21/04/2019, 12:48 - Jenit Jain: Next time get a spine and don't go. Your fault for going
+21/04/2019, 12:48 - Jenit Jain: How many times you wanna get embarrassed man
+21/04/2019, 12:49 - Jenit Jain: Chill with us instead
+21/04/2019, 12:49 - Priyanka Sahoo: yeah I know, not gonna go
+21/04/2019, 12:49 - Jenit Jain: Good
+21/04/2019, 12:50 - Priyanka Sahoo: did I tell u they made us pay 1.4k at the surprise party?
+21/04/2019, 12:50 - Priyanka Sahoo: good thing u didnt go
+21/04/2019, 12:51 - Jenit Jain: Wtf
+05/05/2019, 09:02 - Jenit Jain: Tomorrow hepta okay
+05/05/2019, 10:05 - Priyanka Sahoo: what time??
+05/05/2019, 10:05 - Jenit Jain: How many other plans do you even have 😂
+05/05/2019, 10:08 - Priyanka Sahoo: mahima and I had planned to go to hashtag
+05/05/2019, 10:08 - Priyanka Sahoo: let's go to hashtag no?
+05/05/2019, 10:11 - Jenit Jain: Hookah and alcohol butt
+05/05/2019, 10:26 - Priyanka Sahoo: hmmm but you cant get too lit at hepta
+05/05/2019, 10:36 - Jenit Jain: Okay then we are starting with hepta 😂
+05/05/2019, 10:42 - Jenit Jain: If you can't make it then we'll catch up with you at hashtag
+05/05/2019, 10:44 - Priyanka Sahoo: okiee I'll let you know. I'm not sure what my plan is xD
+05/05/2019, 10:53 - Jenit Jain: So I'll see you at hepta when your other plans fail
+06/05/2019, 13:13 - Priyanka Sahoo: let me know what time y'all are going there
+06/05/2019, 13:27 - Jenit Jain: Cool
+06/05/2019, 19:08 - Priyanka Sahoo: when are we meeting up?
+06/05/2019, 20:06 - Jenit Jain: Deetee come
+06/05/2019, 20:06 - Priyanka Sahoo: you guys didnt go to hepta?
+06/05/2019, 20:07 - Jenit Jain: Long story
+Bad day
+Come fast 😂
+06/05/2019, 20:07 - Priyanka Sahoo: arreeee
+06/05/2019, 20:07 - Priyanka Sahoo: I have to shower
+06/05/2019, 20:07 - Priyanka Sahoo: couldve told me earlier
+06/05/2019, 20:07 - Jenit Jain: Even I'm reaching in a bit
+06/05/2019, 20:07 - Jenit Jain: Other reached a while back tho
+06/05/2019, 20:07 - Jenit Jain: I'll reach by 8:30
+06/05/2019, 20:08 - Priyanka Sahoo: okok tell me when we meet
+07/05/2019, 01:06 - Jenit Jain: I'm so sorry for tonight
+07/05/2019, 01:08 - Priyanka Sahoo: its alright
+07/05/2019, 01:08 - Priyanka Sahoo: you had to choose and it makes sense
+07/05/2019, 01:08 - Priyanka Sahoo: hope y'all make up tonight ;)
+07/05/2019, 01:09 - Jenit Jain: We will 💛
+07/05/2019, 01:11 - Jenit Jain: Arre it was never about choosing ya
+07/05/2019, 01:11 - Jenit Jain: Don't say like thay
+07/05/2019, 01:13 - Priyanka Sahoo: aww nooo
+07/05/2019, 01:13 - Priyanka Sahoo: that's not what I meant
+07/05/2019, 01:13 - Priyanka Sahoo: I meant like
+07/05/2019, 01:13 - Priyanka Sahoo: u would rather have dikshita stay over at ur place than me xD
+07/05/2019, 02:04 - Jenit Jain: Both would have been best
+07/05/2019, 02:05 - Jenit Jain: Fucking pragati
+07/05/2019, 02:05 - Jenit Jain: The guard said he's going to call the police😂
+07/05/2019, 02:06 - Priyanka Sahoo: WHat
+07/05/2019, 02:06 - Priyanka Sahoo: why????
+07/05/2019, 02:06 - Priyanka Sahoo: for what reason????
+07/05/2019, 02:07 - Jenit Jain: Yeah so I kinda pushed the guard after he nudged me
+07/05/2019, 02:07 - Jenit Jain: Eh
+07/05/2019, 02:07 - Jenit Jain: It's fine
+07/05/2019, 02:08 - Jenit Jain: What did mahima even do 😂
+07/05/2019, 02:09 - Priyanka Sahoo: I dunno
+07/05/2019, 02:09 - Priyanka Sahoo: shes avoiding me
+07/05/2019, 02:09 - Priyanka Sahoo: is it rly serious?
+07/05/2019, 02:10 - Priyanka Sahoo: how are things b/w u and dikshita ?
+07/05/2019, 07:24 - Jenit Jain: You're lucky your lease is till November 😂
+07/05/2019, 07:24 - Jenit Jain: It's all sort now
+07/05/2019, 07:25 - Jenit Jain: In the morning I met the good guard. He's like everything is fine dw. The other is chutiya blah blah. Thank God
+07/05/2019, 07:25 - Jenit Jain: Back to normal
+07/05/2019, 07:25 - Jenit Jain: Except her mom knows that I broke her phone 🙄
+07/05/2019, 08:50 - Priyanka Sahoo: ahh thank lord. these guards were being such assholes for no reason :(
+07/05/2019, 08:50 - Priyanka Sahoo: why u gotta pull such stupid stunts xD
+07/05/2019, 08:51 - Priyanka Sahoo: also, dont tell Arav whatever he said to me
+07/05/2019, 08:51 - Priyanka Sahoo: not sure if he'll remember it but it might be embarrassing for him
+07/05/2019, 08:51 - Priyanka Sahoo: did u guys finally do the makeup sex 😂
+07/05/2019, 08:52 - Priyanka Sahoo: she got mad at me coz she felt like I was "prioritizing" you guys over her
+07/05/2019, 10:28 - Jenit Jain: Probably for the best I guess.
+07/05/2019, 10:29 - Jenit Jain: Man you get hit on so much isn't it like tiring
+07/05/2019, 10:29 - Jenit Jain: Like "ah, this again" moment 😂
+07/05/2019, 10:29 - Jenit Jain: So you were right about the steamy part
+07/05/2019, 10:30 - Jenit Jain: Only for yesterday?
+07/05/2019, 13:48 - Priyanka Sahoo: HAHAHA quite literally 😂 sadly, I dont know how to get out of that situation. I TRIED ASKING U FOR HELP BUT U WERE TOO BUSY MAKING OUT WITH DIKSHITA uGH
+07/05/2019, 13:48 - Priyanka Sahoo: i knew it 😂😂 gg
+07/05/2019, 13:49 - Priyanka Sahoo: turns out mothafuckin sasha was lying bout me prioritizing yall over mahina
+07/05/2019, 13:49 - Priyanka Sahoo: mahima didnt have an issue with that at all
+07/05/2019, 13:49 - Priyanka Sahoo: sasha told her that I had told a lot of intimate details regarding mahima's sex life to you guys
+07/05/2019, 13:50 - Priyanka Sahoo: And that had pissed her off; so she confronted me about it and she was gonna end the friendship w me. so I called you to make her believe that I'd never do that to her
+07/05/2019, 13:51 - Priyanka Sahoo: its sorted now tho
+07/05/2019, 13:51 - Priyanka Sahoo: sasha was just tryna sabotage my friendship
+07/05/2019, 14:53 - Jenit Jain: You should have joined then lol
+07/05/2019, 14:54 - Jenit Jain: It was the foreplay
+07/05/2019, 14:54 - Jenit Jain: 😂
+07/05/2019, 14:55 - Jenit Jain: I think Sasha might have told mahima
+07/05/2019, 14:55 - Jenit Jain: Told Harshit*
+07/05/2019, 14:55 - Jenit Jain: Awww
+07/05/2019, 14:55 - Jenit Jain: I got scared when I heard you crying
+07/05/2019, 14:56 - Jenit Jain: How jobless can someone be man wth
+07/05/2019, 16:14 - Priyanka Sahoo: no thx I'm good, dont want to do a threesome with you two 😂😂
+07/05/2019, 16:15 - Priyanka Sahoo: sasha isn't right in the head
+07/05/2019, 16:16 - Priyanka Sahoo: awww :') the words she used to end the friendship rly hurt man
+07/05/2019, 16:16 - Priyanka Sahoo: he has some weird vendetta against me and I dont understand why 😂
+07/05/2019, 16:16 - Jenit Jain: Shish eh
+07/05/2019, 16:16 - Jenit Jain: Duh
+07/05/2019, 16:16 - Priyanka Sahoo: hows it like having the whole house to yourself?😂
+07/05/2019, 16:16 - Jenit Jain: He's so negative
+07/05/2019, 16:16 - Jenit Jain: Aww
+07/05/2019, 16:17 - Jenit Jain: Against everyone. Yesterday in the morning he was at my place studying with harshit and talking bs and because of his noise. I told him to stfu beautifully
+07/05/2019, 16:18 - Jenit Jain: Didn't say shit after that😂
+07/05/2019, 16:18 - Jenit Jain: Loll, arav and harshit are still here
+07/05/2019, 16:18 - Jenit Jain: Harshit had to miss his flight because they preponed it at the last moment
+08/05/2019, 11:38 - Priyanka Sahoo: HAHAHAH you're so savage 😂
+08/05/2019, 11:39 - Priyanka Sahoo: dude Delhi is so fucking hot
+08/05/2019, 11:39 - Priyanka Sahoo: its like 37° here
+08/05/2019, 11:39 - Priyanka Sahoo: ded
+08/05/2019, 22:43 - Jenit Jain: Hahahaha it's not even 30 here
+08/05/2019, 22:43 - Jenit Jain: But mom said Mumbai is too hot
+08/05/2019, 22:43 - Jenit Jain: Man last night here
+08/05/2019, 22:43 - Jenit Jain: Going to be weird going back after so long
+08/05/2019, 22:44 - Jenit Jain: <Media omitted>
+09/05/2019, 16:31 - Priyanka Sahoo: it's probably not as bad as Manipal tho?
+09/05/2019, 16:32 - Priyanka Sahoo: ahaha that's how I feel rn
+09/05/2019, 16:32 - Priyanka Sahoo: I'm still looking for an internship fml
+09/05/2019, 16:32 - Priyanka Sahoo: where are you interning?
+09/05/2019, 16:32 - Jenit Jain: Mumbainis so boring
+09/05/2019, 16:32 - Priyanka Sahoo: ahhh I was looking for this!! thought I dropped it at deetee 🤣🤣
+09/05/2019, 16:32 - Jenit Jain: My house become and old people place after my sister lefy
+09/05/2019, 16:33 - Jenit Jain: Even I couldn't find one ya
+09/05/2019, 16:33 - Jenit Jain: One hand really fucked it up
+09/05/2019, 16:33 - Jenit Jain: Damn bad
+09/05/2019, 16:33 - Jenit Jain: Legit everyone is doing
+09/05/2019, 16:34 - Priyanka Sahoo: hahahaha are you calling all your other friends Mumbai boring 😂
+09/05/2019, 16:34 - Priyanka Sahoo: damn sounds like you really miss your sister
+09/05/2019, 16:34 - Priyanka Sahoo: but cant you apply for one rn since your hand is doing well now
+09/05/2019, 16:35 - Jenit Jain: No man. Like after coming back. Home has become pretty boring man
+09/05/2019, 16:35 - Jenit Jain: Ya mam
+09/05/2019, 16:35 - Jenit Jain: I've applied for a few recently
+09/05/2019, 16:35 - Jenit Jain: No luck tho
+09/05/2019, 16:36 - Jenit Jain: Just praying inget something
+21/06/2019, 19:22 - Priyanka Sahoo: <Media omitted>
+21/06/2019, 19:22 - Priyanka Sahoo: <Media omitted>
+19/07/2019, 10:55 - Jenit Jain: Dude
+19/07/2019, 10:55 - Jenit Jain: Remember the last day at deetee
+19/07/2019, 10:58 - Jenit Jain: What was dikshita like with Me when we were making you feel uncomfortable
+19/07/2019, 11:00 - Priyanka Sahoo: she was being her usual self with you
+19/07/2019, 11:01 - Priyanka Sahoo: she didn't seem angry or anything of that sort to me
+19/07/2019, 11:02 - Jenit Jain: Horny wise
+19/07/2019, 11:02 - Priyanka Sahoo: oh ye, both of you were damn horny
+19/07/2019, 11:02 - Priyanka Sahoo: y'all kept making out nonstop
+19/07/2019, 11:03 - Jenit Jain: So she tells me I don't know if purposely to attack or what that she wasn't in love with me and felt nothing and did what she did only because she was drunk
+19/07/2019, 11:07 - Priyanka Sahoo: but how could she just throw away those feelings both of you built over the last two years?
+19/07/2019, 11:10 - Jenit Jain: Fucking 3
+19/07/2019, 11:11 - Jenit Jain: She's just hurting me purposely by saying rude things all night
+19/07/2019, 11:15 - Priyanka Sahoo: dont let that get to you and don't beg her to take you back either or else that might push her away
+19/07/2019, 11:16 - Priyanka Sahoo: actions speak louder than words; show her that you won't do those things again rather than telling her on text
+19/07/2019, 11:18 - Jenit Jain: Last night was the pushing away
+19/07/2019, 11:18 - Jenit Jain: I fucked up last night very bsd
+19/07/2019, 11:19 - Jenit Jain: Manipal is just going to be so bad I can feel it
+19/07/2019, 11:34 - Priyanka Sahoo: ahh you have us so dont stress too much but I feel like you need to give her a little time to heal. she might have a change of heart once she sees you face to face
+19/07/2019, 12:31 - Jenit Jain: I'm counting on literally that and nothing else seeing that me trying to do anything pisses her off
+24/07/2019, 04:59 - Jenit Jain: You back yeah?
+24/07/2019, 10:31 - Priyanka Sahoo: yesss
+24/07/2019, 10:32 - Priyanka Sahoo: lmao I just woke up
+24/07/2019, 10:37 - Priyanka Sahoo: did u go to class?
+24/07/2019, 10:41 - Jenit Jain: I just woke up
+24/07/2019, 10:41 - Jenit Jain: Lolloo
+24/07/2019, 10:45 - Priyanka Sahoo: hahahahaha
+24/07/2019, 10:45 - Priyanka Sahoo: good stuff 😂
+24/07/2019, 10:46 - Priyanka Sahoo: wow all of us were SOOOO drunk last night
+24/07/2019, 11:08 - Jenit Jain: Yesss
+24/07/2019, 11:08 - Jenit Jain: Eh we are 4th years
+24/07/2019, 11:08 - Jenit Jain: We can do iy
+24/07/2019, 11:10 - Priyanka Sahoo: hahahah theres no doubt about that
+24/07/2019, 11:10 - Priyanka Sahoo: are u still a little bit tipsy?
+24/07/2019, 11:11 - Priyanka Sahoo: I feel like I can feel the alcohol in my system
+24/07/2019, 11:16 - Priyanka Sahoo: <Media omitted>
+24/07/2019, 11:16 - Priyanka Sahoo: <Media omitted>
+24/07/2019, 11:16 - Priyanka Sahoo: <Media omitted>
+24/07/2019, 11:16 - Priyanka Sahoo: <Media omitted>
+24/07/2019, 11:16 - Priyanka Sahoo: <Media omitted>
+24/07/2019, 11:16 - Priyanka Sahoo: <Media omitted>
+24/07/2019, 11:16 - Priyanka Sahoo: <Media omitted>
+24/07/2019, 11:16 - Priyanka Sahoo: <Media omitted>
+24/07/2019, 11:16 - Priyanka Sahoo: <Media omitted>
+24/07/2019, 11:16 - Priyanka Sahoo: <Media omitted>
+24/07/2019, 11:17 - Jenit Jain: Fuck yess
+24/07/2019, 11:17 - Jenit Jain: Just one of thise days of last sem haha
+24/07/2019, 11:17 - Priyanka Sahoo: hahahahah tru dat
+24/07/2019, 11:17 - Priyanka Sahoo: gotta make the most of it
+24/07/2019, 11:17 - Jenit Jain: Too wet
+24/07/2019, 11:18 - Priyanka Sahoo: I was wondering why u were so wet 😂😂😂😂
+24/07/2019, 11:18 - Priyanka Sahoo: you prolly got wet by seeing hot gals😂
+24/07/2019, 11:27 - Jenit Jain: Ishan threw his drink on me in front of you 😂
+24/07/2019, 11:28 - Jenit Jain: I truly wish but eh
+24/07/2019, 11:28 - Jenit Jain: We did such fuck all things with those first years 😂
+24/07/2019, 11:30 - Priyanka Sahoo: hahahahahaha last night was iconic 😂😂
+24/07/2019, 11:31 - Priyanka Sahoo: but they shouldn't have agreed to hang if they were gonna ditch us anyway
+24/07/2019, 11:33 - Priyanka Sahoo: btw do u remember where I lost my phone case
+24/07/2019, 11:39 - Jenit Jain: It was just a weird encounter
+24/07/2019, 11:40 - Jenit Jain: Oh shit you didn't find it?
+24/07/2019, 11:40 - Jenit Jain: I think somewhere between deetee and regak
+24/07/2019, 11:40 - Jenit Jain: Ask harshit to look for it. Should find it at his place mostly
+24/07/2019, 11:46 - Priyanka Sahoo: veryyy
+I think I weirded them out by knowing their real names 😂😂
+24/07/2019, 11:46 - Priyanka Sahoo: turns out I lost it somewhere near deetee 😭
+24/07/2019, 12:06 - Jenit Jain: Savita af tbh
+24/07/2019, 12:07 - Jenit Jain: Stupid kids man
+24/07/2019, 12:07 - Jenit Jain: Arghh
+24/07/2019, 12:07 - Jenit Jain: It's alright now. Just get a new one
+24/07/2019, 12:07 - Jenit Jain: It ain't a successful night until someone loses something
+24/07/2019, 16:53 - Jenit Jain: <Media omitted>
+24/07/2019, 17:51 - Priyanka Sahoo: hahaahha
+24/07/2019, 17:51 - Priyanka Sahoo: story of our lives 😂
+24/07/2019, 22:13 - Jenit Jain: You should apply some cream on those rashes
+24/07/2019, 22:30 - Priyanka Sahoo: yeaaah
+24/07/2019, 22:30 - Priyanka Sahoo: but I dont have any rash cream :/
+24/07/2019, 22:31 - Jenit Jain: Apply moisturizer no
+24/07/2019, 22:33 - Priyanka Sahoo: you mean like a vaseline moisturizer?
+24/07/2019, 22:34 - Priyanka Sahoo: that's gonna help?
+24/07/2019, 22:34 - Jenit Jain: Yasss. Do. I hope it helps
+24/07/2019, 22:38 - Priyanka Sahoo: okiess, I'll try that
+27/07/2019, 18:58 - Priyanka Sahoo: do you still have my hoop earring?
+27/07/2019, 19:49 - Jenit Jain: Hahaha no sorry I don't it's been too long since then
+27/07/2019, 19:49 - Jenit Jain: How did the doctors visit go
+27/07/2019, 19:53 - Priyanka Sahoo: ah noooo :(
+27/07/2019, 19:53 - Priyanka Sahoo: the doc said I have superficial fungal infection
+27/07/2019, 19:53 - Priyanka Sahoo: she gave me a tablet and lotion to apply for 2 weeks
+27/07/2019, 19:54 - Priyanka Sahoo: any plans tonight?
+27/07/2019, 20:07 - Jenit Jain: Ah good
+27/07/2019, 20:07 - Jenit Jain: These guys have gone to harshits place
+27/07/2019, 20:07 - Jenit Jain: I might join in later
+27/07/2019, 20:32 - Priyanka Sahoo: okieee
+27/07/2019, 21:56 - Priyanka Sahoo: did u go?
+27/07/2019, 21:57 - Jenit Jain: I'm at deetee
+27/07/2019, 21:57 - Jenit Jain: With the boys
+27/07/2019, 22:03 - Jenit Jain: It's so fucking crowded
+27/07/2019, 22:32 - Priyanka Sahoo: I'll be going to dt now
+27/07/2019, 22:32 - Priyanka Sahoo: and then I'll fuck off
+27/07/2019, 22:32 - Jenit Jain: ?
+27/07/2019, 22:32 - Jenit Jain: Still probably very crowded
+27/07/2019, 22:32 - Priyanka Sahoo: as in I'll come over to regal
+27/07/2019, 22:33 - Jenit Jain: Coolll
+28/07/2019, 04:21 - Jenit Jain: Did you leave
+28/07/2019, 05:50 - Priyanka Sahoo: yeah, came back asap. passed out immediately.
+28/07/2019, 10:24 - Jenit Jain: Nice
+28/07/2019, 15:15 - Jenit Jain: How's the hangover
+28/07/2019, 15:16 - Priyanka Sahoo: horrible
+28/07/2019, 15:16 - Priyanka Sahoo: I'm dying
+28/07/2019, 15:16 - Priyanka Sahoo: I'm trying to drink as much water as possible but it's not helping
+28/07/2019, 15:16 - Priyanka Sahoo: how about you?
+28/07/2019, 16:26 - Jenit Jain: 😂
+28/07/2019, 16:26 - Jenit Jain: Same
+28/07/2019, 16:27 - Jenit Jain: I have placement test tomorrow😂
+28/07/2019, 16:31 - Priyanka Sahoo: ahh best of luck!
+28/07/2019, 16:31 - Priyanka Sahoo: how's prep going?
+28/07/2019, 16:33 - Jenit Jain: Seeing few things on the net but that's about it
+28/07/2019, 16:33 - Jenit Jain: Ah we'll see how it goes
+28/07/2019, 16:33 - Jenit Jain: These guys want to drink again today
+28/07/2019, 16:35 - Priyanka Sahoo: kaustubh's last day no?
+28/07/2019, 16:35 - Priyanka Sahoo: check out geeks for geeks, they have some decent content for placement prep
+28/07/2019, 16:38 - Jenit Jain: yep im just browsing through random shit ontheir site only
+28/07/2019, 16:51 - Priyanka Sahoo: man how are y'all still up for drinking? think about your liver for once
+28/07/2019, 17:14 - Jenit Jain: You don't say😂😂
+28/07/2019, 17:14 - Jenit Jain: I mean I don't exactly wanna go but if these guys are going then eh why not
+28/07/2019, 17:16 - Priyanka Sahoo: that's understandable, it would be fun no matter how fucked up your liver is 😂
+28/07/2019, 17:24 - Jenit Jain: 😂
+31/07/2019, 12:28 - Priyanka Sahoo: send lab codes pls
+31/07/2019, 12:28 - Priyanka Sahoo: pretty pls
+31/07/2019, 12:42 - Jenit Jain: What's your email
+31/07/2019, 12:44 - Priyanka Sahoo: priyankasahoo@hotmail.con
+31/07/2019, 12:44 - Priyanka Sahoo: .com*
+31/07/2019, 12:56 - Jenit Jain: You deleted this message
+31/07/2019, 12:56 - Jenit Jain: You deleted this message
+31/07/2019, 12:57 - Jenit Jain: Sent
+31/07/2019, 13:50 - Priyanka Sahoo: thnx man
+31/07/2019, 22:35 - Priyanka Sahoo: ayy congrats for getting shortlisted
+31/07/2019, 22:35 - Priyanka Sahoo: almost thereeee
+31/07/2019, 23:12 - Jenit Jain: That's what she said
+31/07/2019, 23:12 - Priyanka Sahoo: lmao
+31/07/2019, 23:12 - Priyanka Sahoo: typical Jenit 😂
+01/08/2019, 15:51 - Priyanka Sahoo: <Media omitted>
+01/08/2019, 15:51 - Jenit Jain: Idk what to write man
+01/08/2019, 15:58 - Priyanka Sahoo: use your creativity skillz
+01/08/2019, 15:59 - Jenit Jain: Suggest man
+01/08/2019, 16:12 - Priyanka Sahoo: ask vidit
+01/08/2019, 16:12 - Priyanka Sahoo: he can help you out
+01/08/2019, 16:13 - Priyanka Sahoo: <Media omitted>
+01/08/2019, 16:17 - Jenit Jain: Too direct
+01/08/2019, 16:17 - Jenit Jain: Only you will fall for this 😂
+01/08/2019, 16:17 - Priyanka Sahoo: ewwwww
+01/08/2019, 16:18 - Priyanka Sahoo: I dont wanna suck a strangers cock😂😂😂😂
+01/08/2019, 16:18 - Jenit Jain: Won't be your first so 🤭
+01/08/2019, 16:18 - Priyanka Sahoo: how would you know that?
+01/08/2019, 16:19 - Jenit Jain: Well we both know it so ?
+01/08/2019, 16:19 - Priyanka Sahoo: I have an idea. write "I am a lipstick eraser" as your bio
+01/08/2019, 16:19 - Priyanka Sahoo: kay tru
+01/08/2019, 16:19 - Priyanka Sahoo: no ones gonna swipe on u if u dont have a bio
+01/08/2019, 16:20 - Jenit Jain: I'm not like that ya
+01/08/2019, 16:20 - Jenit Jain: I'm a nice boy
+01/08/2019, 16:20 - Jenit Jain: 😂
+01/08/2019, 17:28 - Priyanka Sahoo: totally
+01/08/2019, 17:32 - Jenit Jain: I sense the sarcasm
+01/08/2019, 19:35 - Priyanka Sahoo: at least you're smart enough to figure that out 😂
+03/08/2019, 09:41 - Priyanka Sahoo: I'm in your class coz CN was clashing w my seminar
+03/08/2019, 09:43 - Jenit Jain: Damn so I gotta see you every week during seminar fuck
+03/08/2019, 09:51 - Priyanka Sahoo: hah sux 2 b u
+03/08/2019, 19:29 - Jenit Jain: Come to harshits place
+03/08/2019, 20:16 - Priyanka Sahoo: I'm too lazyyyy
+03/08/2019, 20:16 - Priyanka Sahoo: and I'm dead af
+03/08/2019, 20:17 - Priyanka Sahoo: I literally cancelled on the girls tonight because I don't wanna drink
+03/08/2019, 20:23 - Jenit Jain: Well I guess we'll miss you?
+03/08/2019, 20:24 - Priyanka Sahoo: how cute
+03/08/2019, 21:15 - Jenit Jain: Come!!!
+03/08/2019, 21:16 - Priyanka Sahoo: <Media omitted>
+03/08/2019, 21:25 - Jenit Jain: Comeeeeeee
+03/08/2019, 21:47 - Jenit Jain: .???
+04/08/2019, 10:11 - Jenit Jain: Guess who's just getting back
+04/08/2019, 10:48 - Priyanka Sahoo: damn, long night eh?
+04/08/2019, 13:17 - Jenit Jain: Disappointing night
+04/08/2019, 13:18 - Jenit Jain: I don't even know why pulin was there when we were walking back
+04/08/2019, 13:18 - Jenit Jain: But eh good break up party I guess
+04/08/2019, 17:31 - Jenit Jain: Also, did I say something stupid last night!
+04/08/2019, 17:31 - Jenit Jain: ?*
+04/08/2019, 17:53 - Priyanka Sahoo: hahahahah yeah that was so random
+04/08/2019, 17:54 - Priyanka Sahoo: define stupid 😂
+04/08/2019, 19:58 - Jenit Jain: You tell me :p
+04/08/2019, 20:07 - Priyanka Sahoo: you told me about how you're psychotic and what all you found out about dikshita
+04/08/2019, 20:08 - Priyanka Sahoo: but yeah, that's about it
+04/08/2019, 20:08 - Jenit Jain: That I was saying even when I was sober
+04/08/2019, 20:08 - Jenit Jain: AlThough I don't remember telling you 😂
+04/08/2019, 20:08 - Jenit Jain: Don't tell anyone. And when I tell you, spread it liel wildfire
+04/08/2019, 20:09 - Priyanka Sahoo: ofc I wont tell anyone
+04/08/2019, 20:09 - Priyanka Sahoo: i ain't gonna spread shiz lmao
+04/08/2019, 20:11 - Jenit Jain: What a waste you are
+04/08/2019, 20:11 - Priyanka Sahoo: wait, I'm confused 😂
+04/08/2019, 20:11 - Priyanka Sahoo: you want me to tell people?😂
+04/08/2019, 20:11 - Jenit Jain: After I tell give you the green light
+04/08/2019, 20:11 - Jenit Jain: RN it's red fyi
+04/08/2019, 20:12 - Priyanka Sahoo: ah okayy
+04/08/2019, 20:12 - Priyanka Sahoo: I gotchu
+04/08/2019, 20:12 - Priyanka Sahoo: have you written the report yet?
+04/08/2019, 20:15 - Jenit Jain: Man I'm so fucked
+04/08/2019, 20:15 - Jenit Jain: I haven't studied
+04/08/2019, 20:15 - Jenit Jain: Or finished the report
+04/08/2019, 20:15 - Priyanka Sahoo: dude same
+04/08/2019, 20:15 - Priyanka Sahoo: I was sleeping the whole day
+04/08/2019, 20:16 - Priyanka Sahoo: so much to do 😭
+05/08/2019, 17:54 - Jenit Jain: Did you finally managed to submit 😂?
+05/08/2019, 18:05 - Priyanka Sahoo: my teacher wasnt in her cabin
+05/08/2019, 18:05 - Priyanka Sahoo: so I'll give it to her tomorrow
+05/08/2019, 18:05 - Priyanka Sahoo: but dude
+05/08/2019, 18:05 - Priyanka Sahoo: I have like 13 pages
+05/08/2019, 18:05 - Priyanka Sahoo: in overall
+05/08/2019, 18:06 - Priyanka Sahoo: I rly hope they dont make an issue out of it
+05/08/2019, 18:14 - Jenit Jain: Ah we're too old to give a shit anyway for such stupid thinfs
+05/08/2019, 18:14 - Jenit Jain: It's fine
+05/08/2019, 18:15 - Jenit Jain: Should be enough and incase they do cause a problem tell them you have signed an NDA so you don't have enough content
+06/08/2019, 09:08 - Jenit Jain: <Media omitted>
+06/08/2019, 10:52 - Priyanka Sahoo: awwwwwww
+06/08/2019, 10:53 - Priyanka Sahoo: it shall happen someday :')
+06/08/2019, 10:56 - Jenit Jain: 😂I'm traumatized by the idea of a relationship now so lol ko thanks
+06/08/2019, 16:36 - Jenit Jain: Green signal
+06/08/2019, 16:36 - Priyanka Sahoo: so how did it go
+06/08/2019, 16:36 - Priyanka Sahoo: what did she say
+06/08/2019, 16:36 - Priyanka Sahoo: tell me errrythin
+06/08/2019, 16:39 - Jenit Jain: Are you in class?
+06/08/2019, 16:42 - Priyanka Sahoo: yup
+06/08/2019, 16:43 - Jenit Jain: Meet me after I'll tell you everything
+06/08/2019, 17:29 - Priyanka Sahoo: sowwy I left cause I had to talk to my faculty about my industrial training shiz
+06/08/2019, 17:43 - Jenit Jain: Story for next time
+06/08/2019, 17:51 - Priyanka Sahoo: yess tell me tmrw
+06/08/2019, 17:51 - Priyanka Sahoo: <Media omitted>
+06/08/2019, 18:00 - Jenit Jain: Too far
+06/08/2019, 19:21 - Priyanka Sahoo: superhuman**
+06/08/2019, 19:21 - Priyanka Sahoo: lmao
+06/08/2019, 19:21 - Priyanka Sahoo: it's near ab5, how is that too far
+06/08/2019, 21:26 - Jenit Jain: You said falcon 🙄
+06/08/2019, 21:27 - Jenit Jain: I'm planning to join
+06/08/2019, 21:27 - Jenit Jain: Arghh need to get placeddd
+06/08/2019, 21:27 - Priyanka Sahoo: I said that by mistake xD
+06/08/2019, 21:27 - Priyanka Sahoo: did u go for deloitte?
+06/08/2019, 21:27 - Priyanka Sahoo: yess join
+06/08/2019, 21:40 - Jenit Jain: Na I don't want management related shit
+06/08/2019, 21:40 - Jenit Jain: Who did you join with
+06/08/2019, 21:54 - Priyanka Sahoo: dude so many people got placed in deloitte. every single insta story is of someone congratulating someone else for getting into deloitte
+06/08/2019, 21:54 - Priyanka Sahoo: srilekha, mahima is also gonna join us once her seminar is done
+06/08/2019, 21:55 - Priyanka Sahoo: do you have lab 2 codes?
+06/08/2019, 23:00 - Jenit Jain: Yeah they are Mass recruiters.
+06/08/2019, 23:00 - Jenit Jain: Too many people they take
+06/08/2019, 23:00 - Jenit Jain: Alright
+06/08/2019, 23:00 - Jenit Jain: I'll join soon!
+06/08/2019, 23:00 - Jenit Jain: I'll send
+06/08/2019, 23:34 - Priyanka Sahoo: yeahhh, I'm waiting for the day u get placed. much awaited treat xD
+06/08/2019, 23:34 - Priyanka Sahoo: coolzzz
+06/08/2019, 23:34 - Priyanka Sahoo: so many people go to superhuman dude
+06/08/2019, 23:34 - Priyanka Sahoo: priyank & jeet, vishwa are one of the many people whom I recognized lmao
+06/08/2019, 23:34 - Priyanka Sahoo: thaanksss
+07/08/2019, 09:06 - Jenit Jain: <Media omitted>
+07/08/2019, 09:59 - Priyanka Sahoo: omgggg so trueeeee
+07/08/2019, 10:21 - Jenit Jain: Sorry you missed the break up party 😂
+07/08/2019, 10:41 - Priyanka Sahoo: again?
+07/08/2019, 10:42 - Priyanka Sahoo: how many break up parties have you had😂
+07/08/2019, 10:53 - Jenit Jain: Haha those were just normal parties to take my mind off shit
+07/08/2019, 10:53 - Jenit Jain: I got the booze and weed for this one 😂
+07/08/2019, 10:53 - Jenit Jain: Expensive days
+10/08/2019, 09:51 - Jenit Jain: Is my watch in there as well? 🙈
+10/08/2019, 09:52 - Priyanka Sahoo: nope
+10/08/2019, 09:52 - Priyanka Sahoo: dont think u wore one
+10/08/2019, 09:53 - Jenit Jain: Counting on it tbh
+10/08/2019, 09:53 - Jenit Jain: Thanks tho😂
+10/08/2019, 09:53 - Priyanka Sahoo: hahahaha no probs 😂😂
+10/08/2019, 09:53 - Jenit Jain: He would have made me sit if I'd come inside
+10/08/2019, 09:53 - Priyanka Sahoo: forgetful child
+10/08/2019, 09:53 - Jenit Jain: That's what she said
+10/08/2019, 09:53 - Priyanka Sahoo: dude nobody left after yall left
+10/08/2019, 09:54 - Jenit Jain: 😂 did any teacher say anything?
+10/08/2019, 09:54 - Priyanka Sahoo: she would've*
+10/08/2019, 09:54 - Priyanka Sahoo: nope
+10/08/2019, 09:54 - Jenit Jain: You always gotta ruin it don't you
+10/08/2019, 09:54 - Priyanka Sahoo: I dont think they're listening to what people are saying
+10/08/2019, 09:54 - Jenit Jain: Noice
+10/08/2019, 09:55 - Jenit Jain: Hahahha so many of them so
+10/08/2019, 09:55 - Priyanka Sahoo: I said my shit in like 10 seconds
+10/08/2019, 09:55 - Jenit Jain: Leaveeee
+10/08/2019, 09:55 - Priyanka Sahoo: mannnn I need someone to walk out w me
+10/08/2019, 09:55 - Priyanka Sahoo: this is too awks 😂
+10/08/2019, 09:55 - Jenit Jain: I wouldn't have done it either if it wasn't for Anushka
+10/08/2019, 09:56 - Jenit Jain: Ask rudhraksh
+10/08/2019, 09:56 - Jenit Jain: So rude you were to him shi
+10/08/2019, 09:56 - Priyanka Sahoo: how was I rude :o
+10/08/2019, 09:57 - Priyanka Sahoo: he was offering to give u your phone
+10/08/2019, 09:57 - Jenit Jain: You legit got away from him 20s after he sat down
+10/08/2019, 09:57 - Priyanka Sahoo: I was like issokay I'll give it
+10/08/2019, 09:57 - Priyanka Sahoo: haahahhahahah
+10/08/2019, 09:57 - Priyanka Sahoo: oops
+10/08/2019, 09:57 - Priyanka Sahoo: you made me leave
+10/08/2019, 09:57 - Jenit Jain: All them guys doing your favors damn
+10/08/2019, 09:58 - Jenit Jain: I made you come
+10/08/2019, 09:58 - Priyanka Sahoo: I know, I've too many peasants
+10/08/2019, 09:58 - Jenit Jain: 😂😂😂 I just had to use it
+10/08/2019, 09:58 - Priyanka Sahoo: that's what she said
+10/08/2019, 09:58 - Jenit Jain: Oh is that so hmm
+10/08/2019, 09:58 - Jenit Jain: Don't call us next time from kmc? :)
+10/08/2019, 09:58 - Priyanka Sahoo: yeah you're one of them
+10/08/2019, 09:58 - Priyanka Sahoo: who said I'll going to kmc ever again
+10/08/2019, 09:59 - Priyanka Sahoo: im*
+10/08/2019, 09:59 - Priyanka Sahoo: oh shizzzz
+10/08/2019, 09:59 - Priyanka Sahoo: vishwa and couple guys were about to leave and the old dude got pissed
+10/08/2019, 10:00 - Jenit Jain: 😂😂😂😂
+10/08/2019, 10:00 - Jenit Jain: Can't wait for you to ask me for a favor.
+10/08/2019, 10:00 - Jenit Jain: I'll be bringing this up
+10/08/2019, 10:00 - Jenit Jain: I always get lucky :p
+10/08/2019, 10:04 - Priyanka Sahoo: hahahahah let's see about that 😂
+10/08/2019, 10:04 - Priyanka Sahoo: yeah that's why you got heartbroken
+10/08/2019, 10:05 - Jenit Jain: Lucky to get rid of a crazy ass bitch who wasted 3 years of my life
+10/08/2019, 10:05 - Jenit Jain: But the sex was good so eh kinda compensates for that
+10/08/2019, 10:06 - Priyanka Sahoo: damn you just did a 180
+10/08/2019, 10:07 - Priyanka Sahoo: hahahah this is too funny 😂
+10/08/2019, 10:07 - Priyanka Sahoo: come to hashtag today
+10/08/2019, 10:08 - Priyanka Sahoo: these guys always drink at regal or deetee
+10/08/2019, 10:08 - Priyanka Sahoo: lets do something diff for a change
+10/08/2019, 10:11 - Priyanka Sahoo: have u ever heard subha reddy laugh? most hilarious shit ever 😂 sounds like a horse is neighing
+10/08/2019, 10:13 - Jenit Jain: You do realize that after I found out that she cheated on me I instantly got over her
+10/08/2019, 10:13 - Jenit Jain: It was scary how how fast I got over her tbh but yeah
+10/08/2019, 10:13 - Jenit Jain: Who knows when will God bless me with some action next.
+10/08/2019, 10:14 - Jenit Jain: Why change urgh. Plus hashtag is too lighty can't drink there. It's like Socials bars in Mumbai. Eh
+10/08/2019, 10:14 - Jenit Jain: Who is this
+10/08/2019, 10:18 - Priyanka Sahoo: it's not tbh. it's a dealbreaker for most of us and things like this help us get over people
+10/08/2019, 10:19 - Priyanka Sahoo: probably never
+10/08/2019, 10:19 - Priyanka Sahoo: man I'm going there cause the girls wanna go there or else I wouldn't mind drinking at home
+10/08/2019, 10:19 - Priyanka Sahoo: the old dudr
+10/08/2019, 10:20 - Priyanka Sahoo: your seminar teacher
+10/08/2019, 10:23 - Jenit Jain: You will prolly never say anything more right than this
+10/08/2019, 10:23 - Jenit Jain: Good1
+10/08/2019, 10:23 - Jenit Jain: Such is life
+10/08/2019, 10:23 - Jenit Jain: Like always, chill with them and then ditch them and come to wherever we are :p
+10/08/2019, 10:24 - Jenit Jain: Hahahah Ill keep that in mind for next week
+10/08/2019, 11:03 - Priyanka Sahoo: I know, I'm v wise
+10/08/2019, 11:03 - Priyanka Sahoo: whatta losah
+10/08/2019, 11:04 - Priyanka Sahoo: hmmm let's see how the night goes
+10/08/2019, 11:04 - Priyanka Sahoo: you guys are drinking at regal today?
+10/08/2019, 14:02 - Jenit Jain: I'm sorry that I'm not a girl because of which no one hits on ne
+10/08/2019, 14:02 - Jenit Jain: 🙄
+10/08/2019, 14:02 - Jenit Jain: Mostly
+10/08/2019, 19:33 - Jenit Jain: Going to harshits place now
+10/08/2019, 19:33 - Jenit Jain: Medha and Anushka both are there
+10/08/2019, 19:41 - Priyanka Sahoo: okiessss
+10/08/2019, 19:41 - Jenit Jain: What's your plan
+10/08/2019, 19:49 - Priyanka Sahoo: most likely going to hashtag and then we'll see where the night takes us
+10/08/2019, 19:49 - Priyanka Sahoo: komal is staying over w me tonight so I need to give her company, dont think she can come to regal given past circumstances xD
+10/08/2019, 19:50 - Jenit Jain: 😂
+10/08/2019, 19:50 - Jenit Jain: Why tho
+10/08/2019, 19:50 - Priyanka Sahoo: she randomly took a night out tonight 😂
+10/08/2019, 19:50 - Priyanka Sahoo: so she needs a place to crash
+10/08/2019, 20:05 - Jenit Jain: Ahh alright let me know
+10/08/2019, 20:51 - Jenit Jain: We are at froth on top
+10/08/2019, 20:54 - Priyanka Sahoo: come to hashtag
+10/08/2019, 21:42 - Jenit Jain: You come here noii
+10/08/2019, 21:55 - Jenit Jain: Come to the ecstasy bar
+11/08/2019, 00:07 - Priyanka Sahoo: what u guys doin rn
+11/08/2019, 00:32 - Priyanka Sahoo: wtf happened to your phone
+11/08/2019, 00:33 - Priyanka Sahoo: my calls ain't going thru
+11/08/2019, 00:41 - Jenit Jain: Hello
+11/08/2019, 00:41 - Jenit Jain: No network in ecstasy
+11/08/2019, 00:47 - Priyanka Sahoo: what u guys doin
+11/08/2019, 00:47 - Priyanka Sahoo: I'll come?
+11/08/2019, 00:52 - Jenit Jain: We had such a scene
+11/08/2019, 00:53 - Jenit Jain: Arav man
+11/08/2019, 00:53 - Jenit Jain: Him drunk is annoying
+11/08/2019, 01:04 - Priyanka Sahoo: oh fuck
+11/08/2019, 01:04 - Priyanka Sahoo: are u still there
+11/08/2019, 01:06 - Jenit Jain: I'm at rias place but mostly leaving this place
+11/08/2019, 02:04 - Priyanka Sahoo: where u going after?
+11/08/2019, 02:35 - Jenit Jain: So much bt
+11/08/2019, 02:35 - Jenit Jain: Im still here trying my best to leave
+11/08/2019, 02:35 - Priyanka Sahoo: drag Arav w u and leave
+11/08/2019, 02:36 - Jenit Jain: He's in a very comfortable position I can't even joke about this shit
+11/08/2019, 02:38 - Jenit Jain: I do hope I make it back home
+11/08/2019, 03:33 - Priyanka Sahoo: mannn you gotta force him to come with u
+11/08/2019, 03:34 - Priyanka Sahoo: how will u go back home now
+11/08/2019, 03:34 - Priyanka Sahoo: no auto
+11/08/2019, 03:36 - Jenit Jain: Okay so too late and ria said sleep in
+11/08/2019, 03:46 - Priyanka Sahoo: yeahhh that's a good option
+11/08/2019, 03:47 - Jenit Jain: Im so cross faded hahah
+11/08/2019, 03:47 - Jenit Jain: You should have met last night man
+11/08/2019, 03:49 - Priyanka Sahoo: YOU SHOULD'VE COME TO HASHTAG
+11/08/2019, 03:49 - Priyanka Sahoo: it was rly littttt
+11/08/2019, 03:50 - Jenit Jain: So was fot
+11/08/2019, 03:50 - Jenit Jain: Sucks
+11/08/2019, 04:04 - Priyanka Sahoo: but u only get beer at fot
+11/08/2019, 04:05 - Jenit Jain: Enoughh
+11/08/2019, 04:05 - Jenit Jain: Also why you up
+11/08/2019, 04:08 - Priyanka Sahoo: hahahah looks like someone just gave up 😂
+11/08/2019, 04:09 - Priyanka Sahoo: just got back to my room so that I can sleep
+11/08/2019, 04:09 - Priyanka Sahoo: I was chilling at srilekha's and then played on the swings for a bit 😂
+11/08/2019, 04:09 - Priyanka Sahoo: why you up at such an odd hour
+11/08/2019, 04:11 - Jenit Jain: We're still smoking up lolll
+11/08/2019, 04:11 - Jenit Jain: Just finishing up
+11/08/2019, 04:15 - Priyanka Sahoo: thought u said u were gonna be an OCCASIONAL smoker this sem 🤔
+11/08/2019, 11:20 - Jenit Jain: Yeah well nothing works out the way we imagine anyway
+11/08/2019, 16:38 - Priyanka Sahoo: it can if you put your mind to it
+11/08/2019, 18:30 - Priyanka Sahoo: <Media omitted>
+11/08/2019, 18:31 - Jenit Jain: You fall for it anyway so?
+11/08/2019, 18:32 - Priyanka Sahoo: lmao no
+11/08/2019, 18:32 - Priyanka Sahoo: I'm giving u tips on how to get girls
+11/08/2019, 18:35 - Jenit Jain: If you don't go for it then it clearly doesn't work right. I need better tips sahoo
+11/08/2019, 18:59 - Priyanka Sahoo: hahah you've got a fair point 😂
+11/08/2019, 19:00 - Priyanka Sahoo: are y'all going out tonight?
+11/08/2019, 19:00 - Jenit Jain: We are going to harshits place but mostly going to stay in and do tp. No one has the strength to drink againn
+11/08/2019, 19:02 - Priyanka Sahoo: makes sense
+11/08/2019, 19:02 - Priyanka Sahoo: what's tp
+11/08/2019, 19:04 - Jenit Jain: Beer FIFA and then prolly watch the football match or something
+11/08/2019, 19:04 - Jenit Jain: Hanging out like with guys is new for me as well since I'm newly single 😂
+11/08/2019, 19:04 - Priyanka Sahoo: hahahahahah
+11/08/2019, 19:05 - Priyanka Sahoo: it wont take that long to get used to it though
+11/08/2019, 19:12 - Jenit Jain: Tbh I'm loving this new routine
+11/08/2019, 19:12 - Jenit Jain: Im scared how free I'll become once I get placed bapre
+11/08/2019, 19:25 - Priyanka Sahoo: lmao you'll be on party mode for the entire semester after you get placed
+11/08/2019, 19:44 - Jenit Jain: Be there next time maybe?
+11/08/2019, 19:48 - Priyanka Sahoo: sure sure, just let me know when u guys go out next time 
+you guys should make plans in advance btw
+11/08/2019, 20:42 - Jenit Jain: Where are youuuu
+11/08/2019, 20:42 - Priyanka Sahoo: I'll come in an hour
+11/08/2019, 20:43 - Jenit Jain: That was an hour ago
+11/08/2019, 20:44 - Jenit Jain: Man don't be a dick ya
+11/08/2019, 20:44 - Jenit Jain: Fucking hell
+11/08/2019, 20:47 - Priyanka Sahoo: not being a dick man
+11/08/2019, 20:47 - Priyanka Sahoo: I'll be there
+11/08/2019, 20:47 - Priyanka Sahoo: yall are using me for booze 💔
+11/08/2019, 20:47 - Jenit Jain: Duh?
+11/08/2019, 20:51 - Priyanka Sahoo: wow
+11/08/2019, 20:51 - Priyanka Sahoo: that hurtz
+11/08/2019, 20:53 - Jenit Jain: Come ya
+11/08/2019, 21:11 - Priyanka Sahoo: will do
+12/08/2019, 00:48 - Jenit Jain: Text me when you reach bacj
+12/08/2019, 00:56 - Priyanka Sahoo: yesss
+12/08/2019, 00:56 - Priyanka Sahoo: you guys reached?
+12/08/2019, 00:57 - Jenit Jain: We got a distraction in middle 😂
+12/08/2019, 00:57 - Jenit Jain: So we are still looking for one
+12/08/2019, 01:10 - Jenit Jain: You home?
+12/08/2019, 10:10 - Jenit Jain: Did you ever make it back tho
+12/08/2019, 10:54 - Priyanka Sahoo: yeahyeah, I did
+12/08/2019, 10:56 - Jenit Jain: Haha alright hi
+12/08/2019, 13:27 - Priyanka Sahoo: man im so hungover
+12/08/2019, 13:28 - Jenit Jain: I'm at Arushas place for Eid and these people are already having old monk
+12/08/2019, 13:28 - Jenit Jain: Revati woke up got drunk and slept again 😂
+12/08/2019, 13:28 - Priyanka Sahoo: oh right, it's her birthday
+12/08/2019, 13:29 - Priyanka Sahoo: she gonna be drunk the entire day 😂
+12/08/2019, 13:29 - Jenit Jain: Wish her man 😂
+12/08/2019, 13:29 - Jenit Jain: I can't drink bro
+12/08/2019, 13:30 - Priyanka Sahoo: you're saying that now but you'll end up drinking anyway
+12/08/2019, 13:45 - Jenit Jain: Have some trust in me?
+12/08/2019, 13:51 - Priyanka Sahoo: no
+12/08/2019, 14:53 - Jenit Jain: So not drinking💪🏻
+12/08/2019, 15:06 - Priyanka Sahoo: hahah let's see how that goes
+12/08/2019, 15:09 - Jenit Jain: Biryaniiiii
+12/08/2019, 15:09 - Jenit Jain: Arusha got like 3 kgs of it
+12/08/2019, 15:17 - Priyanka Sahoo: damn
+12/08/2019, 15:17 - Priyanka Sahoo: that sounds amaze ballz
+14/08/2019, 10:29 - Jenit Jain: Kill me already urghh
+14/08/2019, 10:31 - Priyanka Sahoo: dude this is so boring
+14/08/2019, 10:31 - Priyanka Sahoo: I cant
+14/08/2019, 10:31 - Jenit Jain: Especially this guy jeez
+14/08/2019, 10:31 - Priyanka Sahoo: hahahahahah
+14/08/2019, 10:32 - Priyanka Sahoo: everyone is so bored
+14/08/2019, 10:32 - Jenit Jain: Atleast I dony have to summarize so that's something
+14/08/2019, 10:32 - Priyanka Sahoo: this is so extra
+14/08/2019, 10:32 - Jenit Jain: This guy does this in class as weol
+14/08/2019, 10:32 - Priyanka Sahoo: he's that boring? 😂
+14/08/2019, 10:32 - Jenit Jain: Irritating
+14/08/2019, 10:32 - Priyanka Sahoo: lowkey feel bad for him
+14/08/2019, 10:32 - Priyanka Sahoo: coz no one's listening
+14/08/2019, 10:33 - Jenit Jain: Maybe your next hookup to lighten up a poor boys day
+14/08/2019, 10:33 - Jenit Jain: 😂
+14/08/2019, 10:33 - Jenit Jain: Good Samaritan
+14/08/2019, 10:33 - Priyanka Sahoo: ewwwww that's disgusting
+14/08/2019, 10:33 - Priyanka Sahoo: never in a million years man
+14/08/2019, 10:34 - Priyanka Sahoo: are u guys gonna do smthn tonight
+14/08/2019, 10:34 - Jenit Jain: How's sitting with parv going 😂
+14/08/2019, 10:34 - Priyanka Sahoo: he's playing a game 😂
+14/08/2019, 10:34 - Jenit Jain: Let's see. I'll hit you up as soon as I find out.
+14/08/2019, 10:34 - Priyanka Sahoo: he told me that you told him that I have a diplomatic passport
+14/08/2019, 10:34 - Priyanka Sahoo: so random????
+14/08/2019, 10:34 - Priyanka Sahoo: good shiz
+14/08/2019, 10:36 - Jenit Jain: We were talking about ifs so
+14/08/2019, 10:37 - Jenit Jain: How are you so mentally prepared to drink already
+14/08/2019, 10:37 - Priyanka Sahoo: tomorrow is a holidayyyyy
+14/08/2019, 10:37 - Priyanka Sahoo: that's why I'm prepared
+14/08/2019, 10:38 - Priyanka Sahoo: we could do shisha also
+14/08/2019, 10:38 - Priyanka Sahoo: @ hepta
+14/08/2019, 10:38 - Priyanka Sahoo: they have drinks there
+14/08/2019, 10:41 - Jenit Jain: Surprising how all the clubs you want to go to are so close to you hmmmm
+14/08/2019, 10:42 - Priyanka Sahoo: YE BECOZ I DONT WANNA SPEND 100 BUCKS ON AUTO
+14/08/2019, 10:43 - Jenit Jain: So ALL the guys should travel with their respective plus ones to wherever you want us to come.
+14/08/2019, 10:43 - Jenit Jain: Sounds fair
+14/08/2019, 10:43 - Jenit Jain: Unlike youuu😂😂
+14/08/2019, 10:43 - Priyanka Sahoo: how rude 😭 we ALWAYS hang out at regal
+14/08/2019, 10:44 - Priyanka Sahoo: lez do smthn diff
+14/08/2019, 10:44 - Priyanka Sahoo: for once
+14/08/2019, 10:44 - Jenit Jain: Interesting
+14/08/2019, 10:44 - Jenit Jain: Let's see I'll ask the guys
+14/08/2019, 10:44 - Jenit Jain: Let's see what happens
+14/08/2019, 10:44 - Jenit Jain: But we'll get drunk for sure haha
+14/08/2019, 10:44 - Priyanka Sahoo: okayokay, lemme know
+14/08/2019, 10:57 - Jenit Jain: Where the fuck did you disappear
+14/08/2019, 10:57 - Priyanka Sahoo: had to pee
+14/08/2019, 10:57 - Priyanka Sahoo: wya
+14/08/2019, 10:57 - Jenit Jain: Come to the new gate
+14/08/2019, 10:57 - Priyanka Sahoo: I'm nearby
+14/08/2019, 10:57 - Priyanka Sahoo: 30 secs
+14/08/2019, 10:57 - Jenit Jain: Lol come
+14/08/2019, 15:32 - Jenit Jain: When are mahima and all leaving for goa
+14/08/2019, 15:33 - Priyanka Sahoo: tomorrow
+14/08/2019, 15:36 - Jenit Jain: Booze at your place again
+14/08/2019, 15:41 - Priyanka Sahoo: sure sure
+14/08/2019, 15:41 - Priyanka Sahoo: we'll need to buy them today then
+14/08/2019, 16:18 - Jenit Jain: Oh shit yesss
+14/08/2019, 16:18 - Jenit Jain: Alright alright well do all that
+14/08/2019, 19:09 - Priyanka Sahoo: yessss
+14/08/2019, 19:09 - Priyanka Sahoo: do not drink those booze tonight okay 😂
+14/08/2019, 19:09 - Priyanka Sahoo: whatcha gonna buy
+14/08/2019, 19:39 - Jenit Jain: Apparently you get booze tomorrow so it's chill
+14/08/2019, 19:40 - Jenit Jain: We are right?
+14/08/2019, 19:40 - Priyanka Sahoo: oh lol
+14/08/2019, 19:40 - Priyanka Sahoo: I thought we all were buying smthn
+14/08/2019, 19:43 - Jenit Jain: Man no one from harshits house isnup for a plan
+14/08/2019, 19:43 - Jenit Jain: Try to convince harshit no, I failed
+14/08/2019, 19:43 - Priyanka Sahoo: for tonight?
+14/08/2019, 19:43 - Jenit Jain: Yes
+14/08/2019, 19:44 - Priyanka Sahoo: okok trying
+14/08/2019, 19:47 - Priyanka Sahoo: why wont they go out thougj
+14/08/2019, 19:47 - Jenit Jain: Harshit is sleeping
+14/08/2019, 19:48 - Jenit Jain: He's like I'm too tired
+14/08/2019, 19:48 - Jenit Jain: And the other guys have the girls over
+14/08/2019, 19:48 - Jenit Jain: We might drink at pragati only
+14/08/2019, 19:48 - Jenit Jain: Too less of a group to go out
+14/08/2019, 19:48 - Priyanka Sahoo: as in you, vidit and arav?
+14/08/2019, 19:48 - Priyanka Sahoo: no one else is up for going out?
+14/08/2019, 19:48 - Priyanka Sahoo: goddamn
+14/08/2019, 19:50 - Jenit Jain: I'm sorry we a sad group
+14/08/2019, 19:50 - Priyanka Sahoo: no man
+14/08/2019, 19:51 - Priyanka Sahoo: nothing like that😂
+14/08/2019, 19:51 - Priyanka Sahoo: u already know whom I cannot stand
+14/08/2019, 19:56 - Priyanka Sahoo: man let's go to hepta
+14/08/2019, 20:16 - Jenit Jain: You deleted this message
+14/08/2019, 20:16 - Jenit Jain: It's either me and you
+14/08/2019, 20:16 - Jenit Jain: Or the 4 of us
+14/08/2019, 20:16 - Jenit Jain: Arav and Vidit
+14/08/2019, 20:17 - Jenit Jain: Can't get Vidit and tell Arav not to come
+14/08/2019, 20:18 - Priyanka Sahoo: hahahah its chill
+14/08/2019, 20:18 - Priyanka Sahoo: I understand
+14/08/2019, 20:18 - Priyanka Sahoo: I can maybe tolerate him when hes sober; not when he's drunk
+14/08/2019, 20:18 - Priyanka Sahoo: still drinking at home?
+14/08/2019, 20:19 - Jenit Jain: Everyone prefers home only but we haven't decided
+14/08/2019, 20:19 - Jenit Jain: So if you decide to come, then we'll leave to get the booze
+14/08/2019, 20:20 - Priyanka Sahoo: wait imma call u becoz I hate texting
+14/08/2019, 20:28 - Jenit Jain: 😂
+14/08/2019, 20:48 - Priyanka Sahoo: met priyank near emerald; we were making small talk and I asked him if he has any plans for the long weekend. and then he goes like "we might be going somewhere now that jeet has a car but we wont be making plans w harshit and all. done making plans with them" 😂
+14/08/2019, 20:52 - Jenit Jain: Are we done or are they hmm
+14/08/2019, 20:52 - Jenit Jain: Jeet harshit and I had an altercation recently
+14/08/2019, 20:52 - Jenit Jain: It's was fun
+14/08/2019, 20:55 - Priyanka Sahoo: hahahahahah guess they'll never know 😂
+14/08/2019, 20:55 - Priyanka Sahoo: about what?
+14/08/2019, 21:35 - Jenit Jain: Again, alcohol was there so don't really remember but u remember it not being cordial or a joke
+14/08/2019, 21:40 - Priyanka Sahoo: lmaoooo
+14/08/2019, 21:40 - Priyanka Sahoo: at least they know not to call u guys anymore 😂
+14/08/2019, 22:03 - Jenit Jain: We have been saying no for quite a while so eh.
+14/08/2019, 22:51 - Jenit Jain: Good we didn't go to hepta
+14/08/2019, 22:51 - Jenit Jain: Jeet and gand are there only hahaha
+14/08/2019, 23:01 - Priyanka Sahoo: hahahah
+14/08/2019, 23:01 - Priyanka Sahoo: dodged a bullet
+15/08/2019, 12:32 - Jenit Jain: <Media omitted>
+15/08/2019, 12:37 - Priyanka Sahoo: hahaahahahahah
+15/08/2019, 12:37 - Priyanka Sahoo: I still look cute tho
+15/08/2019, 12:45 - Jenit Jain: I mean it's debatable
+15/08/2019, 12:46 - Jenit Jain: But eh I'll just agree
+15/08/2019, 13:06 - Priyanka Sahoo: awwww thanks :'))
+15/08/2019, 19:02 - Priyanka Sahoo: what scenes tonight?
+15/08/2019, 19:08 - Jenit Jain: I just got done with my movie
+15/08/2019, 19:08 - Jenit Jain: I'm going home now and ask them and let you know
+15/08/2019, 19:08 - Priyanka Sahoo: okok
+15/08/2019, 20:02 - Priyanka Sahoo: oi what's the plannnnn
+15/08/2019, 21:50 - Jenit Jain: We aren't coming over we had solid covo
+15/08/2019, 21:54 - Priyanka Sahoo: k
+16/08/2019, 08:01 - Jenit Jain: Hello
+16/08/2019, 08:01 - Jenit Jain: Okay so last night tempers were very high
+16/08/2019, 08:01 - Jenit Jain: A lot of shit was going on at my place
+16/08/2019, 08:01 - Jenit Jain: I'm really sorry for ditching our plan
+16/08/2019, 08:02 - Jenit Jain: I'll make it up to you
+16/08/2019, 08:02 - Jenit Jain: Sorry
+16/08/2019, 08:02 - Jenit Jain: What's you do last night then?
+16/08/2019, 08:31 - Priyanka Sahoo: nothing, tried to do some productive stuff
+16/08/2019, 09:26 - Jenit Jain: Sorry for letting you do productive stuff. That's not a good friendship
+16/08/2019, 09:52 - Priyanka Sahoo: haha it's chill
+18/08/2019, 13:54 - Jenit Jain: So how's the renewed hangover
+18/08/2019, 14:05 - Priyanka Sahoo: horrible
+18/08/2019, 14:05 - Priyanka Sahoo: how about you?
+18/08/2019, 14:08 - Jenit Jain: Woke up and prolly got the job even tho I tried my best to tank it
+18/08/2019, 14:09 - Priyanka Sahoo: when do the results come out?
+18/08/2019, 14:09 - Jenit Jain: They said they'll email in the eveningn
+18/08/2019, 14:09 - Jenit Jain: We fucking chilled and drank for 7 hours straight 😂
+18/08/2019, 14:10 - Priyanka Sahoo: ikr, prolly the longest I've chilled with you 😂
+18/08/2019, 14:10 - Priyanka Sahoo: time for a treattttt
+18/08/2019, 14:19 - Jenit Jain: So much fun you had f u
+18/08/2019, 14:19 - Jenit Jain: Man I'm not treating for sure if I get placed there
+18/08/2019, 14:31 - Priyanka Sahoo: why notttt
+18/08/2019, 14:31 - Jenit Jain: I don't want this company 😭
+18/08/2019, 14:32 - Priyanka Sahoo: then why bother giving the ot
+18/08/2019, 14:33 - Jenit Jain: I realised after the ot. Like when I got drunk last night I started thinking and spoke to my sister about and all
+18/08/2019, 15:16 - Priyanka Sahoo: yeaahh I remember
+18/08/2019, 15:16 - Priyanka Sahoo: where did you go after you left tho
+18/08/2019, 15:16 - Jenit Jain: I don't even remember leaving but then I went down and met Divya and walked till the auto stand
+18/08/2019, 15:17 - Priyanka Sahoo: hahaha you were that drunk? 😂
+18/08/2019, 15:17 - Jenit Jain: I didn't eat a single proper meal yesterday okay
+18/08/2019, 15:57 - Priyanka Sahoo: damn
+18/08/2019, 15:58 - Priyanka Sahoo: you didn't seem drunk 😂
+18/08/2019, 17:52 - Jenit Jain: Man I got fucking placed🙈🙈😭
+18/08/2019, 17:52 - Priyanka Sahoo: OMG THATS AMAZING
+18/08/2019, 17:52 - Priyanka Sahoo: CONGRATS MAN
+18/08/2019, 18:20 - Jenit Jain: No man😭😭😭😭😭😭
+18/08/2019, 21:39 - Priyanka Sahoo: but its still amazing!!!!!
+18/08/2019, 21:39 - Priyanka Sahoo: it's a big thing even tho u dont like the location of the company
+18/08/2019, 21:53 - Jenit Jain: I mean yeah fair enoughb
+18/08/2019, 21:53 - Jenit Jain: Now I don't feel that bad :p
+18/08/2019, 21:53 - Jenit Jain: They wanted a party tonight
+18/08/2019, 21:54 - Jenit Jain: I was like I just can't after so much fireball
+18/08/2019, 21:58 - Priyanka Sahoo: the party's on u tomorro2
+18/08/2019, 22:59 - Jenit Jain: Urgh yeah I know and I'm dreading
+18/08/2019, 23:00 - Priyanka Sahoo: IM EXCITED
+18/08/2019, 23:02 - Jenit Jain: Why isn't drinking an every day affair for you
+19/08/2019, 01:07 - Priyanka Sahoo: cause I'm my body is too old for that
+19/08/2019, 01:07 - Priyanka Sahoo: but I dont mind drinking on special occasions
+19/08/2019, 01:08 - Priyanka Sahoo: and we gonna celebrate today fosho
+19/08/2019, 01:08 - Jenit Jain: Why, isn't drinking an every day affair for you*
+19/08/2019, 01:09 - Jenit Jain: That comma really changes the entire meaning
+19/08/2019, 01:09 - Priyanka Sahoo: lmaoooo it actually does
+19/08/2019, 01:09 - Priyanka Sahoo: lmao no
+19/08/2019, 01:09 - Priyanka Sahoo: we talked about this yesterday
+19/08/2019, 01:09 - Jenit Jain: Hope so
+19/08/2019, 01:16 - Priyanka Sahoo: yusss good shit
+19/08/2019, 01:30 - Jenit Jain: I have second half anyway so I'm game
+19/08/2019, 10:36 - Priyanka Sahoo: you're gonna start drinking at noon?
+19/08/2019, 10:36 - Priyanka Sahoo: damn
+19/08/2019, 10:36 - Priyanka Sahoo: I have my BL classes in the afternoon ugh
+19/08/2019, 10:39 - Jenit Jain: Lolll no
+19/08/2019, 10:41 - Priyanka Sahoo: yeah right
+21/08/2019, 13:01 - Priyanka Sahoo: bruv I cant open the codes u sent me
+21/08/2019, 13:03 - Jenit Jain: <Media omitted>
+21/08/2019, 13:03 - Jenit Jain: <Media omitted>
+21/08/2019, 13:03 - Jenit Jain: <Media omitted>
+24/08/2019, 18:02 - Jenit Jain: 7:30pm deetee placement party.
+24/08/2019, 18:02 - Priyanka Sahoo: coolz
+24/08/2019, 19:41 - Jenit Jain: Where you at
+24/08/2019, 19:46 - Priyanka Sahoo: getting ready
+24/08/2019, 19:46 - Jenit Jain: Aisho come fast
+24/08/2019, 19:49 - Priyanka Sahoo: yess yess
+24/08/2019, 20:14 - Priyanka Sahoo: My calls aren't going thru
+24/08/2019, 20:14 - Priyanka Sahoo: where are u guys
+24/08/2019, 20:15 - Jenit Jain: Inside
+24/08/2019, 20:16 - Priyanka Sahoo: where inside
+24/08/2019, 20:16 - Jenit Jain: First left
+24/08/2019, 20:16 - Priyanka Sahoo: okok
+24/08/2019, 20:16 - Jenit Jain: In the first area only
+24/08/2019, 20:16 - Priyanka Sahoo: gotchu
+24/08/2019, 20:16 - Priyanka Sahoo: will be there in a min
+24/08/2019, 20:43 - Jenit Jain: Where the fuck are you with him
+24/08/2019, 20:45 - Jenit Jain: Come back no
+25/08/2019, 01:19 - Priyanka Sahoo: u good?
+25/08/2019, 01:21 - Jenit Jain: Yepp
+25/08/2019, 01:22 - Jenit Jain: We back
+25/08/2019, 01:22 - Priyanka Sahoo: good shiz
+25/08/2019, 01:22 - Priyanka Sahoo: tonight was gooooz
+25/08/2019, 01:22 - Priyanka Sahoo: goooood*
+25/08/2019, 01:22 - Jenit Jain: Sorry if I made you uncomfortable
+25/08/2019, 01:23 - Priyanka Sahoo: its chill; at least I got to talk to u about it
+25/08/2019, 01:24 - Jenit Jain: Trueee
+25/08/2019, 01:25 - Jenit Jain: Glad we're clear about that
+25/08/2019, 01:42 - Jenit Jain: Goodnight!
+25/08/2019, 01:43 - Priyanka Sahoo: gnite 💖
+25/08/2019, 01:43 - Jenit Jain: We cool right?
+25/08/2019, 01:44 - Priyanka Sahoo: ye ye of course
+25/08/2019, 01:44 - Jenit Jain: Good. Nighttt
+25/08/2019, 01:49 - Priyanka Sahoo: gnite❤ thank u for tonight 🥰
+25/08/2019, 01:49 - Jenit Jain: But honestly I'm sorry if anything was overboard
+25/08/2019, 01:50 - Jenit Jain: Won't be happening next time
+25/08/2019, 06:10 - Priyanka Sahoo: bro do u remember if I had brought my wallet w me  back home?
+25/08/2019, 06:10 - Priyanka Sahoo: I feel like I left it back at dt coz I cant find it
+25/08/2019, 06:10 - Priyanka Sahoo: fml
+25/08/2019, 08:16 - Jenit Jain: Na I think you left it only
+25/08/2019, 10:13 - Priyanka Sahoo: ah fuckkkk, do u know when they're open
+25/08/2019, 10:23 - Jenit Jain: They'll be open now
+25/08/2019, 10:23 - Jenit Jain: Go check
+25/08/2019, 10:26 - Priyanka Sahoo: ye I'm going in a bit
+25/08/2019, 10:50 - Jenit Jain: Didn't you take it when you went to get your umbrella back
+25/08/2019, 11:03 - Priyanka Sahoo: nooo dude, I never went back to dt
+25/08/2019, 11:04 - Priyanka Sahoo: I dont remember where my umbrella went also
+25/08/2019, 11:05 - Priyanka Sahoo: I was a mess last night
+25/08/2019, 11:07 - Priyanka Sahoo: I'll tell u a secret when we meet up next time
+25/08/2019, 11:07 - Priyanka Sahoo: did smthn shameful
+25/08/2019, 11:14 - Jenit Jain: Ah not really. The rain running thing is actually something I've been meaning to do this season but it's so cold all the time 😂
+25/08/2019, 11:14 - Jenit Jain: Tell now thennn
+25/08/2019, 11:14 - Jenit Jain: Tell me on Snapchat
+25/08/2019, 11:14 - Priyanka Sahoo: I KNOW, THAT WAS SO FUN
+25/08/2019, 11:14 - Priyanka Sahoo: no no
+25/08/2019, 11:14 - Jenit Jain: Yessssdd
+25/08/2019, 11:14 - Priyanka Sahoo: I'll tell u in person
+25/08/2019, 11:15 - Jenit Jain: Can't wait
+25/08/2019, 11:15 - Priyanka Sahoo: hahahaha
+25/08/2019, 11:15 - Jenit Jain: What is this curiosity you're giving and bouncing man
+25/08/2019, 11:15 - Priyanka Sahoo: will tell u once we meet okay
+25/08/2019, 11:15 - Jenit Jain: .
+25/08/2019, 11:15 - Priyanka Sahoo: i told mahima and she disapproves of what I did lolzzz
+25/08/2019, 11:15 - Priyanka Sahoo: nope
+25/08/2019, 11:15 - Priyanka Sahoo: I wanna see ur reaction
+25/08/2019, 11:16 - Jenit Jain: Did you go with parv last night 😂
+25/08/2019, 11:16 - Priyanka Sahoo: oh shit
+25/08/2019, 11:16 - Priyanka Sahoo: he dropped me back home 😂
+25/08/2019, 11:16 - Priyanka Sahoo: and then I bounced after he dropped me home hahaha
+25/08/2019, 11:16 - Priyanka Sahoo: so there was no point of him dropping me
+25/08/2019, 11:16 - Priyanka Sahoo: are u hungover?
+25/08/2019, 11:17 - Jenit Jain: What happened then?!!!!
+25/08/2019, 11:17 - Jenit Jain: Nopeeee
+25/08/2019, 11:17 - Priyanka Sahoo: how????
+25/08/2019, 11:18 - Jenit Jain: I'm not talking to you till you tell me so well bye till then
+25/08/2019, 11:18 - Priyanka Sahoo: as if that's gonna work lolz
+25/08/2019, 11:19 - Jenit Jain: Okay then
+25/08/2019, 11:44 - Jenit Jain: Telll
+25/08/2019, 11:45 - Priyanka Sahoo: lmao u blocked me 😂😂😂😂😂
+25/08/2019, 11:48 - Jenit Jain: Fuck you.
+25/08/2019, 11:48 - Jenit Jain: You didn't even text on Snapchat or something
+25/08/2019, 11:48 - Jenit Jain: Dick
+25/08/2019, 11:49 - Jenit Jain: We were going to invite you to silk route but eh Fu now
+25/08/2019, 11:49 - Priyanka Sahoo: did u just block my number
+25/08/2019, 11:49 - Priyanka Sahoo: I'm coming
+25/08/2019, 11:50 - Priyanka Sahoo: you're a dick
+25/08/2019, 11:50 - Jenit Jain: Nooo
+25/08/2019, 11:50 - Jenit Jain: Nope
+25/08/2019, 11:50 - Jenit Jain: Na?
+25/08/2019, 11:50 - Priyanka Sahoo: shut up
+25/08/2019, 11:51 - Priyanka Sahoo: I'll tell u when we meet at silk route
+25/08/2019, 11:51 - Jenit Jain: Our meeting at silk route is conditional. Depending on whether I know the secret before it or not
+25/08/2019, 11:52 - Priyanka Sahoo: I'll tell u on the call
+25/08/2019, 11:52 - Priyanka Sahoo: fucking call me
+25/08/2019, 11:57 - Priyanka Sahoo: what a bitch
+25/08/2019, 12:02 - Jenit Jain: Loved every bit of it
+25/08/2019, 12:07 - Priyanka Sahoo: u told vidit?
+25/08/2019, 12:09 - Jenit Jain: Yeppp
+25/08/2019, 12:11 - Priyanka Sahoo: ugh
+25/08/2019, 12:11 - Priyanka Sahoo: I feel so fucking bad
+25/08/2019, 12:11 - Priyanka Sahoo: I feel like I'm experiencing ptsd
+25/08/2019, 12:12 - Jenit Jain: PTSD from when 😂
+25/08/2019, 12:22 - Priyanka Sahoo: from last night coz of what he told me
+25/08/2019, 12:27 - Priyanka Sahoo: <Media omitted>
+25/08/2019, 12:31 - Jenit Jain: Need to get my eyebrows fucking done
+25/08/2019, 12:31 - Jenit Jain: You took too many pictures last night loll
+25/08/2019, 12:31 - Jenit Jain: Send some
+25/08/2019, 12:32 - Priyanka Sahoo: <Media omitted>
+25/08/2019, 12:33 - Priyanka Sahoo: <Media omitted>
+25/08/2019, 12:33 - Priyanka Sahoo: ya u have a unibrow
+25/08/2019, 12:33 - Priyanka Sahoo: <Media omitted>
+25/08/2019, 12:43 - Jenit Jain: Shut up
+25/08/2019, 12:50 - Priyanka Sahoo: 😂😂😂
+25/08/2019, 12:50 - Priyanka Sahoo: we going to silk route?
+25/08/2019, 12:51 - Jenit Jain: 2
+25/08/2019, 12:51 - Priyanka Sahoo: coolz
+25/08/2019, 13:38 - Priyanka Sahoo: text me when y'all are about to reach
+25/08/2019, 14:01 - Jenit Jain: We left
+25/08/2019, 14:01 - Priyanka Sahoo: okie
+25/08/2019, 14:11 - Jenit Jain: We're here
+25/08/2019, 14:11 - Priyanka Sahoo: wya
+27/08/2019, 22:36 - Priyanka Sahoo: do u have lab 4 codes?
+27/08/2019, 23:43 - Jenit Jain: https://drive.google.com/folderview?id=10xnwvkn4bGfMJlnzrocel7yuoY6mdq8Z
+28/08/2019, 08:58 - Priyanka Sahoo: thankss
+28/08/2019, 11:36 - Priyanka Sahoo: do we have to write both the .aspx and the .aspx.cs files?
+28/08/2019, 12:34 - Jenit Jain: Just cs
+28/08/2019, 12:42 - Priyanka Sahoo: okie
+29/08/2019, 21:10 - Priyanka Sahoo: are u guys going out tonight?
+29/08/2019, 21:11 - Jenit Jain: Asking because you're already drunk?
+29/08/2019, 21:12 - Priyanka Sahoo: nopeeee
+29/08/2019, 21:12 - Priyanka Sahoo: never
+29/08/2019, 21:12 - Priyanka Sahoo: I truly love hanging w y'all
+29/08/2019, 21:13 - Jenit Jain: That drunk woww
+29/08/2019, 21:13 - Jenit Jain: Nicr
+29/08/2019, 21:13 - Jenit Jain: It's 9 😂
+29/08/2019, 21:15 - Priyanka Sahoo: nooo I always love y'all
+29/08/2019, 21:16 - Priyanka Sahoo: we can still go anywhere
+29/08/2019, 21:16 - Priyanka Sahoo: pubs close at like 12
+29/08/2019, 21:16 - Jenit Jain: Ew no gorilla
+29/08/2019, 21:16 - Priyanka Sahoo: bye
+29/08/2019, 21:17 - Priyanka Sahoo: come to emerald
+29/08/2019, 21:17 - Priyanka Sahoo: we shall drink some more
+29/08/2019, 21:17 - Jenit Jain: But you don't love me so no
+29/08/2019, 21:18 - Priyanka Sahoo: who said
+29/08/2019, 21:18 - Jenit Jain: I'm too blah today. Prolly going to ditch you and watch harry Potter
+29/08/2019, 21:18 - Priyanka Sahoo: k
+29/08/2019, 21:18 - Priyanka Sahoo: by
+29/08/2019, 21:18 - Priyanka Sahoo: e
+29/08/2019, 21:19 - Jenit Jain: You didn't so well
+29/08/2019, 21:20 - Priyanka Sahoo: I APPRECIATE UR EXISTENCE
+29/08/2019, 21:20 - Priyanka Sahoo: ❤
+29/08/2019, 21:21 - Priyanka Sahoo: thnx for being so nice To m3
+29/08/2019, 21:21 - Priyanka Sahoo: k bye since u dont appreciate me enuf
+29/08/2019, 21:21 - Jenit Jain: Quite drunk I see good going sahoo
+29/08/2019, 21:21 - Jenit Jain: How did you know :0. Secrets out
+29/08/2019, 21:22 - Priyanka Sahoo: uffff
+29/08/2019, 21:22 - Priyanka Sahoo: why so mean
+29/08/2019, 21:22 - Jenit Jain: Only to Blacks
+29/08/2019, 21:23 - Priyanka Sahoo: k
+29/08/2019, 21:23 - Priyanka Sahoo: .
+29/08/2019, 21:23 - Jenit Jain: Are you drinking more ?
+29/08/2019, 21:23 - Priyanka Sahoo: I want to
+29/08/2019, 21:24 - Priyanka Sahoo: if y'all aren't  then I'll hit up the married guy coz that's the only person who wants to hang w me
+29/08/2019, 21:24 - Jenit Jain: Your choice
+29/08/2019, 21:24 - Priyanka Sahoo: although that's a decision
+29/08/2019, 21:24 - Priyanka Sahoo: I just wanna hang man
+29/08/2019, 21:24 - Priyanka Sahoo: lez go
+29/08/2019, 21:24 - Priyanka Sahoo: hepta? dt?
+29/08/2019, 21:28 - Jenit Jain: You just want to hang out with us otherwise you know you'll go hook up
+29/08/2019, 21:28 - Priyanka Sahoo: man
+29/08/2019, 21:29 - Priyanka Sahoo: that's not tru
+29/08/2019, 21:29 - Priyanka Sahoo: why u gotta say that
+29/08/2019, 21:29 - Jenit Jain: Tid
+29/08/2019, 21:29 - Jenit Jain: Tis truuu
+29/08/2019, 21:29 - Priyanka Sahoo: honestly that's not tru
+29/08/2019, 21:29 - Priyanka Sahoo: I wanna hang w u guys
+29/08/2019, 21:30 - Priyanka Sahoo: bit yall never want to hang w me unless y'all ask me to hang out u guys
+29/08/2019, 21:31 - Priyanka Sahoo: k
+29/08/2019, 21:32 - Jenit Jain: See the power always lies the majority right?
+29/08/2019, 21:32 - Jenit Jain: And off course the whites and the browns
+29/08/2019, 21:32 - Priyanka Sahoo: whatever
+29/08/2019, 21:32 - Priyanka Sahoo: dont talk to me
+29/08/2019, 21:33 - Jenit Jain: We call you only when we know your presence won't annoy us. Because normally it does
+29/08/2019, 22:27 - Jenit Jain: What did you do finally
+29/08/2019, 23:38 - Priyanka Sahoo: drank beer + old monk alive
+29/08/2019, 23:38 - Priyanka Sahoo: alone
+29/08/2019, 23:38 - Priyanka Sahoo: **
+29/08/2019, 23:58 - Jenit Jain: 😂
+29/08/2019, 23:58 - Jenit Jain: Didn't you hit someone up
+30/08/2019, 00:21 - Priyanka Sahoo: guess you'll never know cuz u told me how u felt
+30/08/2019, 00:23 - Jenit Jain: How do I feel, please tell me?
+30/08/2019, 00:31 - Priyanka Sahoo: idk
+30/08/2019, 00:31 - Priyanka Sahoo: ur always mean to me
+30/08/2019, 00:33 - Jenit Jain: No tell no
+30/08/2019, 01:14 - Priyanka Sahoo: tomorrow
+30/08/2019, 07:19 - Jenit Jain: Arghh
+30/08/2019, 07:22 - Priyanka Sahoo: lmao
+30/08/2019, 07:23 - Priyanka Sahoo: i was hella drunk
+30/08/2019, 07:23 - Priyanka Sahoo: didnt sleep all nigjt
+30/08/2019, 07:23 - Priyanka Sahoo: cant function properly
+30/08/2019, 07:23 - Priyanka Sahoo: also what I meant was u were being SOOOO mean to me on chat
+30/08/2019, 07:24 - Priyanka Sahoo: so mean bro
+30/08/2019, 07:24 - Priyanka Sahoo: I'll tel u about my night
+30/08/2019, 07:24 - Priyanka Sahoo: too weird
+30/08/2019, 07:25 - Jenit Jain: Haha tell
+30/08/2019, 08:00 - Priyanka Sahoo: wya
+30/08/2019, 08:02 - Jenit Jain: on my way to class?
+30/08/2019, 08:03 - Priyanka Sahoo: nvm, was gonna tell u had u reached before 8
+30/08/2019, 08:04 - Priyanka Sahoo: reached class*
+30/08/2019, 08:04 - Priyanka Sahoo: I'm so embarrassed 😭😭😭😭
+30/08/2019, 08:04 - Priyanka Sahoo: I need my phone to be confiscated when I'm drunk and alone fml
+30/08/2019, 08:05 - Jenit Jain: Tellllll
+30/08/2019, 08:15 - Priyanka Sahoo: no man
+30/08/2019, 08:15 - Priyanka Sahoo: I wanna bury myself into oblivion
+30/08/2019, 08:49 - Jenit Jain: How about you just send ss again😂
+30/08/2019, 12:38 - Jenit Jain: Are you still drunk or what
+30/08/2019, 12:43 - Priyanka Sahoo: no man, I just didnt get any sleep and I feel hungover af
+30/08/2019, 12:43 - Priyanka Sahoo: so my system is crashing
+30/08/2019, 12:45 - Jenit Jain: But I want to know what happened
+30/08/2019, 12:45 - Jenit Jain: Rude
+30/08/2019, 13:04 - Priyanka Sahoo: I will tell u
+30/08/2019, 13:04 - Priyanka Sahoo: later
+30/08/2019, 13:05 - Priyanka Sahoo: you're the rude person tho, u straight up said y'all find me annoying
+30/08/2019, 13:40 - Jenit Jain: Tell me when you wake up
+30/08/2019, 13:40 - Jenit Jain: Well what to do
+01/09/2019, 00:57 - Jenit Jain: Im not coming tonight. I'll meet you tomorr
+01/09/2019, 00:59 - Priyanka Sahoo: bruc
+01/09/2019, 01:00 - Jenit Jain: What
+01/09/2019, 01:00 - Priyanka Sahoo: come over
+01/09/2019, 01:00 - Priyanka Sahoo: pls
+01/09/2019, 01:00 - Priyanka Sahoo: not to my place
+01/09/2019, 01:01 - Priyanka Sahoo: but there's some after party
+01/09/2019, 01:01 - Priyanka Sahoo: pslsssss
+01/09/2019, 01:01 - Priyanka Sahoo: I want I guys thete
+01/09/2019, 01:01 - Priyanka Sahoo: I've been calling u
+01/09/2019, 01:01 - Priyanka Sahoo: and some random dudes are approaching me and daba
+01/09/2019, 01:01 - Priyanka Sahoo: and hes asking fo my no
+01/09/2019, 01:01 - Jenit Jain: You dont have to explain so much
+01/09/2019, 01:01 - Priyanka Sahoo: can I give u his numbet
+01/09/2019, 01:02 - Jenit Jain: Then go home
+01/09/2019, 01:02 - Jenit Jain: No wtf
+01/09/2019, 01:02 - Priyanka Sahoo: I'm fucimg druner
+01/09/2019, 01:02 - Jenit Jain: Give him dome random no
+01/09/2019, 01:02 - Priyanka Sahoo: ill give a guys no the.
+01/09/2019, 01:04 - Jenit Jain: Cool
+01/09/2019, 01:04 - Jenit Jain: Call if you need help. Im not coming rn
+01/09/2019, 01:35 - Priyanka Sahoo: kay
+01/09/2019, 01:35 - Jenit Jain: Night
+01/09/2019, 01:37 - Priyanka Sahoo: k
+01/09/2019, 01:38 - Priyanka Sahoo: <Media omitted>
+01/09/2019, 01:38 - Jenit Jain: Noice
+01/09/2019, 14:25 - Jenit Jain: So do you want to listen to your last night's drunk phone call?
+01/09/2019, 14:27 - Priyanka Sahoo: no
+01/09/2019, 14:28 - Priyanka Sahoo: pls
+01/09/2019, 14:28 - Priyanka Sahoo: no
+01/09/2019, 15:10 - Priyanka Sahoo: omg
+01/09/2019, 15:11 - Priyanka Sahoo: I didnt realize I was texting u last night
+01/09/2019, 15:11 - Priyanka Sahoo: my texts are hilarious lmao
+01/09/2019, 18:32 - Jenit Jain: Wow thanks
+01/09/2019, 18:32 - Jenit Jain: And you kept calling too don't forget that
+01/09/2019, 18:50 - Priyanka Sahoo: sorry
+01/09/2019, 18:51 - Jenit Jain: Alright
+09/09/2019, 16:41 - Priyanka Sahoo: deetee tonight?
+09/09/2019, 17:19 - Jenit Jain: Mostly
+09/09/2019, 17:19 - Jenit Jain: I'm sure it'll be very crowded
+09/09/2019, 17:35 - Priyanka Sahoo: yeahh end of sessionals post party 😂
+09/09/2019, 17:35 - Priyanka Sahoo: I'll see you there then
+09/09/2019, 19:25 - Jenit Jain: Come here
+09/09/2019, 19:25 - Jenit Jain: Harshits
+09/09/2019, 19:26 - Priyanka Sahoo: I'll come around 9ish?
+09/09/2019, 19:26 - Priyanka Sahoo: I need to get ready
+09/09/2019, 19:26 - Priyanka Sahoo: have dinned
+09/09/2019, 19:26 - Priyanka Sahoo: dinner*
+09/09/2019, 19:30 - Jenit Jain: No
+09/09/2019, 19:30 - Jenit Jain: No dinner today
+09/09/2019, 19:30 - Jenit Jain: Just carbs through alc
+09/09/2019, 19:35 - Priyanka Sahoo: I'm gonna die if I do that 😂😂I'll be soooooo shitfaced
+09/09/2019, 20:08 - Jenit Jain: Aren't you all the time you go out
+09/09/2019, 20:14 - Priyanka Sahoo: I've had way too many embarassing drunk nights
+09/09/2019, 21:12 - Priyanka Sahoo: wya
+09/09/2019, 21:18 - Jenit Jain: Still here
+09/09/2019, 21:18 - Jenit Jain: Seeing how drunk we are, we are leaving
+09/09/2019, 21:18 - Jenit Jain: Come
+09/09/2019, 21:19 - Priyanka Sahoo: when u guys going to deetee
+09/09/2019, 21:19 - Priyanka Sahoo: now?
+09/09/2019, 21:30 - Jenit Jain: We're not going to move ir
+09/09/2019, 21:31 - Priyanka Sahoo: why not
+09/09/2019, 21:32 - Jenit Jain: We too high
+09/09/2019, 21:32 - Jenit Jain: Come here
+09/09/2019, 21:32 - Jenit Jain: We drunk to oo
+10/09/2019, 01:47 - Priyanka Sahoo: are u okay??
+10/09/2019, 07:14 - Jenit Jain: Yasss
+10/09/2019, 07:15 - Jenit Jain: I didn't want to over do it so arav and I left
+10/09/2019, 07:15 - Jenit Jain: Best decision
+10/09/2019, 08:57 - Priyanka Sahoo: ah okay
+10/09/2019, 08:57 - Priyanka Sahoo: u were missing apparently
+10/09/2019, 08:58 - Jenit Jain: Arav and I left directly from harshits place :p
+10/09/2019, 08:58 - Priyanka Sahoo: so harshit called me asking if u were w me
+10/09/2019, 08:58 - Priyanka Sahoo: lolz
+10/09/2019, 08:58 - Jenit Jain: Till what time did y'all drink
+10/09/2019, 09:00 - Priyanka Sahoo: I left long ago
+10/09/2019, 09:01 - Jenit Jain: Lol last night's a bit hazy
+10/09/2019, 09:01 - Priyanka Sahoo: I was at harshit's for like 20 mins
+10/09/2019, 09:01 - Priyanka Sahoo: and then I bounced cause no one was ready to leave
+10/09/2019, 09:01 - Jenit Jain: Oh shit yeah I remember you saying okay byee
+10/09/2019, 09:02 - Jenit Jain: Did you go to deetee
+10/09/2019, 09:03 - Priyanka Sahoo: hahahha yeah I did 😂
+10/09/2019, 09:04 - Priyanka Sahoo: but it was damn crowded
+10/09/2019, 10:18 - Jenit Jain: Well obviously
+10/09/2019, 10:18 - Jenit Jain: Sessionals ended
+10/09/2019, 11:13 - Priyanka Sahoo: dude
+10/09/2019, 11:13 - Priyanka Sahoo: u were so crossfaded 😂😂😂
+10/09/2019, 11:13 - Priyanka Sahoo: I died
+10/09/2019, 11:15 - Jenit Jain: Tell me
+10/09/2019, 11:21 - Priyanka Sahoo: tell u what
+10/09/2019, 11:22 - Jenit Jain: What did I do 😂
+10/09/2019, 13:29 - Priyanka Sahoo: not much
+10/09/2019, 13:29 - Priyanka Sahoo: I wasn't there for too long to witness u do anything crazy
+10/09/2019, 13:29 - Priyanka Sahoo: but all I do know is you were telling me how crossfaded u were
+14/09/2019, 20:02 - Priyanka Sahoo: what planzzz
+15/09/2019, 00:03 - Jenit Jain: Just woke up gm
+15/09/2019, 00:36 - Priyanka Sahoo: gm to u too
+15/09/2019, 00:45 - Jenit Jain: Is your drunk
+15/09/2019, 00:47 - Priyanka Sahoo: I dont think so
+15/09/2019, 00:48 - Jenit Jain: Who are you with
+15/09/2019, 14:15 - Priyanka Sahoo: lmao what a joke
+I was hella drunk when I sent u this message 😂
+28/09/2019, 02:28 - Priyanka Sahoo: why u gotta be so mean to me
+28/09/2019, 02:30 - Priyanka Sahoo: where did u go?
+28/09/2019, 02:31 - Jenit Jain: Main road
+28/09/2019, 02:32 - Jenit Jain: Why
+28/09/2019, 02:37 - Jenit Jain: I didn't do anything
+28/09/2019, 07:14 - Priyanka Sahoo: hahahah u were being a dick to me tho 😂
+28/09/2019, 07:15 - Priyanka Sahoo: oi could u pls call me at 8
+28/09/2019, 08:59 - Priyanka Sahoo: hurry tf up or else this nibba gonna lock the door
+28/09/2019, 09:00 - Jenit Jain: Yeah man I'm fucked
+28/09/2019, 09:00 - Priyanka Sahoo: wya?
+28/09/2019, 09:00 - Jenit Jain: Kc
+28/09/2019, 09:00 - Priyanka Sahoo: come fasstttt
+28/09/2019, 09:00 - Priyanka Sahoo: run
+03/10/2019, 15:02 - Jenit Jain: Yo
+03/10/2019, 15:02 - Jenit Jain: How is hepta at night?
+03/10/2019, 15:02 - Jenit Jain: Good enough for my pa4tyy?
+03/10/2019, 15:03 - Priyanka Sahoo: hmm it's not like a dance kinda vibe
+03/10/2019, 15:03 - Priyanka Sahoo: it's more like a sit and chill and hookah kinda vibe
+03/10/2019, 15:03 - Priyanka Sahoo: if that's what u want
+03/10/2019, 15:03 - Priyanka Sahoo: but it's v pretty and aesthetic at night
+03/10/2019, 15:11 - Jenit Jain: He said that they'll play thoda not posh music for us because we'll be drunk and they'll shift all the tables side mai so theres a proper area for dancing
+03/10/2019, 15:13 - Priyanka Sahoo: ah okay, that's great
+03/10/2019, 15:13 - Priyanka Sahoo: have you tried big shot?
+03/10/2019, 15:17 - Jenit Jain: Bro I don't like the vibe
+03/10/2019, 15:18 - Jenit Jain: Fuck bro after looking do much bullshit need I don't feel like throwing a party
+03/10/2019, 15:18 - Jenit Jain: Like now toh I just want to do close people
+03/10/2019, 15:21 - Priyanka Sahoo: then hepta is fine
+03/10/2019, 15:24 - Priyanka Sahoo: you're doing this tomorrow?
+03/10/2019, 15:42 - Jenit Jain: Man I don't feel like throwing a party anymore
+03/10/2019, 15:42 - Jenit Jain: But yeah whenever it is, tomorrow
+03/10/2019, 15:48 - Priyanka Sahoo: you could do smthn at home I guess?
+03/10/2019, 15:48 - Priyanka Sahoo: why dont u feel like throwing one though? it's your 21sttt :o
+03/10/2019, 15:48 - Jenit Jain: Exactly
+03/10/2019, 15:48 - Jenit Jain: That was the motive
+03/10/2019, 15:49 - Jenit Jain: But while going and talking at all these places
+03/10/2019, 15:49 - Jenit Jain: I am like I'm an introvert there is no reason I should be going through this 😂
+03/10/2019, 15:50 - Priyanka Sahoo: no man, you have a bunch of friends
+03/10/2019, 15:50 - Priyanka Sahoo: what are you talking about
+03/10/2019, 15:50 - Jenit Jain: Exactly. I was going to call thode dur ke too. Seems pointless 😂
+03/10/2019, 15:50 - Jenit Jain: I don't give a shit if my 21st is small 😂
+03/10/2019, 15:51 - Priyanka Sahoo: that's okay
+03/10/2019, 15:51 - Priyanka Sahoo: it can be a small gathering too
+03/10/2019, 15:51 - Jenit Jain: The thing is if it's outside then it can't be small 😂
+03/10/2019, 15:51 - Jenit Jain: So we just gonna drink and see where the night takes us
+03/10/2019, 15:52 - Jenit Jain: If we go out then I'll call you :p
+03/10/2019, 16:05 - Priyanka Sahoo: okay
+03/10/2019, 16:05 - Priyanka Sahoo: you don't need to invite me if you dont want to, you know that right
+03/10/2019, 16:16 - Jenit Jain: Thanks for clearing it up
+03/10/2019, 16:19 - Priyanka Sahoo: I dunno what happened but I feel like you guys don't like me anymore
+07/10/2019, 19:19 - Priyanka Sahoo: send pics pls
+07/10/2019, 19:19 - Priyanka Sahoo: pretty pls
+07/10/2019, 19:20 - Jenit Jain: <Media omitted>
+07/10/2019, 19:20 - Jenit Jain: <Media omitted>
+07/10/2019, 19:20 - Jenit Jain: <Media omitted>
+07/10/2019, 19:36 - Priyanka Sahoo: didnt we take pics yesterday?
+07/10/2019, 19:36 - Priyanka Sahoo: u me and arav?
+07/10/2019, 19:42 - Jenit Jain: <Media omitted>
+07/10/2019, 19:42 - Jenit Jain: <Media omitted>
+07/10/2019, 19:42 - Jenit Jain: <Media omitted>
+07/10/2019, 19:43 - Priyanka Sahoo: thnxxx
+07/10/2019, 19:43 - Priyanka Sahoo: have a safe journey💖
+07/10/2019, 19:51 - Jenit Jain: Thank youuuu
+02/11/2019, 13:30 - Priyanka Sahoo: pls send pics
+02/11/2019, 16:26 - Jenit Jain: <Media omitted>
+02/11/2019, 16:26 - Jenit Jain: <Media omitted>
+04/11/2019, 19:07 - Priyanka Sahoo: when are you leaving?
+08/01/2020, 11:34 - Jenit Jain: Please dont forget my certificate thingi
+08/01/2020, 11:39 - Priyanka Sahoo: hey sorry I left campus already
+08/01/2020, 11:39 - Priyanka Sahoo: please remind me tomorrow
+09/01/2020, 12:24 - Jenit Jain: You go back to college if you didn't ask
+09/01/2020, 14:15 - Jenit Jain: BITCH
+09/01/2020, 14:25 - Priyanka Sahoo: I'm here on campus, I went to the dept around 1:50 and it was closed
+09/01/2020, 14:25 - Priyanka Sahoo: will check again once I'm done w project lab
+09/01/2020, 14:25 - Priyanka Sahoo: which is around 4 30
+09/01/2020, 14:31 - Jenit Jain: Thankyouuuu
+09/01/2020, 16:40 - Priyanka Sahoo: bro I'm not sure if I can collect your report card
+09/01/2020, 16:40 - Priyanka Sahoo: becoz of authorization
+09/01/2020, 16:40 - Priyanka Sahoo: that's what the teacher said
+09/01/2020, 16:40 - Priyanka Sahoo: she was like you have to sign
+09/01/2020, 16:40 - Jenit Jain: Just ask them if you can camscan at least
+09/01/2020, 16:41 - Jenit Jain: Or like I can't talk over the phone
+09/01/2020, 16:41 - Priyanka Sahoo: nope, I cant even do that
+09/01/2020, 16:41 - Priyanka Sahoo: wait lemme ask HoD
+09/01/2020, 16:41 - Jenit Jain: Let me talk on the phone for this
+09/01/2020, 16:41 - Jenit Jain: Yaaaaa
+09/01/2020, 16:41 - Jenit Jain: She knows me hopefully she'll allow
+09/01/2020, 16:42 - Priyanka Sahoo: man none of this makes sense
+09/01/2020, 16:42 - Priyanka Sahoo: hod tells me that she has no idea and that I need to talk to academic section
+09/01/2020, 16:42 - Priyanka Sahoo: if I can collect for u
+09/01/2020, 16:42 - Jenit Jain: Do you know where the thing is?
+09/01/2020, 16:43 - Priyanka Sahoo: trying to find that
+09/01/2020, 16:43 - Jenit Jain: Like which teacher is holding the docs
+09/01/2020, 16:43 - Priyanka Sahoo: initially I was told project lab
+09/01/2020, 16:43 - Priyanka Sahoo: went there and they told me to go to programming lab
+09/01/2020, 16:43 - Priyanka Sahoo: so going there rn
+09/01/2020, 16:43 - Jenit Jain: Thanks man
+09/01/2020, 16:45 - Priyanka Sahoo: I'll have to check tomorrow as the the person in charge of programming lab already left
+09/01/2020, 16:45 - Priyanka Sahoo: and she's the one who has the docs and stuff
+09/01/2020, 16:48 - Jenit Jain: Oh mannn
+09/01/2020, 16:48 - Jenit Jain: Yes it's okay you go back
+09/01/2020, 16:48 - Jenit Jain: Thanks thoo
+09/01/2020, 16:48 - Jenit Jain: Also what project are you planning to do
+10/01/2020, 11:27 - Priyanka Sahoo: still deciding on a topic 😂
+10/01/2020, 11:28 - Priyanka Sahoo: probably gonna do it under megamind, not sure
+10/01/2020, 11:29 - Priyanka Sahoo: where are u interning?
+10/01/2020, 11:29 - Priyanka Sahoo: <Media omitted>
+10/01/2020, 11:30 - Jenit Jain: Send thoda properly no. Like the top left manipal symbol and shit 🙈
+10/01/2020, 11:30 - Jenit Jain: 😂😂😂
+10/01/2020, 11:30 - Jenit Jain: Quantiphi onky
+10/01/2020, 11:30 - Jenit Jain: Leaving for Bangalore tomorrow
+10/01/2020, 11:31 - Priyanka Sahoo: this isn't doable?
+10/01/2020, 11:31 - Priyanka Sahoo: ohh I thought that was for placement
+10/01/2020, 11:31 - Priyanka Sahoo: what happened to deakin?
+10/01/2020, 11:32 - Priyanka Sahoo: I'll have to go to the lab and take a picture again then lmao
+10/01/2020, 11:32 - Priyanka Sahoo: they didn't give me the grade sheet as I'm not allowed to take it (like I mentioned earlier)
+10/01/2020, 11:34 - Jenit Jain: Accha fuck it
+10/01/2020, 11:34 - Jenit Jain: They offered internship also then
+10/01/2020, 11:35 - Jenit Jain: They weren't paying so it was too expensive hence the second option

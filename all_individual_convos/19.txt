@@ -1,0 +1,10 @@
+01/04/2019, 08:44 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+01/04/2019, 08:44 - Jenit Jain: Hello sir. I applied for volunteers for my Pcap lab end semester tomorrow but no one had responded so I asked ma'am what I should do for my OpenCL write up
+01/04/2019, 08:44 - Jenit Jain: She has allowed me to type that part out and mostly submit a printed copy
+01/04/2019, 08:45 - Jenit Jain: HOD ma'am*
+01/04/2019, 14:21 - Ashwath Rao Sir: ok
+02/04/2019, 17:14 - Jenit Jain: Sir I found the problem. I forgot to receive the 4 elements of 1 process
+02/04/2019, 17:14 - Jenit Jain: That's why the program hung
+02/04/2019, 19:00 - Ashwath Rao Sir: ok Jetin
+11/05/2019, 10:29 - Ashwath Rao Sir: Jetin you have given your  pendrive after assign-4. Please collect it after you come to Manipal.
+11/05/2019, 10:41 - Jenit Jain: Okay sir I will
