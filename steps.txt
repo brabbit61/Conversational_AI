@@ -1,0 +1,9 @@
+1) cleaning.py
+2) convert_to_excel.py
+3) convert_to_npz.py
+4) All the visualisations
+5) Autoencoder
+
+
+to get all the requirements:
+pipreqs /home/jenitjain/Desktop/NLP_Project/

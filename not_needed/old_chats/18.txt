@@ -1,0 +1,141 @@
+﻿9/5/18, 6:44 PM - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+9/5/18, 6:44 PM - Jenit Jain: Got into DSC?
+9/5/18, 9:24 PM - Apratim: Ye
+9/5/18, 9:24 PM - Apratim: Me Sarthak Arijit
+9/5/18, 9:25 PM - Jenit Jain: Lol nice
+10/4/18, 8:38 PM - Jenit Jain: Yo
+10/4/18, 8:38 PM - Jenit Jain: Wish me at 12
+10/5/18, 12:03 AM - Apratim: Happy Birthday dumbass
+10/5/18, 12:03 AM - Apratim: 🎊🎉🎊
+11/6/18, 12:07 AM - Jenit Jain: <Media omitted>
+11/6/18, 12:10 AM - Apratim: F
+11/6/18, 12:10 AM - Apratim: Ik u do this
+11/6/18, 12:14 AM - Jenit Jain: So vasvi again from what I hear
+11/6/18, 12:34 AM - Jenit Jain: Tell
+11/27/18, 10:58 AM - Jenit Jain: Have you taken AI
+11/27/18, 1:01 PM - Apratim: Yep
+11/27/18, 1:02 PM - Jenit Jain: Who else
+11/27/18, 1:03 PM - Apratim: No idea
+2/1/19, 12:59 PM - Jenit Jain: Oye
+2/1/19, 12:59 PM - Jenit Jain: Kaunsa theobroma
+2/1/19, 12:59 PM - Jenit Jain: Jaldi Bata madarchod
+2/1/19, 1:01 PM - Apratim: O
+2/1/19, 1:01 PM - Apratim: Koi sa bhi
+2/1/19, 1:01 PM - Apratim: Jo mood kare
+2/1/19, 1:01 PM - Jenit Jain: Tere liye imaginary lauga
+2/1/19, 1:01 PM - Apratim: Woh bhi chalega
+2/1/19, 1:01 PM - Apratim: 😘
+2/15/19, 1:10 PM - Jenit Jain: Informed search is the last thing
+2/15/19, 1:10 PM - Apratim: My textbook doesn't have
+2/15/19, 1:10 PM - Apratim: It's old
+2/15/19, 1:10 PM - Apratim: Lolz
+2/15/19, 1:12 PM - Apratim: I had the first edition
+2/15/19, 1:12 PM - Apratim: It's from the third edition
+3/30/19, 5:32 PM - Jenit Jain: Apu
+3/30/19, 8:57 PM - Apratim: Ye wat up
+3/31/19, 2:21 AM - Jenit Jain: Is naive Bayes Classifier linear or non-Linear
+3/31/19, 2:21 AM - Jenit Jain: And in it, the number of training instances per class changes the output na
+3/31/19, 2:21 AM - Jenit Jain: What is this called?
+3/31/19, 2:21 AM - Jenit Jain: Local something na
+3/31/19, 2:21 AM - Jenit Jain: Like some technical word
+3/31/19, 2:21 AM - Jenit Jain: Is it called class likelihood
+3/31/19, 10:55 AM - Apratim: Log-likelihood?
+3/31/19, 12:47 PM - Jenit Jain: Not used in Bayes theorem right
+3/31/19, 1:50 PM - Apratim: Bayes likelihood is different no
+3/31/19, 1:50 PM - Apratim: Prior, likelihood and estimator are the 3 things for Bayes right
+3/31/19, 2:01 PM - Jenit Jain: Arre but in Bayes, there's a thing like right that if particular class instances are more in the training set then that class is more likely to be predicted
+3/31/19, 2:03 PM - Apratim: That's because your prior is higher no
+3/31/19, 2:05 PM - Jenit Jain: Because the class likelihood is more?
+3/31/19, 2:37 PM - Jenit Jain: And this?
+3/31/19, 8:11 PM - Apratim: Non-linear
+3/31/19, 8:24 PM - Jenit Jain: Because it doesn't have any specific weighted sum of the inputs that's why right
+4/9/19, 8:30 PM - Jenit Jain: What elective are you selecting
+4/9/19, 8:49 PM - Apratim: Cv
+4/10/19, 10:25 AM - Jenit Jain: Happy birthday Apu
+4/10/19, 1:19 PM - Apratim: Thanks, bro <3
+4/16/19, 2:48 PM - Jenit Jain: Dude
+4/16/19, 2:48 PM - Jenit Jain: What model can I use where both input and output is text
+4/16/19, 2:48 PM - Jenit Jain: LSTM or rnn only I'll have to us no
+4/16/19, 5:20 PM - Apratim: Ya good choice
+4/26/19, 11:48 PM - Jenit Jain: Which gtx do you have
+4/27/19, 12:40 PM - Apratim: 1060
+4/27/19, 1:13 PM - Jenit Jain: And how many marks in pcap today😂
+4/27/19, 5:18 PM - Apratim: Will get good marks
+4/27/19, 5:18 PM - Jenit Jain: Seriously fuck
+5/10/19, 12:29 PM - Jenit Jain: Do you have an internship?
+5/10/19, 11:12 PM - Apratim: Ye
+5/10/19, 11:12 PM - Apratim: I had internship
+5/10/19, 11:12 PM - Apratim: Why u asking
+5/10/19, 11:12 PM - Jenit Jain: Where?
+5/10/19, 11:13 PM - Jenit Jain: Cos I broke af nigga
+5/10/19, 11:13 PM - Jenit Jain: Fucked for the vacation
+5/10/19, 11:13 PM - Jenit Jain: Needed ideas to move forward or I'll end up wasting it.
+5/10/19, 11:13 PM - Apratim: Rip
+5/10/19, 11:13 PM - Apratim: Worcester Polytechnic Institute
+5/10/19, 11:14 PM - Jenit Jain: US meh hi rehja chutiya
+5/10/19, 11:15 PM - Jenit Jain: Research I wanna start
+5/10/19, 11:15 PM - Apratim: :c
+5/10/19, 11:16 PM - Jenit Jain: Tell me the process tomorrow or whenever you free. And this I'm literally counting on you and seeing the start of the year, you please don't let my year go as shitty as the start
+5/10/19, 11:16 PM - Jenit Jain: Love you thanks
+5/10/19, 11:17 PM - Apratim: Wat
+5/10/19, 11:17 PM - Apratim: What process
+5/10/19, 11:17 PM - Jenit Jain: How to go about doing the research part.
+5/10/19, 11:17 PM - Jenit Jain: Idk
+5/10/19, 11:17 PM - Jenit Jain: Help
+5/10/19, 11:17 PM - Apratim: What'd you wanna know
+5/10/19, 11:18 PM - Jenit Jain: <Media omitted>
+5/10/19, 11:19 PM - Apratim: Research isn't a stand-alone field man
+5/10/19, 11:19 PM - Apratim: The only way I encountered it was doing something to solve a specific problem
+5/10/19, 11:19 PM - Apratim: And on the way, I figured out a slightly different method that people hadn't tried yet
+5/10/19, 11:20 PM - Apratim: Or seemed like it wouldn't work
+5/10/19, 11:20 PM - Apratim: Took me 1½ years to confirm it actually worked
+5/10/19, 11:20 PM - Apratim: :/
+5/10/19, 11:20 PM - Jenit Jain: Which was a tiny dataset, so your problem was how to get a larger training dataset and what things can be done? Right?
+5/10/19, 11:20 PM - Apratim: Not really no
+5/10/19, 11:20 PM - Jenit Jain: Did you publish it?
+5/10/19, 11:20 PM - Apratim: Not yet, need more data
+5/10/19, 11:21 PM - Apratim: Moved my stack to tpus
+5/10/19, 11:21 PM - Jenit Jain: Nevermind then lol
+5/10/19, 11:21 PM - Jenit Jain: Kiska bc
+5/10/19, 11:21 PM - Apratim: Trying to speed up the process
+5/10/19, 11:21 PM - Apratim: Google
+5/10/19, 11:21 PM - Apratim: Free credits
+5/10/19, 11:21 PM - Jenit Jain: You're going to continue with this at your internship?
+5/10/19, 11:21 PM - Jenit Jain: Accha ha I recently used their gpus. Too ez
+5/10/19, 11:22 PM - Apratim: I'll be using it in the internship
+5/10/19, 11:22 PM - Apratim: Will cite my own paper
+5/10/19, 11:22 PM - Apratim: Aw yis
+5/10/19, 11:22 PM - Jenit Jain: 😂
+5/10/19, 11:22 PM - Jenit Jain: Accha so over there you'll do something different?
+5/10/19, 11:23 PM - Apratim: A little different
+5/10/19, 11:23 PM - Apratim: But overall very similar
+5/10/19, 11:31 PM - Jenit Jain: Ooo.
+5/10/19, 11:31 PM - Jenit Jain: So finally
+5/10/19, 11:31 PM - Jenit Jain: I'm tired of Coursera. Prolly not going to do more than a course or 2. Already did 10
+5/10/19, 11:31 PM - Jenit Jain: So what should I do?
+5/10/19, 11:32 PM - Jenit Jain: What I'm planning on for a couple of weeks is to perfect my older projects to tune them with whatever better I learned
+5/10/19, 11:32 PM - Jenit Jain: But I want to do something worthwhile. Especially that'll help me with my Master's application
+5/10/19, 11:32 PM - Jenit Jain: Any suggestions?
+5/10/19, 11:32 PM - Jenit Jain: You deleted this message
+5/29/19, 1:52 PM - Jenit Jain: Boi. While selecting which model to pick in CV, should I select one with larger mAP or smaller Val loss?
+5/29/19, 6:01 PM - Apratim: Depends
+5/29/19, 6:01 PM - Apratim: If the evaluation is the same for both cases, then this situation shouldn't arise
+5/29/19, 6:02 PM - Apratim: It's not possible only if both were evaluated on the same thing
+5/29/19, 6:03 PM - Apratim: If they're evaluated on different sets then check how many images it was actually evaluated on
+5/29/19, 6:04 PM - Apratim: If there's a slightly lower mAP for a significantly larger val set, choose that
+5/29/19, 6:14 PM - Jenit Jain: It was for the same set. I didn't know this fact.
+5/29/19, 6:14 PM - Jenit Jain: Basically trying to implement yolo.
+5/29/19, 6:15 PM - Apratim: I don't think it's possible
+5/29/19, 6:15 PM - Apratim: Smaller val loss should equal higher mAP
+5/29/19, 6:15 PM - Apratim: Unless there's a high-class imbalance maybe
+5/29/19, 6:15 PM - Apratim: Nah actually even then it wouldn't be possible
+5/29/19, 6:17 PM - Jenit Jain: Oh I realized what I messed up. I mistook Val loss for training loss nevermind
+5/29/19, 6:18 PM - Jenit Jain: mAP is calculated for only the training set right?
+5/29/19, 6:18 PM - Jenit Jain: Or you can select?
+5/29/19, 6:23 PM - Apratim: mAP for val matters
+5/29/19, 6:23 PM - Apratim: That's all
+5/29/19, 6:24 PM - Apratim: You could calculate map for training but it has no significance really
+5/29/19, 6:24 PM - Apratim: You could check if your model is underfitting or overfit though
+5/29/19, 6:25 PM - Apratim: High map for training, shit for eval means overfit af
+5/29/19, 6:28 PM - Jenit Jain: Accha cool cool
+5/29/19, 6:28 PM - Jenit Jain: Thanks

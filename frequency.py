@@ -4,7 +4,6 @@ import argparse
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.ndimage.filters import gaussian_filter1d
-import datefinder
 
 parser = argparse.ArgumentParser(description="Providing conversation text file names.")
 parser.add_argument("--input_file", type=str, help="The path to the conversation text file")
@@ -53,7 +52,6 @@ with open("all_individual_convos/"+input_file,"r") as f:
 					continue
 				elif (len(first_name_pattern.findall(line)) == 0) and second_name == "":
 					if len(timestamp_pattern.findall(line)) == 0: #the message has a new line character hence it belongs to the previous sender
-					#if len(list(datefinder.find_dates(line))) == 0: #the message has a new line character hence it belongs to the previous sender
 						pass
 					else:	    #its user 2's message
 						dash = line.index("-")

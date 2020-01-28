@@ -1,0 +1,15 @@
+﻿8/1/19, 8:12 AM - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+8/1/19, 8:12 AM - Jenit Jain: Hey Karan! This is Jenit from MIT
+8/1/19, 8:12 AM - Jenit Jain: I got your number from Arusha.
+8/1/19, 8:13 AM - Jenit Jain: I got shortlisted for Citrix process which is to be conducted today. I was wondering if you could give me some insight for the interviews to improve my chances of placement
+8/1/19, 8:13 AM - Jenit Jain: Any help would be appreciated. Thanks!
+8/1/19, 9:16 AM - Karan Admin: Hi Jenit
+The interview process is a tough one so be prepared for that. 
+Make sure anything you write on your CV, you have good knowledge about it. If not, remove it right now. 
+I would suggest that if you're not great with technical questions, try to prolong the discussion when they ask you about your projects. 
+Always start with the least optimized approach while answering a data structure/algorithm question even if you know the best approach. Build your way to the most optimized approach. 
+If you have no idea about a question, try to start from the basics, as most of them are quite intuitive. 
+Do revise networking and os concepts in between interviews. 
+Remain cool, the interviewers are really nice and these aren't like college club interviews where you can bullshit and they won't know it. 
+And best of luck!
+8/1/19, 9:22 AM - Jenit Jain: That's really helpful thanks!!

@@ -68,13 +68,11 @@ class DataGenerator(Sequence):
 
 
 parser = argparse.ArgumentParser(description="Importing the npz batches")
-parser.add_argument("--input_folder", type=str, help="The path to the folder with processed conversations.", default="batches/")
-parser.add_argument("--maxlen", type=str, help="The maximum length of any sentence.", default=150)
+parser.add_argument("--maxlen", type=str, help="The maximum length of any sentence.", default=50)
 parser.add_argument("--num_words", type=str, help="The number of words in the vocabulary.", default=10000)
 parser.add_argument("--num_units", type=str, help="The number of units in the LSTM network.", default=256)
 
 args = parser.parse_args()
-input_folder = args.input_folder
 maxlen = args.maxlen
 num_words = args.num_words
 num_units = args.num_units
@@ -84,6 +82,7 @@ data = [l.strip() for l in list(dataset.iloc[:,1])]
 tokenizer = Tokenizer(num_words=num_words, filters='#$%&*+-/<=>@[\\]^_`{|}~\t\n', split=' ', char_level= False)
 tokenizer.fit_on_texts(data[:])
 
+#####################################	Model Description   ##################################
 #model = Sequential()
 x = Input(shape=(maxlen, num_words))
 #m = Bidirectional(LSTM(num_units, activation="relu", input_shape=(None, maxlen, num_words)))(x)
@@ -94,8 +93,9 @@ m = Bidirectional(LSTM(num_units, activation="relu", return_sequences=True))(m)
 #model.add(Bidirectional(LSTM(num_units, activation="relu", return_sequences=True )))
 o = TimeDistributed(Dense(num_words))(m)
 model = Model(inputs=x,outputs=o)
+##############################################################################################
 
-files = [i for i in os.listdir("/content/gdrive/My Drive/NLP_Project/cleaned_data_npz")]
+files = [i for i in os.listdir("cleaned_data_npz")]
 files.sort()
 partition = {}
 l = int(0.85*len(files))
@@ -109,16 +109,16 @@ for i in range(l,len(files)-1):
 		val_labels[files[i]] = files[i+1]
 
 epochs = 1
-modelcheckpoint = ModelCheckpoint("/content/gdrive/My Drive/NLP_Project/weights/", monitor="val_acc", save_best_only=False, verbose=1, save_weights_only=True)
+modelcheckpoint = ModelCheckpoint("weights/", monitor="val_acc", save_best_only=False, verbose=1, save_weights_only=True)
 earlystopping = EarlyStopping(monitor="val_loss", min_delta = 0.000001, patience= 1)
-tensorboard = TensorBoard(log_dir="/content/gdrive/My Drive/NLP_Project/.logdir/")
+tensorboard = TensorBoard(log_dir=".logdir/")
 reduce_plateau = ReduceLROnPlateau(monitor="val_loss", factor=0.3, patience=1, min_lr = 0.00001)
 val_generator = DataGenerator(partition['validation'], val_labels, batch_size=12)
 train_generator = DataGenerator(partition['train'], train_labels, batch_size=12)
 
 model.compile(loss="mean_squared_logarithmic_error", optimizer="adam")
 history = model.fit_generator(generator=train_generator,epochs = epochs, verbose=1, validation_data = val_generator, use_multiprocessing=True, workers=3, validation_freq=1, validation_steps=1, callbacks=[modelcheckpoint, earlystopping, tensorboard, reduce_plateau])
-model.save("/content/gdrive/My Drive/NLP_Project/final.h5")
+model.save("weights/final.h5")
 '''
 for input_file in os.listdir(input_folder):
 		dataset = np.load() 
