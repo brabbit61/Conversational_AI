@@ -148,7 +148,7 @@ if __name__ == '__main__':
 		timestamp_pattern = re.compile("\d{1,2}/\d{1,2}/\d{1,4},\s\d{1,2}:\d{1,2}\s-\s")
 		forwarded_chat_pattern = re.compile("\[\d{1,2}/\d{1,2},\s\d{1,2}:\d{1,2}\s[A|P]M\]\s[\w\s]+:")
 
-		start = time.process_time()
+		start = time.time()
 
 		file_names = [f for f in os.listdir(input_folder)]
 		files_per_thread = math.ceil(len(file_names)/numthreads)
@@ -157,4 +157,4 @@ if __name__ == '__main__':
 		pool = multiprocessing.Pool(processes=numthreads)
 		pool.map(clean,range(1, len(file_names)+1))
 		print("Successfully parsed all files in the input folder")
-		print("Total time taken for the execution is: " + str(time.process_time()- start))
+		print("Total time taken for the execution is: " + str(time.time()- start))

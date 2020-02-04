@@ -1,0 +1,215 @@
+Text
+"hey man did you start with something?
+"
+"no bro  we need the schema before anything otherwise how will we design a login
+"
+"just have a login with email and password and signup with name,email, password, address and phone number
+"
+"cool.
+"
+"and you can make a master page with the ui
+"
+"and after the login, you have to sign up sign in
+"
+"top bottom design
+"
+"yep i'll do this too
+"
+"this is sign up page this is sign in page
+"
+"no both together in different panels
+"
+"yes and i'll tell you the db by evening so you can do ui and i'll do bsckend today fever is one hundred and one anyhow your wish
+"
+"backend includes the db part right?
+"
+"yes db and showing records, editing and all
+"
+"okay then you only handle
+"
+"for login,there needs to be separate login for admin i think
+"
+"and then the login option leads to which page?
+"
+"you can see the doc sent by maam
+"
+"like what all should the page display?
+"
+"home page, shows table of all the buses and maybe search for bus textbox in top
+"
+"we can have the link the top corner or something and then that leads to another content page i think at the top should be calender tags the user can select dates and we have to query it like that and then display those records dynamically in gridview i'll desgin a good gridview and all
+"
+"that's fine
+"
+"proper ui
+"
+"yes the data access code i'll write no problem
+"
+"what does the content page login in let you see
+"
+"check github if you can find some shopping site already for admin?
+"
+"yes sup bro
+"
+"hey man when can you come
+"
+"bro ummm they delayed the timing to 5:30. i'll be done by 6:30ish
+"
+"ok what have you done yet? and where should i do fromstartwork on?
+"
+"nothing . just thought about the layout and the like few pages. don't know bro. i think we have to start together only after deciding all the pages
+"
+"okay then try to come asap after interview bro so we can do something today which interview is this bro?
+"
+"for next sem internship. some company on japan done
+"
+"peace
+"
+"bro what's your room kushagra isn't here bro. i'm waiting here only come
+"
+"i'm here so sorry bro two mins did you start bro? :p
+"
+"yep :p
+"
+"peace how's it going beon bro
+"
+"hey only the admin part is left and for the gridvirws, i did everything i could but since there is no db i can't test it. so you please do that part. otherwise i think it's coming together well
+"
+"yes but did you add the ui colours and look and all? that's nice
+"
+"yep yep everything
+"
+"that's chill then, send it off once you think it's done, i'll do backend in the day today and evening or tomorrow morning we can join anything if needed and finish report
+"
+"yeah so i haven't donr two things so fir the gridviews, the size of the layout is not proper that you'll have to check after excuting the quety and second, i have done validation yet. that i'll add now. except this everything is done
+"
+"got it after you finish validation send it to me i'll do this
+"
+"cool bro. i'll send it after my assignments sap asap
+"
+"cool hey bro by when will you be done?
+"
+"almost done bro
+"
+"peace
+"
+"https:drive.google.comopen?id142c4cvhrjzvyczov9psh1cny86p1mro thoda text ka alignment issue is there but please just go through the entire code so you know what's up
+"
+"cool text alignment in what sense bro?
+"
+"like label is not aligned with the textbook vertically :p just see the site it works a bit
+"
+"trying it its a website right? or project?
+"
+"website
+"
+"cool whats the first page ?
+"
+"main page
+"
+"which pages is this issue in?
+"
+"just go through the thing no you'll see. it's nothin major so just start with the db coffee code
+"
+"how do i go to the second page bro? it doesn't do anything
+"
+"because validation is there username just put anything password between 6-15 char and press either if the logins and for the other same thing, and for email just put x@x
+"
+"got it, when password isn't between 6-15, it gives no error?
+"
+"check the validator maybe something is missing
+"
+"like no error message
+"
+"i did add maybe it's not showing for some reason like validation group might be missing or something
+"
+"the layout is messed up i think man its getting covered
+"
+"has
+"
+"yes layout is messed up otherwise its coming now can you send me photos of the db we drew the three tables in your notebook? theres no logout anywhere bro?
+"
+"oh fuck i forgot that. if you do back then it's basically logging out it was there on the drawing soni forgot yes wait
+"
+"grant edit or upload access to the drive link i'm going to upload all the files back i've added code for login, signup and admin part user part is left so i'll push this code to drive link, you need to download and make the ui proper for it basically it's just aligning the textboxes, labels and the field validators also the gridview for admin buses - where you add buses is huge so make that small - just run through the login page and the two admin pages and make the ui proper bro do this by around 11:30, i'll finish the user code by then and then do the user code ui then we'll work on report call me or pick your call asap
+"
+"bro can you send the . sln fike how do you import this 
+"
+"just leave it why do you need that file just download all the files and open as website in visual studio
+"
+"yeah yeah lol nevermind cool chalo working on it
+"
+"code almost done just cancel booking left
+"
+"alrightt
+"
+"try making the ui fine or else is also chill the one i have is fine
+"
+"i fixed one full page. two to go
+"
+"if you can make it better insane bro i'll only push the code first again once code is done then you take these two other files also and see for ui how much ever can be done and then report bro
+"
+"userpage is the only updated thing right? what about the confirmation thing and bro for query string
+"
+"trips.aspx and book.aspx these two are for user added a confirm.aspx it's done bro using the confirm page working sexy
+"
+"try redirecting it to the same page. so that some code gets executed in pageload and we won't have to make a new page also
+"
+"it's done bro, even ui is done you don't need to do anything about it
+"
+"sorry didn't read sicc  chalo great send the info wala pdf so i know the format for the report
+"
+"what's this the pdf we saw when you came here?
+"
+"yes https:drive.google.comfolderview?id1iyfd1q9grrzxnl741whmth5mr1h1k9e6 bro i can't access multiple pages because i didn't setup the database part can you please take the screenshots
+"
+"all the ui is updated?
+"
+"yepp
+"
+"and my code is also there right bro? nothing got chucked? can i send you screenshots by 12?
+"
+"haha yeah everything is ther
+"
+"after class or you need it abhi ?
+"
+"are we making the report together? :p
+"
+"we can do it bro from 11:30
+"
+"no problem
+"
+"to one in my room
+"
+"assignment
+"
+"you come after that or do one thing make off the report leave the screenshots blank i'll add them send the word doc with the codes copied and intro and conclusion
+"
+"bro we don't have to write lab ten codes na
+"
+"not sure don't think sk we didn't do it
+"
+"okayy
+"
+"do we have to write them?
+"
+"we literally have never done it so f it
+"
+"peace are you studying first two labs?
+"
+"i'm just seeing those bro i don't think it'll come enough marks for other things :p
+"
+"haha true
+"
+"bro when are datakeynames useful
+"
+"updatecommand using gridview
+"
+"bro are slides enough for security and ajax?
+"
+"i'm studying just that
+"
+"sort hey my main nigga happy birthday 
+"
+"thanks a lot bruhhh 
+"

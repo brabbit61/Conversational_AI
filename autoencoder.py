@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import argparse
 import numpy as np
+import time
 from keras.preprocessing.text import Tokenizer
 from keras.callbacks.callbacks import EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 from keras.callbacks.tensorboard_v1 import TensorBoard
@@ -11,6 +12,7 @@ from keras.utils import plot_model, Sequence
 
 
 def def_model(num_words, num_units):
+		global num_units
 		encoder_inputs = Input(shape=(None, num_words))
 		encoder = LSTM(num_units, return_state=True)
 		encoder_outputs, state_h, state_c = encoder(encoder_inputs)
@@ -66,68 +68,80 @@ class DataGenerator(Sequence):
 
         return X, y
 
+if __name__ == '__main__':
+		parser = argparse.ArgumentParser(description="Importing the npz batches")
+		parser.add_argument("--maxlen", type=int, help="The maximum length of any sentence.", default=50)
+		parser.add_argument("--num_words", type=int, help="The number of unique words in the vocabulary.", default=10000)
+		parser.add_argument("--num_units", type=int, help="The number of units in the LSTM network.", default=256)
+		parser.add_argument("--epochs", type=int, help="The number of epochs to run the training for.", default=1)
+		args = parser.parse_args()
 
-parser = argparse.ArgumentParser(description="Importing the npz batches")
-parser.add_argument("--maxlen", type=str, help="The maximum length of any sentence.", default=50)
-parser.add_argument("--num_words", type=str, help="The number of words in the vocabulary.", default=10000)
-parser.add_argument("--num_units", type=str, help="The number of units in the LSTM network.", default=256)
+		maxlen = args.maxlen
+		num_words = args.num_words
+		num_units = args.num_units
+		epochs = args.epochs
 
-args = parser.parse_args()
-maxlen = args.maxlen
-num_words = args.num_words
-num_units = args.num_units
+		train_labels = {}
+		val_labels = {}
+		partition = {}
 
-dataset = pd.read_csv("all_conversations.csv")
-data = [l.strip() for l in list(dataset.iloc[:,1])]
-tokenizer = Tokenizer(num_words=num_words, filters='#$%&*+-/<=>@[\\]^_`{|}~\t\n', split=' ', char_level= False)
-tokenizer.fit_on_texts(data[:])
+		dataset = pd.read_csv("all_conversations.csv")
+		data = [l.strip() for l in list(dataset.iloc[:,1])]
+		tokenizer = Tokenizer(num_words=num_words, filters='#$%&*+-/<=>@[\\]^_`{|}~\t\n', split=' ', char_level= False)
+		tokenizer.fit_on_texts(data[:])
 
-#####################################	Model Description   ##################################
-#model = Sequential()
-x = Input(shape=(maxlen, num_words))
-#m = Bidirectional(LSTM(num_units, activation="relu", input_shape=(None, maxlen, num_words)))(x)
-m = Bidirectional(LSTM(num_units, activation="relu"))(x)
-m = RepeatVector(maxlen)(m)
-m = Bidirectional(LSTM(num_units, activation="relu", return_sequences=True))(m)
-#model.add(Bidirectional(LSTM(num_units, activation="relu", return_sequences=True )))
-#model.add(Bidirectional(LSTM(num_units, activation="relu", return_sequences=True )))
-o = TimeDistributed(Dense(num_words))(m)
-model = Model(inputs=x,outputs=o)
-##############################################################################################
+		#####################################	Model Description   ##################################
+		#model = Sequential()
+		x = Input(shape=(maxlen, num_words))
+		#m = Bidirectional(LSTM(num_units, activation="relu", input_shape=(None, maxlen, num_words)))(x)
+		m = Bidirectional(LSTM(num_units, activation="relu"))(x)
+		m = RepeatVector(maxlen)(m)
+		m = Bidirectional(LSTM(num_units, activation="relu", return_sequences=True))(m)
+		#model.add(Bidirectional(LSTM(num_units, activation="relu", return_sequences=True )))
+		#model.add(Bidirectional(LSTM(num_units, activation="relu", return_sequences=True )))
+		o = TimeDistributed(Dense(num_words))(m)
+		model = Model(inputs=x,outputs=o)
+		##############################################################################################
 
-files = [i for i in os.listdir("cleaned_data_npz")]
-files.sort()
-partition = {}
-l = int(0.85*len(files))
-partition["train"] = [i for i in files[:l]]
-partition["validation"] = [i for i in files[l:]]
-train_labels = {}
-val_labels = {}
-for i in range(l-1):
-		train_labels[files[i]] = files[i+1]
-for i in range(l,len(files)-1):
-		val_labels[files[i]] = files[i+1]
+		files = [i for i in os.listdir("cleaned_data_npz")]
+		files.sort()
+		number_of_samples = int(0.85*len(files))
 
-epochs = 1
-modelcheckpoint = ModelCheckpoint("weights/", monitor="val_acc", save_best_only=False, verbose=1, save_weights_only=True)
-earlystopping = EarlyStopping(monitor="val_loss", min_delta = 0.000001, patience= 1)
-tensorboard = TensorBoard(log_dir=".logdir/")
-reduce_plateau = ReduceLROnPlateau(monitor="val_loss", factor=0.3, patience=1, min_lr = 0.00001)
-val_generator = DataGenerator(partition['validation'], val_labels, batch_size=12)
-train_generator = DataGenerator(partition['train'], train_labels, batch_size=12)
+		partition["train"] = [i for i in files[:number_of_samples]]
+		partition["validation"] = [i for i in files[number_of_samples:]]
+		
+		for i in range(number_of_samples-1):
+				train_labels[files[i]] = files[i+1]
+		for i in range(number_of_samples,len(files)-1):
+				val_labels[files[i]] = files[i+1]
 
-model.compile(loss="mean_squared_logarithmic_error", optimizer="adam")
-history = model.fit_generator(generator=train_generator,epochs = epochs, verbose=1, validation_data = val_generator, use_multiprocessing=True, workers=3, validation_freq=1, validation_steps=1, callbacks=[modelcheckpoint, earlystopping, tensorboard, reduce_plateau])
-model.save("weights/final.h5")
-'''
-for input_file in os.listdir(input_folder):
-		dataset = np.load() 
-tfidf_vectorizer = TfidfVectorizer(use_idf=True, smooth_idf=True)
-#reindexed_data = reindexed_data.values
-document_term_matrix = tfidf_vectorizer.fit_transform(reindexed_data)
-n_topics = 1000 
-lsa_model = TruncatedSVD(n_components=n_topics)
-lsa_topic_matrix = lsa_model.fit_transform(document_term_matrix)
-lsa_keys = get_keys(lsa_topic_matrix)
-lsa_categories, lsa_counts = keys_to_counts(lsa_keys)
-'''
+		modelcheckpoint = ModelCheckpoint("weights/", monitor="val_acc", save_best_only=False, verbose=1, save_weights_only=True)
+		earlystopping = EarlyStopping(monitor="val_loss", min_delta = 0.000001, patience= 1)
+		tensorboard = TensorBoard(log_dir=".logdir/")
+		reduce_plateau = ReduceLROnPlateau(monitor="val_loss", factor=0.3, patience=1, min_lr = 0.00001)
+		val_generator = DataGenerator(partition['validation'], val_labels, batch_size=12)
+		train_generator = DataGenerator(partition['train'], train_labels, batch_size=12)
+
+		model.compile(loss="mean_squared_logarithmic_error", optimizer="adam")
+		history = model.fit_generator(generator=train_generator,
+									  epochs = epochs,
+									  verbose=1,
+									  validation_data = val_generator,
+									  use_multiprocessing=True,
+									  workers=3,
+									  validation_freq=1,
+									  validation_steps=1,
+									  callbacks=[modelcheckpoint, earlystopping, tensorboard, reduce_plateau])
+		model.save("weights/final.h5")
+		'''
+		for input_file in os.listdir(input_folder):
+				dataset = np.load() 
+		tfidf_vectorizer = TfidfVectorizer(use_idf=True, smooth_idf=True)
+		#reindexed_data = reindexed_data.values
+		document_term_matrix = tfidf_vectorizer.fit_transform(reindexed_data)
+		n_topics = 1000 
+		lsa_model = TruncatedSVD(n_components=n_topics)
+		lsa_topic_matrix = lsa_model.fit_transform(document_term_matrix)
+		lsa_keys = get_keys(lsa_topic_matrix)
+		lsa_categories, lsa_counts = keys_to_counts(lsa_keys)
+		'''

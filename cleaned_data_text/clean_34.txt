@@ -1,0 +1,14 @@
+User 1: https:drive.google.comfolderview?id1t5up94hoogno2ekx4fjotrydhhmjzxi the crop-detectionimage is the driver file i haven't sent the model, just the code there are so many files because those were needed for the tensorflow api although i suggest y'all implement yolo v3
+User 2: we'll do that with you yolo
+User 1: i'm planning couple of other things this sem so y'all go ahead with this. good thing is that i have the data and labels already for this
+User 2: cool don't worry even if we do something with it we'll definitely give credits and royalty haha
+User 1:  thanks man let me know how it comes along still working at physiz this sem?
+User 2: yup working full time now when are you in mumbai next ?
+User 1: damn 8th may quite some time front end?
+User 2: areh may long time both now back end and fe abhishek more focused on hardware coding now
+User 1: wah nice man anything happening with ml now? 
+User 2: no not as of now later this year maybe come on board then
+User 1: kismat achi hui toh kabhi nahi
+User 2: damn banda haat bhaada raha apna haat peeche mt rahkna. else.
+User 1: pata nahi yaar he's too fucked in his head. don't know what he's thinking i'm planning to work in a corporate environment. thanks anyway. this is what i replied physiz na ho payega
+User 2: yeah he is unpredictable but the doors will always be open, that's for sure. hahah

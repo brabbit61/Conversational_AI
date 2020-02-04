@@ -1,0 +1,5 @@
+User 1: hello sir. i applied for volunteers for my pcap lab end semester tomorrow but no one had responded so i asked ma'am what i should do for my opencl write up she has allowed me to type that part out and mostly submit a printed copy hod ma'am
+User 2: ok
+User 1: sir i found the problem. i forgot to receive the four elements of one process that's why the program hung
+User 2: ok jetin jetin you have given your pendrive after assign-4. please collect it after you come to manipal.
+User 1: okay sir i will

@@ -1,12 +1,13 @@
-import os
 import re
 import argparse
 import unicodedata
 import inflect
 import time
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 import numpy as np
 from scipy.ndimage.filters import gaussian_filter1d
+import datetime
 
 def remove_non_ascii(words):
     new_words = []
@@ -35,15 +36,16 @@ def preprocess(message):
 	return message
         
 def calculate_stats(file_name):
-	global to_delete, input_file, first_person, timestamp_pattern, forwarded_chat_pattern, second_person, date_pattern
+	global to_delete, input_file, first_person, timestamp_pattern, forwarded_chat_pattern, second_person, date_pattern, all_dates
 	file_name = str(file_name)+ ".txt"
 	first_name = ""
 	second_name = "" 
+	date = ""
+	last = 0
+	message = ""
+	first = 0
+	second = 0
 	with open("all_individual_convos/"+input_file,"r", encoding="utf8") as f:
-			date = ""
-			message = ""
-			first = 0
-			second = 0
 			for line in f.readlines():
 				write = 1
 				for d in to_delete:
@@ -54,10 +56,12 @@ def calculate_stats(file_name):
 					if write:
 						if len(forwarded_chat_pattern.findall(line)) > 0:
 								continue
-						elif len(date_pattern.findall(line)) > 0:
-								if date != date_pattern.findall(line)[0]:
+						elif len(date_pattern.findall(line[:20])) > 0:
+								if date != date_pattern.findall(line[:20])[0]:
 										first_person.append(first)
 										second_person.append(second)
+										if date != "":
+												all_dates.append(datetime.datetime.strptime(date, '%d/%m/%Y'))
 										date = date_pattern.findall(line)[0]
 										first = 0
 										second = 0
@@ -125,10 +129,10 @@ def calculate_stats(file_name):
 					first += len(message.split(' '))
 	first_person.append(first)
 	second_person.append(second)
+	all_dates.append(datetime.datetime.strptime(date, '%d/%m/%Y'))
 	return first_name, second_name
 
 if __name__ == '__main__':
-
 		parser = argparse.ArgumentParser(description="Providing conversation text file names.")
 		parser.add_argument("--input_file", type=str, help="The path to the conversation text file")
 		parser.add_argument("--sigma", type=float, help="The smoothing applied in the graph", default=1)
@@ -149,19 +153,34 @@ if __name__ == '__main__':
 		date_pattern = re.compile("\d{1,2}/\d{1,2}/\d{2,4}")
 		first_person = []
 		second_person = []
+		all_dates = []
+
+
 		start = time.process_time()
 		first_name, second_name = calculate_stats(input_file)
 		print("Total time taken for the execution is: " + str(time.process_time()- start))
+
 		first_person = np.asarray(first_person[1:], dtype=np.int32)
 		second_person = np.asarray(second_person[1:], dtype=np.int32)
+		all_dates = np.asarray(all_dates)
+
+
 		print("Number of distinct days of text: " + str(len(first_person)))
 		frequency_of_texts = first_person + second_person
 		print("Total number of words exchanged: "+ str(sum(frequency_of_texts)))
+
 		f = gaussian_filter1d(first_person, sigma=sigma)
 		s = gaussian_filter1d(second_person, sigma=sigma)
-		fig= plt.figure(figsize=(18,6))
-		plt.plot(f, c='b', label=first_name)
-		plt.plot(s, c='r', label=second_name)
+
+		fig, ax = plt.subplots(figsize=(18,6))
+		locator = mdates.MonthLocator()
+		fmt = mdates.DateFormatter('%b-%y')
+		X = plt.gca().xaxis
+		X.set_major_locator(locator)
+		X.set_major_formatter(fmt)
+		ax.set_xlim(all_dates[0],all_dates[-1])
+		plt.plot(all_dates,f, c='b', label=first_name)
+		plt.plot(all_dates,s, c='r', label=second_name)
 		plt.ylabel('Number of words exchanged everyday')
 		plt.xlabel('Time')
 		plt.legend()

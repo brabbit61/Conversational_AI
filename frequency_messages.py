@@ -3,17 +3,19 @@ import re
 import argparse
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import datetime
 from scipy.ndimage.filters import gaussian_filter1d
 import time
 
 def calculate_stats(input_file):
-		global timestamp_pattern, to_delete, forwarded_chat_pattern, date_pattern, first_person, second_person
+		global timestamp_pattern, to_delete, forwarded_chat_pattern, date_pattern, first_person, second_person, all_dates
 		first = 0
 		second = 0
+		first_name = ""
+		second_name = "" 
+		date = ""
 		with open("all_individual_convos/"+input_file,"r", encoding="utf8") as f:
-			first_name = ""
-			second_name = "" 
-			date = ""
 			for line in f.readlines():
 				write = 1
 				for d in to_delete:
@@ -24,10 +26,12 @@ def calculate_stats(input_file):
 					if write:
 						if len(forwarded_chat_pattern.findall(line)) > 0:
 							continue
-						elif len(date_pattern.findall(line)) > 0:
-							if date != date_pattern.findall(line)[0] :
+						elif len(date_pattern.findall(line[:20])) > 0:
+							if date != date_pattern.findall(line[:20])[0] :
 								first_person.append(first)
 								second_person.append(second)
+								if date != "":
+										all_dates.append(datetime.datetime.strptime(date,'%d/%m/%Y'))
 								date = date_pattern.findall(line)[0]
 								first = 0
 								second = 0
@@ -63,6 +67,7 @@ def calculate_stats(input_file):
 					pass
 		first_person.append(first)
 		second_person.append(second)
+		all_dates.append(datetime.datetime.strptime(date, '%d/%m/%Y'))
 		return first_name, second_name
 
 
@@ -85,20 +90,29 @@ if __name__ == '__main__':
 		date_pattern = re.compile("\d{1,2}/\d{1,2}/\d{2,4}")
 		first_person = []
 		second_person = []
+		all_dates = []
 		start = time.process_time()
 		first_name, second_name = calculate_stats(input_file)
 		print("Total time taken for the execution is: " + str(time.process_time()- start))
 		first_person = np.asarray(first_person[1:], dtype=np.int32)
 		second_person = np.asarray(second_person[1:], dtype=np.int32)
+		all_dates = np.asarray(all_dates)
 		print("Number of distinct days of texts: "+ str(len(first_person)))
 		frequency_of_texts = first_person + second_person
 		print("Total number of messages exchanged: " + str(sum(frequency_of_texts)))
 		f = gaussian_filter1d(first_person, sigma=sigma)
 		s = gaussian_filter1d(second_person, sigma=sigma)
-		fig= plt.figure(figsize=(18,6))
-		plt.plot(f, c='b')
-		plt.plot(s, c='r')
+		fig, ax = plt.subplots(figsize=(18,6))
+		locator = mdates.MonthLocator()
+		fmt = mdates.DateFormatter('%b-%y')
+		X = plt.gca().xaxis
+		X.set_major_locator(locator)
+		X.set_major_formatter(fmt)
+		ax.set_xlim(all_dates[0],all_dates[-1])
+		plt.plot(all_dates,f, c='b', label=first_name)
+		plt.plot(all_dates,s, c='r', label=second_name)
 		plt.ylabel('Number of text messages everyday')
 		plt.xlabel('Time')
+		plt.legend()
 		plt.show()
 

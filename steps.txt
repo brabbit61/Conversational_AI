@@ -7,3 +7,15 @@
 
 to get all the requirements:
 pipreqs /home/jenitjain/Desktop/NLP_Project/
+
+
+Method:
+All the sentences are converted to sequence of numbers.
+Sentences that are shorter than MAXLEN words long are pre-padded with 0s
+Sentences that are longer than MAXLEN words are broken down into sequential sequences and then saved
+
+Problems: 
+The sentences might that are longer than MAXLEN words are then treated as input/output pair which might create confusion in the autoencoder as it is the continuation of the same message and is not a proper reply to the input sentence. Test the output for this approach. If it is not good enough try the following fix.
+
+Fix:
+Try to make an autoencoder for all sentences where the output of the autoencoder is the same as the input. After this use the fixed 1D vector that the encoder model encodes the input sentence into as the input sequence and then train the LSTM network for sequence to sequence model. The output of this model can then be fed into the Decoder model to get the output sequence of the sentence which can then be converted into words using the tokenizer that is saved.

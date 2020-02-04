@@ -3,6 +3,11 @@ import argparse
 import os
 import numpy as np
 from keras.preprocessing.text import Tokenizer
+import pickle
+
+def save_tokenizer(tokenizer):
+		with open('tokenizer.pickle', 'wb') as handle:
+				pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 if __name__ == '__main__':
 		parser = argparse.ArgumentParser(description="Converting text files to excel")
@@ -16,6 +21,8 @@ if __name__ == '__main__':
 
 
 		m=0 #Stores the length of the longest sentence
+		l = ""
+		x = ""
 		all_conversations = []
 		for input_file in os.listdir(input_folder):
 				with open(input_folder+input_file,"r") as f:
@@ -43,6 +50,7 @@ if __name__ == '__main__':
 		data = [l.strip() for l in list(D.iloc[:,0])]
 		tokenizer = Tokenizer(num_words=num_words, filters='#$%&*+-/<=>@[\\]^_`{|}~\t\n', split=' ', char_level= False)
 		tokenizer.fit_on_texts(data[:])
+		save_tokenizer(tokenizer)
 		x = tokenizer.word_counts
 		one = 0
 		two = 0
