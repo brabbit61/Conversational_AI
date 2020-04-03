@@ -35,6 +35,30 @@ def preprocess(message):
 	message = remove_non_ascii(message.split(' '))		
 	return message
         
+
+def post_processing():
+	global first_person, second_person, all_dates
+	
+	first_date = all_dates[0]
+	last_date = all_dates[-1]
+
+	total_days = (last_date - first_date).days
+	
+	final_dates = [all_dates[0]]
+	final_first_person = [first_person[0]]
+	final_second_person = [second_person[0]]
+	for i in range(1,total_days):
+		new_date = final_dates[i-1] + datetime.timedelta(days=1)
+		final_dates.append(new_date)
+		if new_date in all_dates:
+			index = all_dates.index(new_date)
+			final_first_person.append(first_person[index])
+			final_second_person.append(second_person[index])
+		else:
+			final_first_person.append(0)
+			final_second_person.append(0)
+	return final_first_person, final_second_person, final_dates	
+	
 def calculate_stats(file_name):
 	global to_delete, input_file, first_person, timestamp_pattern, forwarded_chat_pattern, second_person, date_pattern, all_dates
 	file_name = str(file_name)+ ".txt"
@@ -48,8 +72,8 @@ def calculate_stats(file_name):
 	with open("all_individual_convos/"+input_file,"r", encoding="utf8") as f:
 			for line in f.readlines():
 				write = 1
-				for d in to_delete:
-					if d in line:
+				for sentence in to_delete:
+					if sentence in line:
 						write = 0
 						break
 				try:
@@ -154,23 +178,22 @@ if __name__ == '__main__':
 		first_person = []
 		second_person = []
 		all_dates = []
-
-
-		start = time.process_time()
+		
+		start = time.time()
 		first_name, second_name = calculate_stats(input_file)
-		print("Total time taken for the execution is: " + str(time.process_time()- start))
+		print("Total time taken for the execution is: " + str(time.time()- start))
+		
+		first_person = first_person[1:]
+		second_person = second_person[1:]
 
-		first_person = np.asarray(first_person[1:], dtype=np.int32)
-		second_person = np.asarray(second_person[1:], dtype=np.int32)
-		all_dates = np.asarray(all_dates)
+		first_person, second_person, all_dates = post_processing()
 
+		first_person = np.asarray(first_person, dtype=np.int32).reshape((1,len(first_person)))
+		second_person = np.asarray(second_person, dtype=np.int32).reshape((1,len(second_person)))
+		all_dates = np.asarray(all_dates).reshape((1,len(all_dates)))
 
-		print("Number of distinct days of text: " + str(len(first_person)))
-		frequency_of_texts = first_person + second_person
-		print("Total number of words exchanged: "+ str(sum(frequency_of_texts)))
-
-		f = gaussian_filter1d(first_person, sigma=sigma)
-		s = gaussian_filter1d(second_person, sigma=sigma)
+		f = gaussian_filter1d(first_person[0], sigma=sigma)
+		s = gaussian_filter1d(second_person[0], sigma=sigma)
 
 		fig, ax = plt.subplots(figsize=(18,6))
 		locator = mdates.MonthLocator()
@@ -178,9 +201,9 @@ if __name__ == '__main__':
 		X = plt.gca().xaxis
 		X.set_major_locator(locator)
 		X.set_major_formatter(fmt)
-		ax.set_xlim(all_dates[0],all_dates[-1])
-		plt.plot(all_dates,f, c='b', label=first_name)
-		plt.plot(all_dates,s, c='r', label=second_name)
+		ax.set_xlim(all_dates[0][0],all_dates[0][-1])
+		plt.plot(all_dates[0],f, c='b', label=first_name)
+		plt.plot(all_dates[0],s, c='r', label=second_name)
 		plt.ylabel('Number of words exchanged everyday')
 		plt.xlabel('Time')
 		plt.legend()
