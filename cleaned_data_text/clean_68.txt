@@ -1,32 +1,32 @@
-User 1: .
-User 2: yo dude nihal here coukd u plz send the link pred problem she did in class?
+User 1:  .
+User 2: yo dude nihal here . coukd u plz send the link pred problem she did in class ?
 User 1: yep just a min
-User 2: thanks a lot dude thanks again dude yo dude largest connected component based on no of edges? or nodes
+User 2: thanks a lot dude . thanks again dude . yo dude . largest connected component based on no of edges ? . or nodes
 User 1: nodes
 User 2: thanks fam
-User 1: but why do you need to find the largest component?
-User 2: it's given on slides a unsolved question
-User 1: accha. alright cool i thought another concept that idk 
-User 2:  thanks again this was one
-User 1: so it is the left one or the right?
-User 2: omfg  who knows now 
+User 1: but why do you need to find the largest component ?
+User 2: it's given on slides . a unsolved question
+User 1: accha . alright cool . i thought another concept that idk 
+User 2:  . thanks again . this was one
+User 1: so it is the left one or the right ?
+User 2: omfg .  . who knows now 
 User 1: nahi ayega
-User 2: i guess edges also play a role then i'll ask on group nibs for u freeman shit
-User 1: haha yeah found the same question in my book as well. thanks
-User 2: cool ans is 2142
-User 1: no bro check your degrees again since it's directed, degree  in  out your degree of i is wrong
-User 2: omg thanks man u forgot h 2042
+User 2: i guess edges also play a role then . i'll ask on group . nibs for u . freeman shit
+User 1: haha yeah found the same question in my book as well . thanks
+User 2: cool . ans is 2142
+User 1: no bro . check your degrees again . since it's directed, degree  in  out . your degree of i is wrong
+User 2: omg . thanks man . u forgot h . 2042
 User 1: accha ha thanks
-User 2: yo dude bottom sentence
-User 1: arghhh
-User 2: lol when we count the no of unique words, and singular "cat" and plural "cats" as same?
-User 1: this i think no and this yes
+User 2: yo dude . bottom sentence
+User 1: argh
+User 2: lol . when we count the no of unique words, . and singular "cat" and plural "cats" as same ?
+User 1: this i think no . and this yes
 User 2: cool thanks dude
 User 1: but dw they won't give such cases
-User 2: hopefully  hey dude in sna , if there is a missing value do we consider it as non matching or do we ignore it?
-User 1: bro i actually missed a lot of classes with this topic. but i think you take it as partial match partial non match or something like that can't really help you here sorry 
-User 2: np xd so dude did u ask how many bunks for semino
-User 1: i bunked today also  i have six bunks bro i'm fucked i'll go talk to ancilla on monday
-User 2: cool xd i have four tho dude do u have spectral algo problems and markov
+User 2: hopefully  . hey dude . in sna , if there is a missing value do we consider it as non matching or do we ignore it ?
+User 1: bro i actually missed a lot of classes with this topic . but i think you take it as partial match partial non match or something like that . can't really help you here sorry 
+User 2: np xd . so dude . did u ask how many bunks . for semino
+User 1: i bunked today also  . i have six bunks bro i'm fucked . i'll go talk to ancilla on monday
+User 2: cool . xd . i have four tho . dude do u have spectral algo . problems . and markov
 User 1: no
 User 2: xd

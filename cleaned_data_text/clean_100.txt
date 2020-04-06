@@ -1,27 +1,27 @@
-User 1: hey jenit! im vanshita! how are you now? ive got to know that you need help in writing the exam. i dont mind doing it. do let me know!
-User 2: hey vanshita thank you so much for the help i really appreciate it :) i have exams on the 6th, 8th and so on will you be free around that time?
-User 1: yes, i ll be free on 6th and 9th
-User 2: sounds great. the paper will be at 5:45pm in ab5, mit
-User 1: alright perfect!
-User 2: the one on 6th contains follow charts kinda things so that's going to be a talk. it called computer design. again, thanks a ton!
-User 1: anytime! i ll see you on 6th then?
-User 2: yep! see you then :) almost forgot i'll text you tomorrow for few details that i have to submit at my college thanks 
-User 1: sure sure!
-User 2: hey! i have to submit your information to the associate director so can you please send me your reg id, year and section. thank you :)
-User 1: hey! very good morning! did i just forget to tell you that im from soc
-User 2: that's kind of a prerequisite haha. moreover i knew that. arav asked siddhi to forward the message so plus i have met you before so that time i was told that you're in soc guess lol
-User 1: wait, what! how?
-User 2: yakshrats birthday? last year
-User 1: veridian? or hakuna? hashtag?
-User 2: verdian stoner room i was there too
-User 1: on diwali?
-User 2: hakuna one sorry biryani :')
-User 1: oh of course chalo thats good to know see you tomorrow then!
-User 2: hey morning! dw you don't have to remember anything but we'll be doing similar things so i thought you should at least be familiarized
-User 1: yeah yeah! you did it right today at 5.45 na?
-User 2: let's meet by 5:30 outside ab5?
-User 1: cool hey im reaching in ten
-User 2: yep me too look for a handicap around there hey i'm here
-User 1: im too! where are you?
-User 2: thank you so much :) heya exam is in ab1 today instead
+User 1: hey jenit ! im vanshita ! how are you now ? ive got to know that you need help in writing the exam . i dont mind doing it . do let me know !
+User 2: hey vanshita . thank you so much for the help . i really appreciate it . :) . i have exams on the 6th, 8th and so on . will you be free around that time ?
+User 1: yes, i ll be free on 6th . and 9th
+User 2: sounds great . the paper will be at 5:45pm in ab5, mit
+User 1: alright perfect !
+User 2: the one on 6th contains follow charts kinda things so that's going to be a talk . it called computer design . again, thanks a ton !
+User 1: anytime ! i ll see you on 6th then ?
+User 2: yep ! see you then :) . almost forgot . i'll text you tomorrow for few details that i have to submit at my college . thanks 
+User 1: sure sure !
+User 2: hey ! . i have to submit your information to the associate director so can you please send me your reg id, year and section . thank you :)
+User 1: hey ! . very good morning ! . did i just forget to tell you that im from soc
+User 2: that's kind of a prerequisite haha . moreover i knew that . arav asked siddhi to forward the message so . plus i have met you before so that time i was told that you're in soc . guess lol
+User 1: wait, what ! how ?
+User 2: yakshrats birthday ? . last year
+User 1: veridian ? or hakuna ? . hashtag ?
+User 2: verdian stoner room . i was there too
+User 1: on diwali ?
+User 2: hakuna one sorry . biryani :')
+User 1: oh . of course . chalo thats good to know . see you tomorrow then !
+User 2: hey morning ! . dw you don't have to remember anything . but we'll be doing similar things . so i thought you should at least be familiarized
+User 1: yeah yeah ! you did it right . today at 5 .45 na ?
+User 2: let's meet by 5:30 outside ab5 ?
+User 1: cool . hey im reaching in ten
+User 2: yep me too . look for a handicap around there . hey i'm here
+User 1: im too ! where are you ?
+User 2: thank you so much :) . heya . exam is in ab1 today instead
 User 1: hey

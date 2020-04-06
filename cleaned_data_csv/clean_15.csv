@@ -1,243 +1,122 @@
 Text
-"got into dsc?
-"
-"ye me sarthak arijit
-"
-"lol nice yo wish me at twelve
-"
-"happy birthday dumbass  f ik u do this
-"
-"so vasvi again from what i hear tellll have you taken ai
-"
-"yep
-"
-"who else
-"
-"no idea
-"
-"oye kaunsa theorbroma jaldi bata madarchod
-"
-"o koi sa bhi jo mood kare
-"
-"tere liye imaginary lauga
-"
-"woh bhi chalega 
-"
-"informed search is the last thing
-"
-"my textbook doesn't have it's old lolz i had the first edition it's from third edition
-"
-"apu
-"
-"ye wat up
-"
-"is naive bayes classifier linear or non linear and in it the number of training instances per class changes the output na what is this called? local something na like some technical word is it called class likelihood
-"
-"log likelihood?
-"
-"not used in bayes theorem right
-"
-"bayes likelihood is different no prior, likelihood and estimator are the three things for bayes right
-"
-"arre but in bayes there's a thing like right that if a particular class instances are more in the training set then that class is more likely to be predicted
-"
-"that's because your prior is higher no
-"
-"because the class likelihood is more? and this?
-"
-"non linear
-"
-"because it doesn't have any specific weighted sum of the inputs that's why right what elective are you selecting
-"
-"cv
-"
-"happy birthday apu
-"
-"thanks bro 3
-"
-"dude what model can i use where both input and output is text lstm or rnn only i'll have to us no
-"
-"ya good choice
-"
-"which gtx do you have
-"
-"one thousand and sixty
-"
-"and how many marks in pcap today
-"
-"will get gud marks
-"
-"seriously fuck do you have an internship?
-"
-"ye i haz internship why u askin
-"
-"where? cos i broke af nigga fucked for the vacation needed ideas to move forward or i'll end up wasting it.
-"
-"rip worcester polytechnic institute
-"
-"us meh hi rehja chutiya research i wanna start
-"
-":c
-"
-"tell me the process tomorrow or whenever you free. and this i'm literally counting on you and seeing the start of the year, you please don't let my year go as shitty as the start love you thanks
-"
-"wat what process
-"
-"how to go about doing the research part. idk help
-"
-"what'd you wanna know research isn't a stand alone field man the only way i encountered it was doing something to solve a specific problem and on the way i figured out a slightly different method that people hadn't tried yet or seemed like it wouldn't work took me 112 years to confirm it actually worked :
-"
-"which was a tiny dataset, so your problem was how to get a larger training dataset and what things can be done? right?
-"
-"not really no
-"
-"did you publish it?
-"
-"not yet, need more data moved my stack to tpus
-"
-"nevermind then lol kiska bc
-"
-"trying to speed up the process google free credits
-"
-"you're going to continue with this at your internship? accha ha i recently used their gpus. too ez
-"
-"i'll be using it in the internship will cite my own paper aw yis
-"
-" accha so over there you'll do something different?
-"
-"a little different but overall very similar
-"
-"ooo. so finally i'm tired of coursera. prolly not going to do more than a course or 2. already did ten so what should i do ? what i'm planning on for a couple of weeks is to perfect my older projects to tune them with whatever better i learned but i want do something worthwhile. especially that'll help me for my master's application any suggestions? you deleted this message boi. while selecting which model to pick in cv, should i select one with larger map or smaller val loss?
-"
-"depends if evaluation is same for both cases, then this situation shouldn't arise it's not possible only if both were evaluated on the same thing if they're evaluated on different sets then check how many images it was actually evaluated on if there's slightly lower map for a significantly larger val set, choose that
-"
-"it was for the same set. i didn't know this fact. basically trying to implement yolo.
-"
-"i don't think it's possible smaller val loss should equal higher map unless there's a high class imbalance maybe nah actually even then it wouldn't be possible
-"
-"oh i realized what i messed up. i mistook val loss for training loss nevermind map is calculated for only the training set right? or you can select?
-"
-"map for val matters that's all you could calculate map for training but it has no significance really you could check if your model is underfit or overfit though high map for training, shit for eval means overfit af
-"
-"accha cool cool thanks
-"
-"bet exam kill me
-"
-"killing you before that exam would have really saved you a lotta trouble tru
-"
-"i was sick also should have ended me
-"
-"why the fuck are you going home on the night of the photoshoot are you fucking retarded why you like this
-"
-"gotta go home boi can't do anything
-"
-"go on 7th??? anyway your going to reach on 7th
-"
-"no man have a meeting on 7th morning that's why going on 6th
-"
-"manas?
-"
-"nah iisc
-"
-"accha internship?
-"
-"ye prof wanted to meet
-"
-"akli baar skype ki id dedio
-"
-"de chuka usko personal meeting chahiye
-"
-"i hear that it's alright i'll miss you it's irritating how you're missing everything theek hai kar kar love you
-"
-"happy birthday dickhead
-"
-"thanks cunt when deciding the length of sentence to take for an input you have to truncate it right because all the sentence in the dataset are different size.
-"
-"pad usually people will find max length of a sequence and pad everything else or you can pass nones too pad in batches but inter-batch can have variable lengths
-"
-"how?
-"
-"you'll have to write your own batching function for this group similar lengths together
-"
-"this i understood but how will you input different length batches in the same model
-"
-"tf.keras lets you you can pass none type for length in an lstm i think just cross-check once
-"
-"oh oh okay i'll checkk 2019-11-03 23:26:35.772366: e tensorflowcoregrappleroptimizersmetaoptimizer.cc:533 modelpruner failed: invalid argument: mutablegraphview::mutablegraphview error: node 'losstimedistributed1lossmeansquarederrorweightedlossconcat' has self cycle fanin 'losstimedistributed1lossmeansquarederrorweightedlossconcat'. 2019-11-03 23:26:35.902219: e tensorflowcoregrappleroptimizersdependencyoptimizer.cc:697 iteration  0, topological sort failed with message: the graph couldn't be sorted in topological order. please to help thanks luv
-"
-"aise kaise bolu boss this probably means you have a cycle in your graph
-"
-"can i send you my model summary and code for archi it's pretty short and cute
-"
-"do you have tf.nn activations anywhere
-"
-"i'm using keras and in that i'm giving activations
-"
-"wb concat are you using it anywhere
-"
-"repeatvector i'm using
-"
-"which tf version are you using could try rolling back the version
-"
-"i'm running it on collab anyway which version to use
-"
-"any previous version
-"
-"cool i'll check something thanks
-"
-"1.16 or sumthn actually no try downgrading all the way to one error might be because of an activation preceded by a concat tho apparently
-"
-"mind explaining
-"
-"idk man i googled they said iz vug bug who knos
-"
-"loll even i didn't get it
-"
-"why'd you call
-"
-"i was harshas place only. thought i'd swing by and say hi and offer you some pizza
-"
-"oh rip i was out cold
-"
-"it wasn't even ten
-"
-"hadn't slept had end sem lab so instead of studying was watching videos all night
-"
-"how did your exam go bro i got 1030 in execution
-"
-"wtf xd how do you know you got 1030 mine went well i think, got the output
-"
-"we had marks written on our paperm so she ticked next to ten marks lel full no?
-"
-"mayb
-"
-"toh full only youre getting chut
-"
-"write galat hai xd write up
-"
-"madarchod you never told me you're dating vasvi! sorry for being so mean
-"
-"relx man
-"
-"bolhi deta pehle you in bangalore only no?
-"
-"ye visa hasn't come yet
-"
-"werent you doing iisc only?
-"
-"nono iisc till my visa came
-"
-"ohh otherwise where you going
-"
-"i'm going to ntu in feb
-"
-"ooooo okay then we drink this weekend then.
-"
-"bastard  how many times have you already gotten drunk in bangalore
-"
-"no i'm flying on saturday i've never been to blore  new decade new me i've changed 
-"
-"fuck off  how many times have you gotten drunk already regardless of where you were
-"
-"zero well since my mom caught my pot stash at home  yeah man manipal drama is following up like always 
-"
+got into dsc ?
+ye . me sarthak arijit
+lol nice . yo . wish me at twelve
+happy birthday dumbass .  . f . ik u do this
+so vasvi again from what i hear . tell . have you taken ai
+yep
+who else
+no idea
+oye . kaunsa theorbroma . jaldi bata
+o . koi sa bhi . jo mood kare
+tere liye imaginary lauga
+woh bhi chalega .
+informed search is the last thing
+my textbook doesn't have . it's old . lolz . i had the first edition . it's from third edition
+apu
+ye wat up
+is naive bayes classifier linear or non linear . and in it the number of training instances per class changes the output na . what is this called ? . local something na . like some technical word . is it called class likelihood
+log likelihood ?
+not used in bayes theorem right
+"bayes likelihood is different no . prior, likelihood and estimator are the three things for bayes right"
+arre but in bayes there's a thing like right that if a particular class instances are more in the training set then that class is more likely to be predicted
+that's because your prior is higher no
+because the class likelihood is more ? . and this ?
+non linear
+because it doesn't have any specific weighted sum of the inputs that's why right . what elective are you selecting
+cv
+happy birthday apu
+thanks bro 3
+dude . what model can i use where both input and output is text . lstm or rnn only i'll have to us no
+ya good choice
+which gtx do you have
+one thousand and sixty
+and how many marks in pcap today
+will get gud marks
+seriously fuck . do you have an internship ?
+ye . i haz internship . why u askin
+where ? . cos i broke af nigga . fucked for the vacation . needed ideas to move forward or i'll end up wasting it .
+rip . worcester polytechnic institute
+us meh hi rehja chutiya . research i wanna start
+:c
+"tell me the process tomorrow or whenever you free . and this i'm literally counting on you and seeing the start of the year, you please don't let my year go as shitty as the start . love you thanks"
+wat . what process
+how to go about doing the research part . idk . help
+what'd you wanna know . research isn't a stand alone field man . the only way i encountered it was doing something to solve a specific problem . and on the way i figured out a slightly different method that people hadn't tried yet . or seemed like it wouldn't work . took me 112 years to confirm it actually worked . :
+"which was a tiny dataset, so your problem was how to get a larger training dataset and what  things can be done ? right ?"
+not really no
+did you publish it ?
+"not yet, need more data . moved my stack to tpus"
+nevermind then lol . kiska bc
+trying to speed up the process . google . free credits
+you're going to continue with this at your internship ? . accha ha i recently used their gpus . too ez
+i'll be using it in the internship . will cite my own paper . aw yis
+. accha so over there you'll do something different ?
+a little different . but overall very similar
+"o . so finally . i'm tired of coursera . prolly not going to do more than a course or 2 . already did 10 . so what should i do  ? . what i'm planning on for a couple of weeks is to perfect my older projects to tune them with whatever better i learned . but i want do something worthwhile . especially that'll help me for my master's application . any suggestions ? . you deleted this message . boi . while selecting which model to pick in cv, should i select one with larger map or smaller val loss ?"
+"depends . if evaluation is same for both cases, then this situation shouldn't arise . it's not possible only if both were evaluated on the same thing . if they're evaluated on different sets then check how many images it was actually evaluated on . if there's slightly lower map for a significantly larger val set, choose that"
+it was for the same set . i didn't know this fact . basically trying to implement yolo .
+i don't think it's possible . smaller val loss should equal higher map . unless there's a high class imbalance maybe . nah actually even then it wouldn't be possible
+oh i realized what i messed up . i mistook val loss for training loss nevermind . map is calculated for only the training set right ? . or you can select ?
+"map for val matters . that's all . you could calculate map for training but it has no significance really . you could check if your model is underfit or overfit though . high map for training, shit for eval means overfit af"
+accha cool cool . thanks
+bet exam . kill me
+killing you before that exam would have really saved you a lotta trouble tru
+i was sick also . should have ended me
+why the fuck are you going home on the night of the photoshoot . are you fucking retarded . why you like this
+gotta go home boi . can't do anything
+go on 7th ? ? . anyway your going to reach on 7th
+no man . have a meeting on 7th morning . that's why going on 6th
+manas ?
+nah . iisc
+accha . internship ?
+ye . prof wanted to meet
+akli baar skype ki id dedio
+de chuka . usko personal meeting chahiye
+i hear that . it's alright . i'll miss you . it's irritating how you're missing everything . theek hai kar kar love you
+happy birthday head
+thanks cunt . when deciding the length of sentence to take for an input you have to truncate it right because all the sentence in the dataset are different size .
+pad . usually people will find max length of a sequence and pad everything else . or you can pass nones too . pad in batches but inter-batch can have variable lengths
+how ?
+you'll have to write your own batching function for this . group similar lengths together
+this i understood but how will you input different length batches in the same model
+tf .keras lets you . you can pass none type for length in an lstm . i think . just cross-check once
+"oh oh okay i'll checkk . 2019-11-03 e modelpruner failed: invalid argument: error: node has self cycle fanin 2019-11-03 e iteration  0, topological sort failed with message: the graph couldn't be sorted in topological order . please to help thanks luv"
+aise kaise bolu boss . this probably means you have a cycle in your graph
+can i send you my model summary . and code for archi . it's pretty short and cute
+do you have tf .nn activations anywhere
+i'm using keras and in that i'm giving activations
+wb concat . are you using it anywhere
+repeatvector i'm using
+which tf version are you using . could try rolling back the version
+i'm running it on collab anyway . which version to use
+any previous version
+cool i'll check something thanks
+1 .16 or sumthn . actually no . try downgrading all the way to 1 . error might be because of an activation preceded by a concat tho apparently
+mind explaining
+idk man i googled they said iz vug . bug . who knos
+loll even i didn't get it
+why'd you call
+i was harshas place only . thought i'd swing by and say hi and offer you some pizza
+oh rip . i was out cold
+it wasn't even ten
+hadn't slept . had end sem lab so instead of studying . was watching videos all night
+how did your exam go . bro i got 1030 in execution
+"wtf xd . how do you know you got 1030 . mine went well i think, got the output"
+we had marks written on our paperm so she ticked next to ten marks lel . full no ?
+mayb
+toh full only youre getting chut
+write galat hai xd . write up
+. you never told me you're dating vasvi ! . sorry for being so mean
+relx man
+bolhi deta pehle . you in bangalore only no ?
+ye . visa hasn't come yet
+werent you doing iisc only ?
+nono . iisc till my visa came
+oh otherwise where you going
+i'm going to ntu in feb
+oo . okay then . we drink this weekend then .
+bastard  . how many times have you already gotten drunk in bangalore
+no . i'm flying on saturday . i've never been to blore  . new decade new me . i've changed .
+fuck off  . how many times have you gotten drunk already regardless of where you were
+0 . well since my mom caught my  stash at home  . yeah man manipal drama is following up like always

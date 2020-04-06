@@ -1,7 +1,7 @@
-User 1: hello sir. this is jenit. are you conducting the assignment tomorrow?
+User 1: hello sir . this is jenit . are you conducting the assignment tomorrow ?
 User 2: hi jenit, i am taking it this saturday
-User 1: okay thank you sir. sir where is the resessional going to be conducted
-User 2: ab one 303, 335,336  three hundred and thirty-seven i have shared the details with vasvi
-User 1: thank you sir hello sir, is depreciation the last topic or are the various ratios the last thing in the syllabus
+User 1: okay thank you sir . sir where is the resessional going to be conducted
+User 2: ab one 303, 335,336  337 . i have shared the details with vasvi
+User 1: thank you sir . hello sir, is depreciation the last topic or are the various ratios the last thing in the syllabus
 User 2: break even and financial mgmt
 User 1: okay thank you sir

@@ -1,31 +1,31 @@
-User 1: 172.16.59.125 :8000 for access bro what's the command to open your pc to connections?
-User 2: connections? ifconfig?
-User 1: no no the python thing?
-User 2: python -m simplehttpserver eight thousand
-User 1: chal thanks a lot. you tell me your port number and ip once you do it okay?
+User 1: 172 .16 .59 .125 . :8000 for access . bro what's the command to open your pc to connections ?
+User 2: connections ? . ifconfig ?
+User 1: no no the python thing ?
+User 2: python -m eight thousand
+User 1: chal thanks a lot . you tell me your port number and ip once you do it okay ?
 User 2: yas
-User 1: sort sort.
+User 1: sort sort .
 User 2: get the watch today please
-User 1: yes boss.
+User 1: yes boss .
 User 2: thanks fam
-User 1: rcb.amrit@gmail.com and which book to study from also you tell. 
+User 1: and which book to study from also you tell . 
 User 2: fundamentals of financial management
-User 1: yup got that. just a reminder message because i'll forget otherwise 
-User 2:  same number right
-User 1: yup. you sent money from some harshit saxena guy?
+User 1: yup got that . just a reminder message because i'll forget otherwise 
+User 2:  . same number right
+User 1: yup . you sent money from some harshit saxena guy ?
 User 2: yepp
-User 1: cool thanks. 
+User 1: cool thanks . 
 User 2: bro you have tez right
-User 1: yeah why?
-User 2: bro tez your share to vaibhav na , one hundred bucks even i'm sending one hundred i'm not telling sahil because he did extra work and i don't want to piss him off before end sems
-User 1:  alright done. give.me his number na. done.
-User 2:  limitations and improvements:
-User 1: itna kaafi hain?
-User 2: it's only a small part na i'll send pics yoo
-User 1: alright. you're finding the results ka graph right?
-User 2: it's fine i'll make the graphs and send just n vs time.rigjt
-User 1: yup i think so.
-User 2: bro just crop the graph and put it in the report
-User 1: will do boss bro that 9th mcq in last year's paper how is it d?
-User 2: because p is basically the location of x and since p (x) is on the lhs of  that's why definition of the two
+User 1: yeah why ?
+User 2: bro tez your share to vaibhav na , one hundred bucks . even i'm sending 100 . i'm not telling sahil because he did extra work and i don't want to piss him off before end sems
+User 1:  . alright done . give .me his number na . done .
+User 2:  . limitations and improvements:
+User 1: itna kaafi hain ?
+User 2: it's only a small part na . i'll send pics yoo
+User 1: alright . you're finding the results ka graph right ?
+User 2: it's fine i'll make the graphs and send . just n vs time .rigjt
+User 1: yup i think so .
+User 2: bro just  crop the graph and put it in the report
+User 1: will do boss . bro that 9th mcq in last year's paper . how is it d ?
+User 2: because p is basically the location of x . and since p (x) is on the lhs of   that's why definition of the two
 User 1: thanks bro

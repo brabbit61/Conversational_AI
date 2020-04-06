@@ -11,9 +11,18 @@ def save_tokenizer(tokenizer):
 
 if __name__ == '__main__':
 		parser = argparse.ArgumentParser(description="Converting text files to excel")
-		parser.add_argument("--input_folder", type=str, help="The path to the folder with processed conversations.", default="cleaned_data_text/")
-		parser.add_argument("--output_folder", type=str, help="The path to the folder with processed conversations.", default="cleaned_data_csv/")
-		parser.add_argument("--num_words", type=str, help="The top n words to keep in the vocabulary.", default=10000)
+		parser.add_argument("--input_folder", 
+							type=str, 
+							help="The path to the folder with processed conversations.", 
+							default="cleaned_data_text/")
+		parser.add_argument("--output_folder", 
+							type=str, 
+							help="The path to the folder with processed conversations.", 
+							default="cleaned_data_csv/")
+		parser.add_argument("--num_words", 
+							type=int, 
+							help="The top n words to keep in the vocabulary.", 
+							default=9000)
 		args = parser.parse_args()
 		input_folder = args.input_folder
 		output_folder = args.output_folder
@@ -29,8 +38,8 @@ if __name__ == '__main__':
 						sequences = []
 						count = 0
 						for line in f.readlines():
-								sequences.append(line[8:])
-								all_conversations.append(line[8:])
+								sequences.append(line[8:].strip())
+								all_conversations.append(line[8:].strip())
 								count += 1
 								if len(line[8:]) > m:
 										x = input_file #File name containing the longest sentence
@@ -48,8 +57,9 @@ if __name__ == '__main__':
 		print("\n\nMessage: "+l)
 
 		data = [l.strip() for l in list(D.iloc[:,0])]
-		tokenizer = Tokenizer(num_words=num_words, filters='#$%&*+-/<=>@[\\]^_`{|}~\t\n', split=' ', char_level= False)
+		tokenizer = Tokenizer(num_words=num_words, filters='1234567890#&*+-/<=>@[\]^(\"\')_`{|}~\t\n',lower=True, split=' ', char_level= False)
 		tokenizer.fit_on_texts(data[:])
+		print(len(tokenizer.word_index))
 		save_tokenizer(tokenizer)
 		x = tokenizer.word_counts
 		one = 0

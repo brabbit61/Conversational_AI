@@ -8,11 +8,13 @@ import multiprocessing
 import math
 
 def remove_non_ascii(words):
-    new_words = []
-    for word in words:
-        new_word = unicodedata.normalize('NFKD', word).encode('ascii', 'ignore').decode('utf-8', 'ignore')
-        new_words.append(new_word)
-    return ' '.join(new_words)
+		new_words = []
+		for word in words:
+				if len(word) > 15:
+						continue
+				new_word = unicodedata.normalize('NFKD', word).encode('ascii', 'ignore').decode('utf-8', 'ignore')
+				new_words.append(new_word)
+		return ' '.join(new_words)
 
 
 def replace_numbers(words):
@@ -28,7 +30,7 @@ def replace_numbers(words):
     return ' '.join(new_words)
 
 def preprocess(message):
-	message = replace_numbers(message.split())
+	message = replace_numbers(message.split(' '))
 	message = re.sub('[#$%&*+/<=>[\]^_{|}~]','',message)
 	message = message.strip().lower()
 	message = remove_non_ascii(message.split(' '))		
@@ -87,7 +89,7 @@ def clean(file_name):
 						if len(first_name_pattern.findall(line))>0:
 							if last == 1:
 								colon = line.index(":",line.index("-"))
-								message = message + " " + line[colon+2:].strip()
+								message = message + ". " + line[colon+2:].strip()
 							else:
 								last = 1
 								message = preprocess(message)
@@ -99,7 +101,7 @@ def clean(file_name):
 						elif len(second_name_pattern.findall(line))>0:
 							if last == 2:
 								colon = line.index(":",line.index("-"))
-								message = message + " " + line[colon+2:].strip()
+								message = message + ". " + line[colon+2:].strip()
 							else:
 								last = 2
 								message = preprocess(message)
@@ -137,6 +139,8 @@ if __name__ == '__main__':
 		to_delete = [
 					"Messages to this chat and calls are now secured with end-to-end encryption",
 					"<Media omitted>",
+					"Missed video call",
+					"Missed voice call",
 					"(file attached)",
 					"You're currently chatting with their new number. Tap to add it to your contacts.",
 					"This message was deleted",
